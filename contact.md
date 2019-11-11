@@ -20,27 +20,16 @@ scripts: |
         <input type="email" class="form-control" name="email" id="contactform-email" placeholder="" value="" required>
       </div>
       <div class="form-group">
-        <label for="recipient">Recipient</label>
+        <label for="subject">Subject</label>
         <div class="input-group">
-          <select class="form-control" name="recipient" id="contactform-recipient" required>
+          <select class="form-control" name="subject" id="contactform-subject" required>
             <option value="">Select One</option>
-            <option value="membership">Membership</option>
-            <option value="events">Events</option>
-            <option value="ordeal">Ordeal</option>
-            <option value="brotherhood">Brotherhood</option>
-            <option value="service">Service</option>
-            <option value="unitelections">Unit Elections</option>
-            <option value="communications">Communications / Other</option>
+            <option value="Summer Camp">Summer Camp</option>
+            <option value="Reservations">Reservations</option>
+            <option value="Fall Fest">Fall Fest</option>
+            <option value="Training">Training</option>
+            <option value="Other">Other</option>
           </select>
-          <div class="input-group-append">
-            <div class="input-group-text">@UnamiLodge.org</div>
-          </div>
-        </div>
-      </div>
-      <div class="card" id="contactform-card">
-        <div class="card-body">
-          <h5 class="card-title" id="recipient-name">Select Recipient</h5>
-          <p class="card-text" id="recipient-description">Select a recipient to learn how that committee may be able to help you!</p>
         </div>
       </div>
     </div>
@@ -63,5 +52,3 @@ scripts: |
     </div>
   </div>
 </form>
-
-For more options, a complete list of Unami Lodge Leadership is available on our [Contact List Page](contactlist).
