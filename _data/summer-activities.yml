@@ -1,36 +1,36 @@
 - name: Archery
-  thumbnail: example.png
+  thumbnail: archery.jpg
   description: Test your prowess at hitting the bull’s eye using a bow and arrow. We have bows in various sizes and configurations to match the skill and size of our campers.  Earn level 1 and 2 Shooting Sports award for each rank and earn each patch and pin.
 - name: Slingshots
-  thumbnail: example.png
+  thumbnail: slingshot.jpg
   description: The Slingshot range is a great place for your Scouts to demonstrate those target skills. Earn level 1 and 2 Shooting Sports award for each rank and earn each patch and pin.
 - name: BB Range
-  thumbnail: example.png
+  thumbnail: bb.jpg
   description: The BB range is equipped with pump action rifles. Learn how to shoot and handle a firearm safely from our certified Director and staff while getting to shoot at targets.  Earn level 1 and 2 Shooting Sports award for each rank and earn each patch and pin.
-- name: Lake Front
-  thumbnail: example.png
+- name: Boating
+  thumbnail: boating.jpg
   description: Take a ride on Unami Lake in one of the camp’s Corcls, canoes, rowboats, or paddle boats. Scouts classified as “Swimmers” may take out any of our watercraft. “Beginners” and “Non-Swimmers” are allowed to ride as passengers in a boat with an adult “Swimmer”. Feel free to take out a paddle boat for a lazy tour around our beautiful lake while enjoying all that nature has to offer.  In addition to boating, Scouts can also go fishing along the Unami Creek. Our lake front staff will teach you the basics so you can enjoy your time fishing.
 - name: Handicraft
-  thumbnail: example.png
+  thumbnail: handicraft.jpg
   description: This area will allow you to make your own crafts using a wide variety of materials on hand such as beads, gimp, leather, paint, paper, and wood. Come learn to safely use the various tools for these different mediums, and make your very own Cub Adventures souvenirs and gifts. Craft project kits can also be purchased at the Trading Post and then assembled with the aid of our knowledgeable Handicraft staff.
-- name: Nature/Ecology
-  thumbnail: example.png
+- name: Nature
+  thumbnail: nature.jpg
   description: Take the time to enjoy the flora and fauna at camp by strolling along our Nature Trail either on your own or on a guided staff tour. Camp Hart has numerous plants and flowers unique to this area. Also be sure to check out our Nature Lodge. You never know what kind of interesting specimens will be on display.
 - name: Pool
-  thumbnail: example.png
+  thumbnail: pool.jpg
   description: Being one of the most refreshing areas in camp, here you can relax, cool down, and get a little sun. For safety, along with using the Buddy System, our pool is divided into three sections – shallow, intermediate, and deep – to accommodate the differing swimming skill levels of our campers. “Swimmers” are allowed in all areas of the pool; “Beginners” can swim anywhere except in the deep section; and “Non-Swimmers” can hang out in the shallow end to simply cool down, or learn to swim!  All participants can attend Polar Bear.
-- name: Scoutcraft/Outdoor Skills
-  thumbnail: example.png
+- name: Scoutcraft
+  thumbnail: scoutcraft.jpg
   description: Learn how to tie knots, build a fire, cook outdoors, or lash together a pioneering project. This is the place to practice all those useful outdoor Scout skills and get a head start on joining Scouts BSA.
 - name: STEM
-  thumbnail: example.png
+  thumbnail: stem.jpg
   description: Come experience Science and Technology in this hands-on Program area.  Scouts will gain a better understanding of the world around them.  Cub Scouts will get a chance to learn about programing using our Ozobots, explore Space by viewing a show in our very own Planetarium, Earth Sciences, and so much more.
 - name: Bouldering
-  thumbnail: example.png
+  thumbnail: bouldering.jpg
   description: Scouts will learn how to safely climb on our bouldering wall and how to safely climb on natural rock piles.
 - name: BMX Bikes
-  thumbnail: example.png
+  thumbnail: bmx.jpg
   description: Test your biking skills on our track or learn how to safely ride a BMX bike, sure to challenge and excite all age levels!
 - name: Native American Village
-  thumbnail: example.png
+  thumbnail: nav.jpg
   description: The Native American Village is a great place for your Scouts to explore Native American Lore, Native American Games, and Fishing. Scouts will get to learn these skills and games hands on.
