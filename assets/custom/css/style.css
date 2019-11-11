@@ -60,20 +60,24 @@
   --oa-white: #FFFFFF;
   --oa-black: #030006;
   --oa-grey:#36454F;
+  --musser-blue: #005596;
+  --musser-grey: #0B3954;
+  --musser-red: #E63946;
   --cubscout-blue: #003F87;
   --cubscout-yellow: #FCD116;
 
   --site-white: var(--oa-white);
   --site-black: var(--oa-black);
-  --site-primary: var(--cubscout-blue);
-  --site-accent-dark: var(--oa-grey);
-  --site-accent-light: var(--cubscout-blue);
+  --site-primary: var(--musser-blue);
+  --site-accent-dark: var(--musser-grey);
+  --site-accent-light: var(--musser-red);
 
   --page-background: var(--site-white);
   --page-text: var(--site-black);
   --nav-background: var(--site-primary);
   --nav-links: var(--site-white);
   --nav-links-hover: var(--oa-grey);
+  --footer-background: var(--musser-grey);
 }
 
 
@@ -319,7 +323,7 @@ footer .list-inline {
 }
 
 .footer-main {
-  background: #36454F;
+  background: var(--footer-background);
 }
 
 .footer-sub {
