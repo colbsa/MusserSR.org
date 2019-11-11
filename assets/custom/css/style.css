@@ -72,7 +72,7 @@
   --site-accent-dark: var(--musser-grey);
   --site-accent-light: var(--musser-red);
 
-  --page-background: var(--site-white);
+  --page-background: #DDD;
   --page-text: var(--site-black);
   --nav-background: var(--site-primary);
   --nav-links: var(--site-white);
