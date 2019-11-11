@@ -8,12 +8,12 @@ slides:
   img/slider/slider-dinner.png: 
 
 button-bar:
-  Cub Adventures: /electedcandidates
-  Fall Fest: /dues
-  Winter Camping: /brotherhood     
+  Cub Adventures: 
+  Fall Fest: 
+  Winter Camping: 
 
 quick-links:
-  Lodge Calendar: /calendar
-  Lodge Trading Post: /tradingpost
+  Register for Summer Camp: 
+  Weekend Rentals: 
   Contact Us: /contact
 ---
