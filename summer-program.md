@@ -16,20 +16,3 @@ Both Overnight options start each day with a Polar Bear Swim being offered at 7a
 
 <h2>Day Camp</h2>
 A week long, Monday through Friday program that is great for those younger Scouts -- Tiger through Bear (1st – 3rd graders)  not ready for Overnight Camp yet and those that want more Scout programs without the overnight component.  Program begins at 9am daily Monday-Friday and ends at 4pm daily.  Lunch is provided for all day campers each day.
-
-
-{% for program in site.data.summer-programs %}
-<div class="card my-3">
-  <div class="row">
-    <div class="col-md-3">
-      <img src="/img/summer/{{program.thumbnail}}" class="w-100">
-    </div>
-    <div class="col-md-9 p-3">
-      <div class="card-block px-3">
-        <h2 class="card-title">{{program.name}}</h2>
-        <p class="card-text">{{program.description}}</p>
-      </div>
-    </div>
-  </div>
-</div>
-{% endfor %}
