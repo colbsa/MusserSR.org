@@ -118,6 +118,9 @@ blockquote {
   font-style: italic;
   color: #868e96;
 }
+hr {
+  border-top: 5px solid var(--site-accent-dark);
+}
 iframe {
   margin-bottom: 0.5rem;
 }
