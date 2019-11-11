@@ -124,6 +124,9 @@ hr {
 iframe {
   margin-bottom: 0.5rem;
 }
+.table-striped {
+  background: var(--oa-white);
+}
 .section-heading {
   font-size: 36px;
   font-weight: 700;
