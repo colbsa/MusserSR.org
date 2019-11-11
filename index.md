@@ -9,7 +9,7 @@ slides:
 
 button-bar:
   Register For Summer Camp: /summer/register
-  Reserve a Cabin: /facilities/book
+  Weekend Rentals: /facilities/book
   Volunteer in Camp: /volunteer
 
 quick-links:
