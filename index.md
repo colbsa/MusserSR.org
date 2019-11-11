@@ -8,9 +8,9 @@ slides:
   img/slider/slider-dinner.png: 
 
 button-bar:
-  Cub Adventures: 
-  Fall Fest: 
-  Winter Camping: 
+  Cub Adventures: #
+  Fall Fest: #
+  Winter Camping: #
 
 quick-links:
   Register for Summer Camp: 
