@@ -7,18 +7,16 @@ permalink: /summer/register
 <div class="row">
   <div class="col">
     <h2 class="text-center">Day Camp</h2>
-    <table class="table table-striped my-3 text-center">
+    <table class="table table-striped my-3 ">
       <tbody>
           <tr>
             <td>Early Bird: $185 per Youth / $50 per Adult</td>
-            </tr>
+          </tr>
           <tr>
             <td>Regular: $200 per Youth / $50 per Adult</td>
           </tr>
           <tr>
-            <td>
-              Additional Weeks of Day Camp: $160 per Week
-            </td>
+            <td>Additional Weeks of Day Camp: $160 per Week</td>
           </tr>
       </tbody>
     </table>
@@ -75,8 +73,15 @@ permalink: /summer/register
           <tr>
             <td>Regular: $215 per Youth / $80 per Adult</td>
           </tr>
+          <tr>
+            <td>Additional Weekend: $190 per Youth</td>
+          </tr>
       </tbody>
     </table>
+    <div class="text-center">
+      <strong>Receive 1 free adult for every 5 youth!</strong><br>
+      <em>All Early Bird rates end May 1, 2020.</em>
+    </div>
   </div>
   <div class="col">
     <table class="table table-striped my-3 text-center">
@@ -89,23 +94,18 @@ permalink: /summer/register
       </thead>
       <tbody>
           <tr>
-            <td>Week 1</td>
-            <td>June 29 - July 3</td>
+            <td>Weekend 1</td>
+            <td>June 25 - June 28</td>
             <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
           </tr>
           <tr>
-            <td>Week 2</td>
-            <td>June 22 - June 26</td>
+            <td>Weekend 2</td>
+            <td>July 9 - July 12</td>
             <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
           </tr>
           <tr>
-            <td>Week 3</td>
-            <td>July 6 - July 10</td>
-            <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
-          </tr>
-          <tr>
-            <td>Week 4</td>
-            <td>July 13 - July 17</td>
+            <td>Weekend 3</td>
+            <td>July 16 - July 19</td>
             <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
           </tr>
       </tbody>
@@ -128,6 +128,10 @@ permalink: /summer/register
           </tr>
       </tbody>
     </table>
+    <div class="text-center">
+      <strong>Receive 1 free adult for every 5 youth!</strong><br>
+      <em>All Early Bird rates end May 1, 2020.</em>
+    </div>
   </div>
   <div class="col">
     <table class="table table-striped my-3 text-center">
@@ -141,22 +145,7 @@ permalink: /summer/register
       <tbody>
           <tr>
             <td>Week 1</td>
-            <td>June 29 - July 3</td>
-            <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
-          </tr>
-          <tr>
-            <td>Week 2</td>
-            <td>June 22 - June 26</td>
-            <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
-          </tr>
-          <tr>
-            <td>Week 3</td>
-            <td>July 6 - July 10</td>
-            <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
-          </tr>
-          <tr>
-            <td>Week 4</td>
-            <td>July 13 - July 17</td>
+            <td>July 19 – July 24</td>
             <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
           </tr>
       </tbody>
