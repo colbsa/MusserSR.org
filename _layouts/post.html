@@ -13,9 +13,9 @@
         <img class="img-fluid rounded" src="/img/posts/banners/{{page.banner}}" alt="">
         {% endif %}
         <hr>
-            <i class="fa fa-clock-o"></i> {{ page.date | date: '%B %d, %Y' }}
+            <i class="far fa-clock"></i> {{ page.date | date: '%B %d, %Y' }}
             {% if page.author %}
-            <i class="fa fa-user-o pl-5"></i> {{page.author}}
+            <i class="far fa-user pl-5"></i> {{page.author}}
             {% endif %}
         <hr>
         {{content}}

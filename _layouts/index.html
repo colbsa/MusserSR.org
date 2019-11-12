@@ -25,7 +25,7 @@
               <p class="card-text">{{post.excerpt}}</p>
             </div>
             <div class="card-footer">
-              <i class="fa fa-clock-o"></i> {{ post.date | date: '%B %d, %Y' }}
+              <i class="far fa-clock"></i> {{ post.date | date: '%B %d, %Y' }}
             </div>
           </div>
         </div>
@@ -38,7 +38,7 @@
         <div class="card-body">
           {% assign highlighted_events = site.data.events | where:"highlight", "true" %}
           {% for event in highlighted_events %}
-            <a href="{{ event.link-url }}"><i class="fa fa-calendar pr-2 text-body"></i>{{ event.title }}</a></br>
+            <a href="{{ event.link-url }}"><i class="far fa-calendar pr-2 text-body"></i>{{ event.title }}</a></br>
           {% endfor %}
         </div>
       </div>
@@ -57,7 +57,7 @@
         <h5 class="card-header">More News</h5>
         <div class="card-body">
           {% for post in site.posts limit:4 offset:2 %}
-            <a href="{{ BASE_PATH }}{{ post.url }}"><i class="fa fa-newspaper-o pr-2 text-body"></i>{{ post.title }}</a></br>
+            <a href="{{ BASE_PATH }}{{ post.url }}"><i class="far fa-newspaper pr-2 text-body"></i>{{ post.title }}</a></br>
           {% endfor %}
             <a href="/news">Read More</a>
         </div>
