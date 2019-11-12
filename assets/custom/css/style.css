@@ -31,7 +31,7 @@ body {
   color: var(--page-text);
   background-color: var(--page-background);
   font-family: 'myriad-pro', sans-serif;
-  padding-top: 100px;
+  padding-top: 70px;
 }
 p {
   line-height: 1.5;
@@ -195,7 +195,7 @@ iframe {
 /* spacing on large screens */
 @media (min-width: 992px) {
   .navbar-light, .bg-light {
-    height: 100px;
+    height: 70px;
   }
   .dropdown-menu{
     padding: 1em 0 0.5em 0;

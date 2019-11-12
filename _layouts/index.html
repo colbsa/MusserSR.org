@@ -31,6 +31,7 @@
         </div>
     {% endfor %}
     <div class="col-lg-4 col-md-10 mx-auto">
+      {% comment %}
       <!-- Upcoming Events -->
       <div class="card mb-3">
         <h5 class="card-header">Upcoming Events</h5>
@@ -41,6 +42,7 @@
           {% endfor %}
         </div>
       </div>
+      {% endcomment %}
       <!-- Quick Links -->
       <div class="card mb-3">
         <h5 class="card-header">Quick Links</h5>
@@ -50,17 +52,16 @@
           {% endfor %}
         </div>
       </div>
-      {% comment %}
       <!-- More News -->
       <div class="card mb-3">
-        <h5 class="card-header"><a href="/news">More News</a></h5>
+        <h5 class="card-header">More News</h5>
         <div class="card-body">
           {% for post in site.posts limit:4 offset:2 %}
             <a href="{{ BASE_PATH }}{{ post.url }}"><i class="fa fa-newspaper-o pr-2 text-body"></i>{{ post.title }}</a></br>
           {% endfor %}
+            <a href="/news">Read More</a>
         </div>
       </div>
-      {% endcomment %}
     </div>
   </div>
 </div>
