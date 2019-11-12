@@ -3,7 +3,14 @@
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   {% if jekyll.environment == "prod" %}
-  <!-- Placeholder for Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-96198154-4"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-96198154-4');
+  </script>
   {% endif %}
 
   <meta charset="utf-8">
