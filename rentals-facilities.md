@@ -2,9 +2,18 @@
 title: Reserve a Facility
 layout: page
 permalink: /rentals/facilities
+scripts: |
+  <script src="//cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+  <script src="//cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready( function () {
+        $('#facilitiesTable').DataTable();
+    } );
+  </script>
+
 ---
 
-<table class="table table-striped table-responsive">
+<table class="table table-striped table-responsive" id="facilitiesTable">
   <thead>
     <tr class="text-nowrap">
       <th scope="col">Name</th>
@@ -59,4 +68,26 @@ permalink: /rentals/facilities
     </tr>
   {%- endfor -%}
   </tbody>
+  <tfoot>
+    <tr class="text-nowrap">
+      <th scope="col">Name</th>
+      <th scope="col">Camp</th>
+      <th scope="col">Type</th>
+      <th scope="col">Cost</th>
+      <th scope="col"><abbr title="Capacity">Cap</abbr></th>
+      <th scope="col"><abbr title="Adirondacks">Adir</abbr></th>
+      <th scope="col">Cots</th>
+      <th scope="col"><abbr title="Electricity">Elec</abbr></th>
+      <th scope="col">Heat</th>
+      <th scope="col">Stove</th>
+      <th scope="col"><abbr title="Refrigerator">Ref</abbr></th>
+      <th scope="col">Water</th>
+      <th scope="col">Restroom</th>
+      <th scope="col">Fireplace</th>
+      <th scope="col">Pavilion</th>
+      <th scope="col">Firepit</th>
+      <th scope="col">Parking</th>
+      <th scope="col">Cub Friendly</th>
+    </tr>
+  </tfoot>
 </table>
