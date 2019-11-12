@@ -6,8 +6,12 @@ permalink: /summer/register
 
 <div class="row">
   <div class="col">
-    <h2 class="text-center">Day Camp</h2>
     <table class="table table-striped my-3 ">
+      <thead class="text-center">
+        <tr>
+          <th scope="col"><h2 class="my-0">Day Camp</h2></th>
+        </tr>
+      </thead>
       <tbody>
           <tr>
             <td>Early Bird: $185 per Youth / $50 per Adult</td>
@@ -64,8 +68,12 @@ permalink: /summer/register
 
 <div class="row">
   <div class="col">
-    <h2 class="text-center">Weekend Overnight</h2>
     <table class="table table-striped my-3 ">
+      <thead class="text-center">
+        <tr>
+          <th scope="col"><h2 class="my-0">Weekend Overnight</h2></th>
+        </tr>
+      </thead>
       <tbody>
           <tr>
             <td>Early Bird: $200 per Youth / $80 per Adult</td>
@@ -117,8 +125,12 @@ permalink: /summer/register
 
 <div class="row">  
   <div class="col">
-    <h2 class="text-center">Full-Week Overnight</h2>
     <table class="table table-striped my-3 ">
+      <thead class="text-center">
+        <tr>
+          <th scope="col"><h2 class="my-0">Full-Week Overnight</h2></th>
+        </tr>
+      </thead>
       <tbody>
           <tr>
             <td>Early Bird: $355 per Youth / $135 per Adult</td>
