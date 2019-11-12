@@ -38,22 +38,22 @@ permalink: /summer/register
           <tr>
             <td>Week 1</td>
             <td>June 29 - July 3</td>
-            <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
+            <td><a class="btn btn-primary btn-block" href="#">Coming Soon</a></td>
           </tr>
           <tr>
             <td>Week 2</td>
             <td>June 22 - June 26</td>
-            <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
+            <td><a class="btn btn-primary btn-block" href="#">Coming Soon</a></td>
           </tr>
           <tr>
             <td>Week 3</td>
             <td>July 6 - July 10</td>
-            <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
+            <td><a class="btn btn-primary btn-block" href="#">Coming Soon</a></td>
           </tr>
           <tr>
             <td>Week 4</td>
             <td>July 13 - July 17</td>
-            <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
+            <td><a class="btn btn-primary btn-block" href="#">Coming Soon</a></td>
           </tr>
       </tbody>
     </table>
@@ -96,17 +96,17 @@ permalink: /summer/register
           <tr>
             <td>Weekend 1</td>
             <td>June 25 - June 28</td>
-            <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
+            <td><a class="btn btn-primary btn-block" href="#">Coming Soon</a></td>
           </tr>
           <tr>
             <td>Weekend 2</td>
             <td>July 9 - July 12</td>
-            <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
+            <td><a class="btn btn-primary btn-block" href="#">Coming Soon</a></td>
           </tr>
           <tr>
             <td>Weekend 3</td>
             <td>July 16 - July 19</td>
-            <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
+            <td><a class="btn btn-primary btn-block" href="#">Coming Soon</a></td>
           </tr>
       </tbody>
     </table>
@@ -146,7 +146,7 @@ permalink: /summer/register
           <tr>
             <td>Week 1</td>
             <td>July 19 – July 24</td>
-            <td><a class="btn btn-primary btn-block" href="#">Register Now!</a></td>
+            <td><a class="btn btn-primary btn-block" href="#">Coming Soon</a></td>
           </tr>
       </tbody>
     </table>
