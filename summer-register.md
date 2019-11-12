@@ -152,4 +152,3 @@ permalink: /summer/register
     </table>
   </div>
 </div>
-
