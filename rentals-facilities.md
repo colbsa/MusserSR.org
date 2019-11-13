@@ -13,6 +13,24 @@ scripts: |
 
 ---
 
+<div class="card my-3">
+  <div class="row">
+    <div class="col-md-3">
+      <img src="https://via.placeholder.com/500" class="w-100">
+    </div>
+    <div class="col-md-9 p-3">
+      <div class="card-block px-3">
+        <h2 class="card-title">Cabins and Campsites</h2>
+        <p class="card-text">Musser Scout Reservation hosts {{site.data.lodging.size}} cabins and campsites available for rental. See their accomodations listed below. Facilities that are "Cub Friendly" are singled out for their heating and availability of water year-round.</p>
+        <p>
+          <a class="btn btn-primary">Book Now!</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+## Facilities
 <table class="table table-striped table-responsive" id="facilitiesTable">
   <thead>
     <tr class="text-nowrap">
@@ -90,4 +108,76 @@ scripts: |
       <th scope="col">Cub Friendly</th>
     </tr>
   </tfoot>
+</table>
+
+## Special Event Venues
+
+<table class="table table-striped table-responsive">
+  <thead>
+    <tr class="text-nowrap">
+      <th scope="col">Name</th>
+      <th scope="col">Cost</th>
+      <th scope="col"><i class="fas fa-home"></i></th>
+      <th scope="col"><i class="fas fa-campground"></i></th>
+      <th scope="col">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">Musser Scout Reservation</td>
+      <td>&dollar;3400</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td scope="row">Camp Delmont</td>
+      <td>&dollar;750</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td scope="row">Camp Garrison</td>
+      <td>&dollar;1000</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td scope="row">Camp Hart</td>
+      <td>&dollar;1150</td>
+      <td></td>
+      <td></td>
+      <td>Includes Dining Hall and Kitchen</td>
+    </tr>
+    <tr>
+      <td scope="row">Camp Hart Dining Hall</td>
+      <td>&dollar;125</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td scope="row">Camp Hart Dining Hall &amp; Kitchen</td>
+      <td>&dollar;250</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td scope="row">Nelson Training Center</td>
+      <td>&dollar;500</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td scope="row">Nelson Scouting Ceremony</td>
+      <td>&dollar;100</td>
+      <td></td>
+      <td></td>
+      <td>For an approximately 3 hour ceremony or other event. Not available to book longer than a month in advance</td>
+    </tr>
+  </tbody>
 </table>
