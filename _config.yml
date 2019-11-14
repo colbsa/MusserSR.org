@@ -17,9 +17,3 @@ pagination:
   limit: false
   per_page: 6
   title_suffix: " - Page :num"
-
-page_gen:
-  - data: 'chapters'
-    template: 'chapters'
-    name: 'email'
-    dir: 'chapters'
