@@ -8,6 +8,8 @@ We offer 3 unique programs throughout the summer at Musser Scout Reservation.  W
 <h2>Day Camp</h2>
 A week long, Monday through Friday program that is great for those younger Scouts -- Tiger through Bear (1st – 3rd graders)  not ready for Overnight Camp yet and those that want more Scout programs without the overnight component.  Program begins at 9am daily Monday-Friday and ends at 4pm daily.  Lunch is provided for all day campers each day.
 
+[Bussing is available for Day Campers](/summer/bus)
+
 <h2>Weekend Overnight Camp</h2>
 Starts Thursday evening and runs through Sunday afternoon giving you 3 nights and 3 days to enjoy program at Musser.  A great option for younger Cub Scouts – Tiger through Bear (1st – 3rd graders) and families that can not take a full week off work but can take 1-2 days off.
 

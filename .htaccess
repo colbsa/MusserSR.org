@@ -77,3 +77,5 @@ Options All -Indexes
 #####
 ErrorDocument 404 /404/index.html
 ErrorDocument 403 /403/index.html
+
+Redirect /bussing /summer/bus
