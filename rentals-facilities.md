@@ -52,7 +52,7 @@ scripts: |
   <tbody>
   {% for facility in site.data.lodging %}
     <tr>
-      <td scope="row">{{facility.name}}</td>
+      <td class="text-nowrap" scope="row">{{facility.name}}</td>
       <td>{{facility.camp}}</td>
       <td>{% if facility.cabin %}&check;{% endif %}</td>
       <td>{% if facility.site %}&check;{% endif %}</td>
