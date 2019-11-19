@@ -30,12 +30,12 @@ Are you 14 years old, or 15 and can't commit for the whole summer? [Check out ou
 </div>
 <div class="row">
   <div class="col">
-    <p><strong>"I worked on staff for five Summers. When I went to college, it felt like I was living in a dorm full of babies. Most of them had never lived away from Mom, washed their own clothes or had a real job. Working on staff put me far ahead of the rest of the students."</strong></p>
-    <p><strong>"30 years later and my best friends are still the guys I was on camp staff with."</strong></p>
+    <p>"I worked on staff for five Summers. When I went to college, it felt like I was living in a dorm full of babies. Most of them had never lived away from Mom, washed their own clothes or had a real job. Working on staff put me far ahead of the rest of the students."</p>
+    <p>"30 years later and my best friends are still the guys I was on camp staff with."</p>
   </div>
   <div class="col">
-    <p><strong>"I’ve been in Scouting for a long time and have a lot of great memories. When I get together with my friends, the stories we tell and the friendships we talk about seem to revolve around our time on camp staff."</strong></p>
-    <p><strong>"My time on staff helped me decide to become a school teacher."</strong></p>
-    <p><strong>"I met my wife working on camp staff."</strong></p>
+    <p>"I’ve been in Scouting for a long time and have a lot of great memories. When I get together with my friends, the stories we tell and the friendships we talk about seem to revolve around our time on camp staff."</p>
+    <p>"My time on staff helped me decide to become a school teacher."</p>
+    <p>"I met my wife working on camp staff."</p>
   </div>
 </div>
