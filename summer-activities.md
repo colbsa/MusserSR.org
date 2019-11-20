@@ -8,7 +8,7 @@ permalink: /summer/activities
 <div class="card my-3">
   <div class="row">
     <div class="col-md-3">
-      <img src="/img/summer/{{program.thumbnail}}" class="w-100">
+      {% picture thumb /img/summer/{{program.thumbnail}} --img class="w-100" %}
     </div>
     <div class="col-md-9 p-3">
       <div class="card-block px-3">

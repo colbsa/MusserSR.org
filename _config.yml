@@ -1,13 +1,17 @@
 name: Musser Scout Reservation
 title: Musser Scout Reservation
-logo: "_img/logo.png"
+logo: "/img/logo.png"
 description: "Musser Scout Reservation is Cradle of Liberty Council's closest scout camp, service thousands of scouts for their camping needs and even more Cub Scouts as a Summer Camp."
 
 plugins:
   - octopress-paginate
+  - jekyll_picture_tag
 
 url: http://127.0.0.1:4000
 baseurl:
+
+picture:
+  nomarkdown: false
 
 recaptcha: 6LdmHcIUAAAAAMMBaaQiAMhIn25IwZQC7Xeb2byD
 
