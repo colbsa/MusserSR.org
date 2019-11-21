@@ -250,11 +250,11 @@ footer .list-inline {
 }
 
 .footer .copyright a {
-  color: white;
+  color: var(--site-white);
 }
 
 .footer .copyright a:hover {
-  color: #003F87;
+  color: var(--cubscout-blue);
 }
 
 .footer {
@@ -262,7 +262,7 @@ footer .list-inline {
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  color: #ffffff;
+  color: var(--site-white);
   /* padding-top: 25px; */
 }
 
@@ -310,13 +310,13 @@ ul.footer-links li {
 }
 
 ul.footer-links li * {
-  color: #ffffff;
+  color: var(--site-white);
   text-decoration: none;
   transition: all 0.25s;
 }
 
 ul.footer-links li:hover * {
-  color: #003F87;
+  color: var(--cubscout-blue);
 }
 
 .footer-socialmedia {
@@ -327,11 +327,11 @@ ul.footer-links li:hover * {
   padding-right: 5px;
   font-size: 30px;
   transition: all 0.25s;
-  color: #FFFFFF;
+  color: var(--site-white);
 }
 
 .footer-socialmedia i:hover {
-  color: #003F87;
+  color: var(--cubscout-blue);
 }
 
 .list-group > .list-group-item > .fa.fa-chevron-right {
