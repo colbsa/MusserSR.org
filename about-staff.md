@@ -5,17 +5,17 @@ permalink: /staff
 images:
   - /img/summer/staff.jpg
   - /img/summer/staff-paradefield.jpg
-underimg: <a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/">Click Here to Submit an Application</a>
+underimg: <a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/">Submit an Application</a>
 bottom: |
   <div class="col alert alert-primary">
     <h2>Quotes from Staff</h2>
   </div>
   <div class="row">
-    <div class="col">
+    <div class="col-sm-6">
       <p>"I worked on staff for five Summers. When I went to college, it felt like I was living in a dorm full of babies. Most of them had never lived away from Mom, washed their own clothes or had a real job. Working on staff put me far ahead of the rest of the students."</p>
       <p>"30 years later and my best friends are still the guys I was on camp staff with."</p>
     </div>
-    <div class="col">
+    <div class="col-sm-6">
       <p>"I’ve been in Scouting for a long time and have a lot of great memories. When I get together with my friends, the stories we tell and the friendships we talk about seem to revolve around our time on camp staff."</p>
       <p>"My time on staff helped me decide to become a school teacher."</p>
       <p>"I met my wife working on camp staff."</p>
