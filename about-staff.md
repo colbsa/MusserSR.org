@@ -26,7 +26,7 @@ If you're ready to join us for a summer of fun at Musser, apply today!
 Are you 14 years old, or 15 and can't commit for the whole summer? [Check out our CIT Program.](/cit)
 
 <div class="col alert alert-primary">
-  <h2>Staff on the Staff</h2>
+  <h2>Quotes from Staff</h2>
 </div>
 <div class="row">
   <div class="col">
