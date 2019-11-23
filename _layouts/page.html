@@ -5,9 +5,29 @@
   <div class="row">
     <div class="col mx-auto">
       <h1>{{page.title}}</h1>
-      {{content}}
+      {% unless page.images %} {{content}} {% endunless %}
     </div>
   </div>
+  {% if page.images %}
+  <div class="row">
+    <div class="col-8">
+      {{content}}
+    </div>
+    <div class="col-4">
+      {% for img in page.images %}
+      {% picture thumb {{img}} --img class="img-fluid rounded mb-2" %}
+      {% endfor%}
+      {% if page.underimg %} {{page.underimg}} {% endif %}
+    </div>
+  </div>
+  {% if page.bottom %}
+  <div class="row">
+    <div class="col mx-auto">
+      {{page.bottom}}
+    </div>
+  </div>
+  {% endif %}
+  {% endif %}
 </div>
 
 {% include page_footer.html %}
