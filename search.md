@@ -10,7 +10,7 @@ scripts: |
 
 <form action="/search" method="get">
   <div class="form-row align-items-center">
-    <div class="col-auto">
+    <div class="col-10">
       <label class="sr-only" for="query">Search</label>
       <input type="text" id="search-box" name="query" class="form-control mb-2">
     </div>
@@ -20,14 +20,25 @@ scripts: |
   </div>
 </form>
 
-<ul id="search-results"></ul>
+<div class="list-group" id="search-results"></div>
 
 <script>
   window.store = {
+    {% for page in site.pages %}
+      "{{ page.url | slugify }}": {
+        "title": "{{ page.title | xml_escape }}",
+        "author": "",
+        "date": "{{ page.date | date: "%B %d, %Y" }}",
+        "category": "{{ page.category | xml_escape }}",
+        "content": {{ page.content | strip_html | strip_newlines | jsonify }},
+        "url": "{{ page.url | xml_escape }}"
+      },
+    {%- endfor -%}
     {% for post in site.posts %}
       "{{ post.url | slugify }}": {
         "title": "{{ post.title | xml_escape }}",
         "author": "{{ post.author | xml_escape }}",
+        "date": "{{ post.date | date: "%B %d, %Y" }}",
         "category": "{{ post.category | xml_escape }}",
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
         "url": "{{ post.url | xml_escape }}"

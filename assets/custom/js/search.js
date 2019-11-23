@@ -1,6 +1,6 @@
 var searchTerm = getUrlParams("query");
 
-if (searchTerm) {
+if (searchTerm.length > 0) {
   document.getElementById('search-box').setAttribute("value", searchTerm);
 
   // Initalize lunr with the fields it will be searching on. I've given title
@@ -35,12 +35,18 @@ function displaySearchResults(results, store) {
 
     for (var i = 0; i < results.length; i++) {  // Iterate over the results
       var item = store[results[i].ref];
-      appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
-      appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
+      appendString += '<a href="' + item.url + '" class="list-group-item list-group-item-action flex-column align-items-start">';
+      appendString += '<div class="d-flex w-100 justify-content-between"><h3 class="mb-1">' + item.title + '</h3>';
+      appendString += '<small>' + item.date + '</small></div>';
+      appendString += '<p class="mb-1 mt-3">' + item.content.substring(0, 150) + '...</p>';
+      if (item.author.length > 0) {
+        appendString += '<small>' + item.author + '</small>';
+      }
+      appendString += '</a>';
     }
 
     searchResults.innerHTML = appendString;
   } else {
-    searchResults.innerHTML = '<li>No results found</li>';
+    searchResults.innerHTML = '<p class="lead">No results found for "' + searchTerm + '"</p>';
   }
 }
