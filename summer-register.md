@@ -25,7 +25,7 @@ permalink: /summer/register
       </tbody>
     </table>
     <div class="text-center">
-      <strong>Receive 1 free adult for every 5 youth!</strong><br>
+      <strong>Every kid receives a free patch and t-shirt!</strong><br>
       <em>All Early Bird rates end May 1, 2020.</em>
     </div>
   </div>
@@ -90,7 +90,7 @@ permalink: /summer/register
       </tbody>
     </table>
     <div class="text-center">
-      <strong>Receive 1 free adult for every 5 youth!</strong><br>
+      <strong>Every kid receives a free patch and t-shirt!</strong><br>
       <em>All Early Bird rates end May 1, 2020.</em>
     </div>
   </div>
@@ -147,7 +147,7 @@ permalink: /summer/register
       </tbody>
     </table>
     <div class="text-center">
-      <strong>Receive 1 free adult for every 5 youth!</strong><br>
+      <strong>Every kid receives a free patch and t-shirt!</strong><br>
       <em>All Early Bird rates end May 1, 2020.</em>
     </div>
   </div>
