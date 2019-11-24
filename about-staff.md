@@ -5,7 +5,7 @@ permalink: /staff
 images:
   - /img/summer/staff.jpg
   - /img/summer/staff-paradefield.jpg
-underimg: <a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/">Submit an Application</a>
+col2: <a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/">Submit an Application</a>
 bottom: |
   <div class="col alert alert-primary">
     <h2>Quotes from Staff</h2>

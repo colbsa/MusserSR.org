@@ -4,7 +4,7 @@ layout: page
 permalink: /cit
 images:
   - /img/summer/staff-flags.jpg
-underimg: <a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/">Apply Now</a>
+col2: <a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/">Apply Now</a>
 
 ---
 
