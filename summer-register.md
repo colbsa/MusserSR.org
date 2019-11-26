@@ -22,7 +22,7 @@ We offer 3 unique programs throughout the summer at Musser Scout Reservation.  W
       <div class="card-body">
         <h2 class="card-title">Weekend Overnight Camp</h2>
         <p class="card-text">Starting Thursday evening and running through Sunday afternoon, Weekend Overnight Camp gives you the perfect amount of time to enjoy program at Musser.</p>
-        <a href="summer/weekend-overnight" class="btn btn-primary btn-block">Learn More & Register</a>
+        <a href="/summer/weekend-overnight" class="btn btn-primary btn-block">Learn More & Register</a>
       </div>
     </div>
   </div>
