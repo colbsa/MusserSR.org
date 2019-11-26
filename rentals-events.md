@@ -2,6 +2,10 @@
 title: Host Your Event at Musser
 layout: page
 permalink: rentals/private-events
+images:
+  - /img/rentals/garrison/wedding2.jpg
+  - /img/rentals/garrison/wedding3.jpg
+
 ---
 
 Musser Scout Reservation is happy to host your private party, wedding, corporate event, LARPing Group, or other outside events. Our variety of facilities lend themselves well for groups who are looking for an outdoor venue in a rustic setting. With facilities including a Dining Hall, Kitchen, open-air pavilions, and campsites, as well as themed structures including a Wild West Fort, a Medieval Castle, and a Pirate Ship, there is something to bring any event planners imagination to life!
