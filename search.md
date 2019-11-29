@@ -22,9 +22,10 @@ scripts: |
 
 <div class="list-group" id="search-results"></div>
 
+{% assign searchable_pages = site.pages | where_exp: "page", "page.layout == 'page' or page.layout == 'portal'" %}
 <script>
   window.store = {
-    {% for page in site.pages %}
+    {% for page in searchable_pages %}
       "{{ page.url | slugify }}": {
         "title": "{{ page.title | xml_escape }}",
         "author": "",
