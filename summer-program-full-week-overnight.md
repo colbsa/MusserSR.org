@@ -6,11 +6,15 @@ permalink: /summer/full-week-overnight
 
 <div class="row">
   <div class="col-md-8">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora laudantium, impedit numquam expedita quae eos hic rerum sequi in placeat, earum neque quis magni pariatur perferendis, nemo quasi ab veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error suscipit illum minima, asperiores totam vero recusandae eaque numquam animi, ipsam, alias atque incidunt modi! Ex eos ipsa harum quam aliquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit at, aut necessitatibus! Eum, voluptates! Voluptatem id, saepe, voluptatibus nulla incidunt illo assumenda impedit unde facere aperiam, in quas molestias dolorum?</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora laudantium, impedit numquam expedita quae eos hic rerum sequi in placeat, earum neque quis magni pariatur perferendis, nemo quasi ab veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error suscipit illum minima, asperiores totam vero recusandae eaque numquam animi, ipsam, alias atque incidunt modi! Ex eos ipsa harum quam aliquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit at, aut necessitatibus! Eum, voluptates! Voluptatem id, saepe, voluptatibus nulla incidunt illo assumenda impedit unde facere aperiam, in quas molestias dolorum?</p>
+    <p>
+      Full-Week Overnight Camp at Musser is just that - a full week of camp! Starting Sunday afternoon and running through the campfire on Friday evening, this option gives your Cubs five nights and five days of program at camp. Meals are served family style as you choose to camp in either tents at Camp Hart or indoors at Camp Garrison for the pinnacle of the Musser camping experience. A hallmark of this experience in the Choose Your Own Adventure program. Come to camp as a family or as an entire pack. We recommend Full-Week Overnight Camp for older Cub Scouts - Webelos and Arrow of Light Scouts (4th & 5th graders), but all Cubs and families are welcome!
+    </p>
+    <p>
+      If a full-week of camp is too much adventure for your Scout, consider our <a href="/summer/day-camp">Day Camp</a> or <a href="/summer/weekend-overnight">Weekend Overnight Camp</a> programs for shorter stays at Musser Scout Reservation.
+    </p>
   </div>
   <div class="col-md-4">
-    {% picture thumb /img/summer/day-camp.png --img class="img-fluid rounded mb-2" %}
+    {% picture thumb /img/summer/resident-camp.png --img class="img-fluid rounded mb-2" %}
   </div>
 </div>
 <div class="row">  
@@ -18,7 +22,7 @@ permalink: /summer/full-week-overnight
     <table class="table table-striped my-3 ">
       <thead class="text-center">
         <tr>
-          <th scope="col"><h2 class="my-0">Weeklong Overnight</h2></th>
+          <th scope="col"><h2 class="my-0">Full-Week Overnight</h2></th>
         </tr>
       </thead>
       <tbody>

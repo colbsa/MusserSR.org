@@ -6,8 +6,12 @@ permalink: /summer/day-camp
 
 <div class="row">
   <div class="col-md-8">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora laudantium, impedit numquam expedita quae eos hic rerum sequi in placeat, earum neque quis magni pariatur perferendis, nemo quasi ab veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error suscipit illum minima, asperiores totam vero recusandae eaque numquam animi, ipsam, alias atque incidunt modi! Ex eos ipsa harum quam aliquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit at, aut necessitatibus! Eum, voluptates! Voluptatem id, saepe, voluptatibus nulla incidunt illo assumenda impedit unde facere aperiam, in quas molestias dolorum?</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora laudantium, impedit numquam expedita quae eos hic rerum sequi in placeat, earum neque quis magni pariatur perferendis, nemo quasi ab veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error suscipit illum minima, asperiores totam vero recusandae eaque numquam animi, ipsam, alias atque incidunt modi! Ex eos ipsa harum quam aliquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit at, aut necessitatibus! Eum, voluptates! Voluptatem id, saepe, voluptatibus nulla incidunt illo assumenda impedit unde facere aperiam, in quas molestias dolorum?</p>
+    <p>
+      Day Camp at Musser is a week-long, Monday through Friday program. Program begins at 9am each day and ends at 4pm each day. Lunch is provided for all day campers each day and bussing is available from different locations throughout the council each week. Day Camp is a perfect program for those younger Scouts who are not quite ready for <a href="/summer/weekend-overnight">Weekend Overnight Camp</a> or <a href="/summer/full-week-overnight">Full-Week Overnight Camp</a>, or for those Cubs who want more Scouting programs without the overnight component. We recommend Day Camp for Tigers through Bears (1st - 3rd graders).
+    </p>
+    <p>
+      <strong>NEW FOR 2020</strong> - For those parents who need to drop their Scouts off early, or pick up your Scouts a little later, we will be offering before and after care. There will be an additional fee of $xx.xx for xx hours of care. When registering you Cub for camp, select the early drop-off or late pick-up option to take full advantage of this new opportunity!
+    </p>
   </div>
   <div class="col-md-4">
     {% picture thumb /img/summer/day-camp.png --img class="img-fluid rounded mb-2" %}

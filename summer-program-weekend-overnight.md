@@ -6,11 +6,15 @@ permalink: /summer/weekend-overnight
 
 <div class="row">
   <div class="col-md-8">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora laudantium, impedit numquam expedita quae eos hic rerum sequi in placeat, earum neque quis magni pariatur perferendis, nemo quasi ab veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error suscipit illum minima, asperiores totam vero recusandae eaque numquam animi, ipsam, alias atque incidunt modi! Ex eos ipsa harum quam aliquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit at, aut necessitatibus! Eum, voluptates! Voluptatem id, saepe, voluptatibus nulla incidunt illo assumenda impedit unde facere aperiam, in quas molestias dolorum?</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora laudantium, impedit numquam expedita quae eos hic rerum sequi in placeat, earum neque quis magni pariatur perferendis, nemo quasi ab veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error suscipit illum minima, asperiores totam vero recusandae eaque numquam animi, ipsam, alias atque incidunt modi! Ex eos ipsa harum quam aliquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit at, aut necessitatibus! Eum, voluptates! Voluptatem id, saepe, voluptatibus nulla incidunt illo assumenda impedit unde facere aperiam, in quas molestias dolorum?</p>
+    <p>
+      Weekend Overnight Camp at Musser is an extended weekend, Thursday evening through Sunday afternoon, program. With three nights and three days to enjoy the Musser camping experience, this next level of program introduces Cubs to a wide-array of camp activities. Meals are served family style as you choose to camp in either tents at Camp Hart or indoors at Camp Garrison as a family or as a pack. A hallmark of this experience in the Choose Your Own Adventure program. We recommend Weekend Overnight Camp for all Cub Scouts - Tigers through Arrow of Light Scouts (1st - 5th graders).
+    </p>
+    <p>
+      For those Cubs that aren’t quite ready for an overnight experience, our <a href="/summer/day-camp">Day Camp</a> program offers all the fun of camp without sleeping over. If your Scout is wants more of the adventure that Musser has to offer, than our <a href="/summer/full-week-overnight">Full-Week Overnight Camp</a> is the choice for you!
+    </p>
   </div>
   <div class="col-md-4">
-    {% picture thumb /img/summer/day-camp.png --img class="img-fluid rounded mb-2" %}
+    {% picture thumb /img/summer/weekend-camp.png --img class="img-fluid rounded mb-2" %}
   </div>
 </div>
 <div class="row">
