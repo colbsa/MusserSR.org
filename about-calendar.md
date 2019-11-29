@@ -3,7 +3,7 @@ title: Event Calendar
 layout: page
 permalink: /calendar/
 ---
-<div class="table-responsive col-lg-10 col-xl-8">
+<div class="table-responsive col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
   <table class="table table-responsive table-striped mt-3">
     <thead>
       <tr>
