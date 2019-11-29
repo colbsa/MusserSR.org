@@ -5,7 +5,7 @@ permalink: /hunting-fishing
 ---
 
 <h2>Hunting</h2>
-We offer Hunting to a small group of hunters during the two-week Antler season following Thanksgiving. If you are interested in Hunting at Musser Scout Reservation, [let us know](/contact?subject=Hunting) and we'll get back to you shortly.
+We offer hunting to a small group of hunters during the two-week, antlered deer season following Thanksgiving. If you are interested in finding out more about hunting at Musser Scout Reservation, [let us know](/contact?subject=Hunting) and we'll get back to you shortly.
 
 <h2>Fishing</h2>
-The Unami Creek, which runs through Camp Hart and Camp Delmont, offers fishing opportunities for Scouts and adults. A PA State fishing license is required, and all state and local regulations must be followed. For non-Scouts fishing on the property, we suggest a donation of $30 for your fishing experience to help improve camp.
+The Unami Creek, which runs through Camp Hart and Camp Delmont, offers fishing opportunities for Scouts and adults alike. A PA State fishing license is required, and all state and local regulations must be followed. For non-Scouts fishing on the property, we suggest a donation of $30 for access to our fishing opportunities that will be used to help improve camp.
