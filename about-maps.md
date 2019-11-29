@@ -5,10 +5,13 @@ permalink: /maps
 images:
   - /img/map-compass.jpeg
 ---
+Musser Scout Reservation - located in northwestern Montgomery County - is home to three sub-camps and over 10 miles of hiking trails situated in a 1,400-acre valley of Scouting adventure. Each sub-camp has its own unique charm and personality, perfect for all levels of Scouts to enjoy.
 
-The 1,400-acre Musser Scout Reservation, located in Northwest Montgomery County, is home to three sub-camps, each with their own charm and personality. Below you will find links to each of the camp maps to help you navigate while you are within a certain camp.
+- Camp Delmont has a rustic feel that is perfect for weekend unit camping and is also home to the Nelson Training Center - the Cradle of Liberty Council’s premier training facilities.
+- Camp Garrison is comprised of three themed-camping locations available for rental from April through October.
+- Camp Hart is the center of the summer camp operation as well as multiple year-round weekend programs.
 
-In addition to the sub-camp maps, Musser Scout Reservation has more than 10 miles of hiking trails for Scouts of all levels to enjoy. Our Reservation Trail Map outlines the trails and shows how the sub-camps are connected as part of the largest forest in Southeast Pennsylvania.
+Below are links to maps of all three camps to help you navigate throughout your stay. Our Reservation Trail Map outlines all of our trails and shows how the three sub-camps are inter-connected with one another to form the larger Musser Scout Reservation. 
 
 - [Musser Scout Reservation Trail Map](/files/maps/MusserScoutReservation-TrailMap.pdf)
 - [Camp Garrison Map](/files/maps/CampGarrison-Map.pdf)
