@@ -7,7 +7,7 @@ permalink: /summer/weekend-overnight
 <div class="row">
   <div class="col-md-8">
     <p>
-      Weekend Overnight Camp at Musser is an extended weekend, Thursday evening through Sunday afternoon, program. With three nights and three days to enjoy the Musser camping experience, this next level of program introduces Cubs to a wide-array of camp activities. Meals are served family style as you choose to camp in either tents at Camp Hart or indoors at Camp Garrison as a family or as a pack. A hallmark of this experience in the Choose Your Own Adventure program. We recommend Weekend Overnight Camp for all Cub Scouts - Tigers through Arrow of Light Scouts (1st - 5th graders).
+      Weekend Overnight Camp at Musser is an extended weekend, Thursday evening through Sunday afternoon, program. With three nights and three days to enjoy the Musser camping experience, this next level of program introduces Cubs to a wide-array of camp activities. Meals are served family style as camp in canvas wall tents on platforms as a family or as a pack. A hallmark of this experience in the Choose Your Own Adventure program. We recommend Weekend Overnight Camp for all Cub Scouts - Tigers through Arrow of Light Scouts (1st - 5th graders).
     </p>
     <p>
       For those Cubs that aren’t quite ready for an overnight experience, our <a href="/summer/day-camp">Day Camp</a> program offers all the fun of camp without sleeping over. If your Scout is wants more of the adventure that Musser has to offer, than our <a href="/summer/full-week-overnight">Full-Week Overnight Camp</a> is the choice for you!
