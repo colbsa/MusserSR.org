@@ -19,7 +19,7 @@ To join the Ranger Corps and begin serving with camp improvement projects today,
 <h2>Adopt-A-Cabin / Adopt-A-Campsite <div class="h5">Earn Your Unit's Next Stay</div></h2>
 Does your unit have a few leaders or parents who love camp and want to help us improve it? We are excited to reintroduce our Adopt-A-Cabin/Adopt-A-Campsite program in an effort to upgrade the many structures and campsites throughout Musser Scout Reservation. Your unit will “adopt” a cabin or campsite to help make it welcoming and functional through general repairs and beautification upgrades. 
 
-If you are interested in “adopting” a cabin or campsite, download this information packet (link) and [contact Ranger Lynn](contact?subject=Adopt-A-Cabin)!
+If you are interested in “adopting” a cabin or campsite, download [this information packet](/files/Adopt_A_Cabin_Campsite.pdf) and [contact Ranger Lynn](contact?subject=Adopt-A-Cabin)!
 
 <h2>Camp Service Projects <div class="h5">Help Give-Back to Camp</div></h2>
 Do Scouts in your unit need to complete service hours for rank advancement, school, or religious institution? What better way to accomplish those hours than giving back to one of our camps! Units can either come to camp for the day or spend a few hours during a weekend camping trip helping make Musser Scout Reservation a better place. To arrange a service project, [Contact Ranger Lynn](/contact?subject=Service%20Projects).
