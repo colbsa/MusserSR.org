@@ -1,6 +1,7 @@
 - name: Archery
   thumbnail: archery.jpg
   description: Use a bow and arrow as you test your shooting prowess trying to hit a bull’s eye. The range is equipped with bows of various sizes to match the size and skill of each of our campers. While taking your shot at the range, complete your level 1 and level 2 Shooting Sports requirements and earn your rank-level patch and shooting sports discipline pin.
+- name: Slingshot
   thumbnail: slingshot.jpg
   description: Ready...aim...fire! The slingshot range is a great place for your Cubs to demonstrate their target shooting skills. This is a perfect activity for Cubs of all ages and sizes to try out. While taking your shot at the range, complete your level 1 and level 2 Shooting Sports requirements and earn your rank-level patch and shooting sports discipline pin.
 - name: BB Range

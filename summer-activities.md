@@ -5,17 +5,9 @@ permalink: /summer/activities
 ---
 
 {% for program in site.data.summer-activities %}
-<div class="card my-3">
-  <div class="row">
-    <div class="col-md-3">
-      {% picture thumb /img/summer/{{program.thumbnail}} --img class="w-100" %}
-    </div>
-    <div class="col-md-9 p-3">
-      <div class="card-block px-3">
-        <h2 class="card-title">{{program.name}}</h2>
-        <p class="card-text">{{program.description}}</p>
-      </div>
-    </div>
-  </div>
-</div>
+
+{% assign include_image = "/img/summer/" | append: program.thumbnail %}
+
+{% include section_card.html image=include_image title=program.name content=program.description %}
+
 {% endfor %}

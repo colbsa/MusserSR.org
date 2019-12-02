@@ -9,22 +9,11 @@ scripts: |
 
 ---
 
-<div class="card my-3">
-  <div class="row">
-    <div class="col-md-3">
-      {% picture thumb /img/rentals/campsites/generic_creek.jpg --img class="w-100" %}
-    </div>
-    <div class="col-md-9 p-3">
-      <div class="card-block px-3">
-        <h2 class="card-title">Cabins and Campsites</h2>
-        <p class="card-text">Musser Scout Reservation holds {{site.data.lodging.size}} cabins and campsites available for rental. See their accomodations listed below. Facilities that are "Cub Friendly" are singled out for their heating and availability of water year-round. All cabins and sites have either a fireplace inside or firepit outside.</p>
-        <p>
-          <a class="btn btn-primary" href="http://colbsa.doubleknot.com/facilitycalendar/2852" target="_blank">Book Now!</a>
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
+{% capture include_content %}
+Musser Scout Reservation holds {{site.data.lodging.size}} cabins and campsites available for rental. See their accomodations listed below. Facilities that are "Cub Friendly" are singled out for their heating and availability of water year-round. All cabins and sites have either a fireplace inside or firepit outside.
+{% endcapture %}
+
+{% include section_card.html image="/img/rentals/campsites/generic_creek.jpg" title="Cabins and Campsites" content=include_content %}
 
 ## Facilities
 <table class="table table-striped table-responsive" id="facilitiesTable">
