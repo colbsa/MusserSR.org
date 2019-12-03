@@ -1,0 +1,57 @@
+- section: Summer Camp Details
+  files:
+  - name: 2020 Summer Camp Flier
+    url: /files/summer_details/2020_Musser_Summer_Flier.pdf
+    update:
+  - name: 2020 Day Camp Leaders' Guide
+    url:
+    update: 2020-01-01
+  - name: 2020 Overnight Camp Leader’s Guide
+    url:
+    update: 2020-01-01
+  - name: 2020 Parents Guide
+    url:
+    update: 2020-01-01
+  - name: Build Your Own Adventure (BYOA) Signup Instructions
+    url:
+    update: 2020-05-01
+- section: Summer Camp Forms
+  files:
+  - name: Financial Aid “Campership” Application
+    url:
+    update: 2020-01-01
+  - name: Pre-Camp Swim Test
+    url: /files/summer_forms/Precamp_Swim_Test.pdf
+    update:
+  - name: Sample Pack Roster
+    url:
+    update:
+  - name: Musser Parental Release
+    url: /files/summer_forms/Release_of_Campers.docx
+    update:
+  - name: Refund Request Form
+    url:
+    update: 2020-05-01
+- section: Health & Safety Forms
+  files:
+  - name: Annual Health and Medical Record
+    url: https://www.scouting.org/health-and-safety/ahmr/
+    update:
+  - name: Unit Medication Storage Release
+    url: /files/health_and_safety/Unit_Medication_Storage_Release.pdf
+    update:
+  - name: Adult Medication Storage Release
+    url: /files/health_and_safety/Adult_Medication_Storage_Release.pdf
+    update:
+  - name: Allergy Action Plan
+    url: /files/health_and_safety/Anaphylaxis-Emergency-Action-Plan.pdf
+    update:
+  - name: Drug Admin Record
+    url: /files/health_and_safety/Drug_Admin_Record.pdf
+    update:
+  - name: Grandview Release Form
+    url: Grandview_Release.pdf
+    update:
+  - name: Medical Record FAQ
+    url: https://www.scouting.org/health-and-safety/ahmr/medical-formfaqs/
+    update:
