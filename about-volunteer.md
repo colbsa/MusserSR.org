@@ -11,6 +11,12 @@ A positive camping experience begins with welcoming and enthusiastic hosts. The 
 
 Campmastering is a great way for a group of adult leaders to enjoy all the fun that camp has to offer in a whole new way. Select the weekends you want to serve as host, and schedule your weekend with [Musser Campmaster Chairman Jerry Rafter](/contact?subject=Campmaster)!
 
+<h2>Camp Promotions Team <div class="h5">Share the Cub Scouting Adventure</div></h2>
+Has your unit always come to Musser? Are you interested in sharing the Musser camping experience with others? Join the camp promotions team to help teach others about what Musser has to offer. Whether it’s promoting camp at district roundtables, or sharing weekend stories at a Pack meeting, we’re always looking for help promoting the Cub Scouting adventure.  
+ 
+To join the camp promotions team, [contact Ted McDonald](/contact?subject=Camp%20Promotions), Council Camping Chairman.
+
+
 <h2>Ranger Corps<div class="h5">Helping Maintain Camp one Project at a Time</div></h2>
 Have a special skill that can make our camps a better place? Want to help make our camps shine? Be a part of the Cradle of Liberty Council Ranger Corps! This dedicated group of volunteers will assist the camp ranger in keeping everything working at Musser. From roofers to plumbers, electricians to carpenters, and everyone in-between, the Ranger Corps works side-by-side with our camp ranger to bring our camps to bring camp to life!
 

@@ -2,8 +2,7 @@
 title: Schedule a Camp Promotion
 layout: page
 permalink: /summer/camp-promotion
+col2: <a class="btn btn-primary btn-block mb-2" href="/contact?subject=Camp%20Promotion">Schedule a Promotion</a>
 ---
 
-Thank you for considering summer camp at Musser! Our staff are passionate about camp and we would love to show you everything Musser has to offer. [Let us know](/contact?subject=Camp%20Promotion) if your interesting in learning more about camp. Hosting a camp promotion at your Pack meeting, committee meeting, or round-table is a great way to get everyone excited for camp!
-
-Interested in helping promote camp?  Learn more about volunteering [here](#).
+Thank you for considering Musser Scout Reservation as your camping destination this summer. Our staff are passionate about our camp and we would love to show you everything the Musser camping experience has to offer. We would be more than happy to attend your next Pack meeting, committee meeting, or district roundtable to promote camp and share the excitement that awaits!
