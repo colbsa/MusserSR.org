@@ -2,12 +2,58 @@
 title: Spring Fling
 layout: page
 permalink: /weekend/spring-fling
-images:
-  - /img/map-compass.jpeg
 ---
 
-Have you felt cooped-up all winter when all your kids want to do is get outside and play? Beat the winter blues by joining us for Cub Scout Spring Fling on Saturday, May 16 where your kids can have a great day at camp participating in exciting programs including Nature, STEM, Archery, BB’s, Handicraft, Scoutcraft, BMX, and MUCH more!
-
-Registration will go live in January, so stay tuned for more details and we’ll see you in May!
-
-
+<div class="row">
+  <div class="col-md-8">
+    <p>
+      As the excitement for summer builds, it’s time to get outside and spend a day at Musser Scout Reservation! We’re proud to reintroduce our Spring Fling, an awesome preview for the adventure that awaits during our summer camp program. This taste of the Musser camping experience will include activities at Nature, STEM, Handicraft, Scoutcraft, Archery, BBs, and more! Come join us on Saturday, May 16th and be on the lookout for more details as we get closer!
+    </p>
+  </div>
+  <div class="col-md-4">
+    {% picture thumb /img/weekend/spring-fling.jpg --img class="img-fluid rounded mb-2" %}
+  </div>
+</div>
+<div class="row"> 
+  <div class="col">
+    <table class="table table-striped my-3 ">
+      <thead class="text-center">
+        <tr>
+          <th scope="col"><h2 class="my-0">Spring Fling</h2></th>
+        </tr>
+      </thead>
+      <tbody>
+          <tr>
+            <td>Youth Price - TBD</td>
+          </tr>
+          <tr>
+            <td>Adult Price - TBD</td>
+          </tr>
+      </tbody>
+    </table>
+    <div class="text-center">
+      <strong>Every kid receives a free patch!</strong><br>
+    </div>
+  </div> 
+  <div class="col">
+    <table class="table table-striped my-3 text-center">
+      <thead>
+        <tr>
+          <th scope="col">Session</th>
+          <th scope="col">Dates</th>
+          <th scope="col">Register</th>
+        </tr>
+      </thead>
+      <tbody>
+          <tr>
+            <td>Session 1</td>
+            <td>May 16</td>
+            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
+          </tr>
+      </tbody>
+    </table>
+    <div class="text-center">
+      <a role="button" class="btn btn-primary btn-lg" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
+    </div>
+  </div>
+</div>
