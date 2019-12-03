@@ -2,6 +2,8 @@
 title: Hunting & Fishing
 layout: page
 permalink: /hunting-fishing
+images:
+  - /img/fishing.jfif
 ---
 
 <h2>Hunting</h2>
