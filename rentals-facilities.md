@@ -10,7 +10,7 @@ scripts: |
 ---
 
 {% capture include_content %}
-Musser Scout Reservation holds {{site.data.lodging.size}} cabins and campsites available for rental. See their accomodations listed below. Facilities that are "Cub Friendly" are singled out for their heating and availability of water year-round. All cabins and sites have either a fireplace inside or firepit outside.
+Musser Scout Reservation is home to {{site.data.lodging.size}} cabins and campsites available for rental at various points throughout the year. Review the table below to see the accommodations and facilities that are available with each. With such a numerous amount of facilities available, there is something available for any unit - Cub Pack, Scouts BSA Troop, Venturing Crew, or Sea Scout Ship - looking to complete any type of outdoor camping experience. Those facilities that are “Cub Friendly” - with heating and year-round water - are noted as such. All cabins and sites have either a fireplace inside of a fire pit outside. If interested in renting an entire venue/camp, please note the capacities below include all cabins and campsites.
 {% endcapture %}
 
 {% include section_card.html image="/img/rentals/campsites/generic_creek.jpg" title="Cabins and Campsites" content=include_content %}
@@ -199,6 +199,6 @@ Musser Scout Reservation holds {{site.data.lodging.size}} cabins and campsites a
   </div>
   <div class="col">
     <h2>Special Events</h2>
-    Venue prices are listed on a per-weekend basis except where otherwise noted. Capacities include all cabins and campsites. For more information about renting these facilities for a special event, join us on the <a href="/rentals/private-events">Special Events Page</a>.
+    Facility and venue prices are listed for Scouting groups and are based on a per weekend rental except where otherwise noted. Our facilities and camp venues are available for non-Scouting groups to rent. For more information in renting any part of Musser Scout Reservation for a special event, visit <a href="/rentals/private-events">Events in Camp</a>.
   </div>
 </div>
