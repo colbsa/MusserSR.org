@@ -1,4 +1,5 @@
-- section: Summer Camp Details
+- section:
+  name: Summer Camp Details
   files:
   - name: 2020 Summer Camp Flier
     url: /files/summer_details/2020_Musser_Summer_Flier.pdf
@@ -15,7 +16,8 @@
   - name: Build Your Own Adventure (BYOA) Signup Instructions
     url:
     update: 2020-05-01
-- section: Summer Camp Forms
+- section:
+  name: Summer Camp Forms
   files:
   - name: Financial Aid “Campership” Application
     url:
@@ -32,7 +34,8 @@
   - name: Refund Request Form
     url:
     update: 2020-05-01
-- section: Health & Safety Forms
+- section:
+  name: Health & Safety Forms
   files:
   - name: Annual Health and Medical Record
     url: https://www.scouting.org/health-and-safety/ahmr/
