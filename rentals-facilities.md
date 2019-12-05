@@ -2,10 +2,11 @@
 title: Reserve a Facility
 layout: page
 permalink: /rentals/facilities
-scripts: |
-  <script src="//cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
-  <script src="//cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
-  <script src="/assets/custom/js/rentals-facilities.js"></script>
+dependencies:
+- src: //cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js
+- src: //cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js
+scripts: 
+- src: assets/custom/js/rentals-facilities.js
 
 ---
 

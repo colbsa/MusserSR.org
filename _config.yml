@@ -6,6 +6,7 @@ description: "Musser Scout Reservation is Cradle of Liberty Council's closest sc
 plugins:
   - octopress-paginate
   - jekyll_picture_tag
+  - jekyll/minibundle
 
 url: http://127.0.0.1:4000
 baseurl:

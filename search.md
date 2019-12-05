@@ -2,9 +2,11 @@
 title: Search
 layout: page
 permalink: /search
-scripts: |
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.6/lunr.min.js" integrity="sha256-M/Awbb/BYh+Rh0aGjpQid26p1b2OBsrk2k9yAvQxPV0=" crossorigin="anonymous"></script>
-  <script src="/assets/custom/js/search.js"></script>
+dependencies:
+- src: https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.6/lunr.min.js
+  integrity: sha256-M/Awbb/BYh+Rh0aGjpQid26p1b2OBsrk2k9yAvQxPV0=
+scripts: 
+- src: assets/custom/js/search.js
 
 ---
 
