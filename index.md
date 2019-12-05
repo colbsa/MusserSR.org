@@ -3,9 +3,7 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/slide-nmb-sashes.png: 
-  /img/slider/slide-lld.png: 
-  /img/slider/slider-dinner.png: 
+  /img/slider/slide-2020theme-wanted.png: /summer/register
 
 button-bar:
   Register For Summer Camp: /summer/register

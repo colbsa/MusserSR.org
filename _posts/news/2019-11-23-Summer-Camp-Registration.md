@@ -3,8 +3,8 @@ layout: post
 title: Cub Summer Camp - Sign-up Today!
 author: John Bickel
 date: 2019-11-23
-banner: 
-thumbnail: generic-red.png
+banner: 2020-Summer-Theme.png
+thumbnail: 2020-Summer-Camp-Registration.png
 excerpt: Have a summer of adventure at Cub Summer Camp
 ---
 
