@@ -20,7 +20,9 @@ markup_presets:
     formats: [jpg, original]
     widths: [800, 900, 1000, 1200]
     fallback_width: 1500
-    quality: 90
+    format_quality:
+      jpg: 90
+      png: 80
     noscript: true
   banner:
     formats: [webp, original]
