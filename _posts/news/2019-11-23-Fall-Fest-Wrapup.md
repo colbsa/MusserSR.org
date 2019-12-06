@@ -4,7 +4,7 @@ title: Fall Fest Fun!
 author: John Bickel
 date: 2019-11-23
 banner: 
-thumbnail: generic-blue.png
+thumbnail: 2020-Fall-Fest.png
 excerpt: More than 1,400 Cub Scouts enjoyed Fall Fest at Musser. Did you join us?
 ---
 
