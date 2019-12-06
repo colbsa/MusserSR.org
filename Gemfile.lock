@@ -31,6 +31,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
+    jekyll-contentblocks (1.2.0)
+      jekyll
     jekyll-minibundle (2.2.0)
     jekyll-sass-converter (2.0.1)
       sassc (> 2.0.1, < 3.0)
@@ -80,6 +82,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  jekyll-contentblocks
   jekyll-minibundle
   jekyll_picture_tag
   octopress-paginate

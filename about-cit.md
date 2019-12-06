@@ -2,9 +2,6 @@
 title: Explore Camp Staff as a CIT
 layout: page
 permalink: /cit
-images:
-  - /img/summer/staff-flags.jpg
-col2: <a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/">Apply Now</a>
 
 ---
 
@@ -20,3 +17,11 @@ Qualifications of a Counselor in Training:
 If you’re ready to join us for a summer of fun at Musser Scout Reservation, apply today! We hope you consider joining our CIT Program, and are ready to embark on a life changing journey at Musser Scout Reservation!
 
 Are you 16 years old and looking for an exciting way to spend your whole summer? Find out more about [Working At Musser](/staff).
+
+{% contentfor sidebar %}
+
+{% picture thumb /img/summer/staff-flags.jpg --img class="img-fluid rounded mb-2" %}
+
+<a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/">Apply Now</a>
+
+{% endcontentfor %}

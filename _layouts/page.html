@@ -5,29 +5,26 @@
   <div class="row">
     <div class="col mx-auto">
       <h1>{{page.title}}</h1>
-      {% unless page.images or page.col2 %} {{content}} {% endunless %}
+      {% ifnothascontent sidebar %} {{content}} {% endifnothascontent %}
     </div>
   </div>
-  {% if page.images or page.col2 %}
+  {% ifhascontent sidebar %}
   <div class="row">
-    <div class="col-md-8">
+    <div class="{% if page.content_class %}{{ page.content_class }}{% else %}col-md-8{% endif %}">
       {{content}}
     </div>
-    <div class="col-md-4">
-      {% for img in page.images %}
-      {% picture thumb {{img}} --img class="img-fluid rounded mb-2" %}
-      {% endfor%}
-      {% if page.col2 %} {{page.col2}} {% endif %}
+    <div class="{% if page.sidebar_class %}{{ page.sidebar_class }}{% else %}col-md-4{% endif %}">
+      {% contentblock sidebar %}
     </div>
   </div>
-  {% if page.bottom %}
+  {% ifhascontent bottom %}
   <div class="row">
     <div class="col mx-auto">
-      {{page.bottom}}
+      {% contentblock bottom %}
     </div>
   </div>
-  {% endif %}
-  {% endif %}
+  {% endifhascontent %}
+  {% endifhascontent %}
 </div>
 
 {% include page_footer.html %}
