@@ -1,15 +1,14 @@
 ---
-title: Lodge Calendar
+title: Event Calendar
 layout: page
 permalink: /calendar/
 ---
-<div class="table-responsive">
-  <table class="table table-responsive table-striped mt-3" id="lodge-calendar">
+<div class="table-responsive col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
+  <table class="table table-responsive table-striped mt-3">
     <thead>
       <tr>
         <th scope="col">Event</th>
         <th scope="col">Dates</th>
-        <th scope="col">Location</th>
         <th scope="col">Registration</th>
       </tr>
     </thead>
@@ -30,11 +29,6 @@ permalink: /calendar/
             {{event.date | date: "%B %-d, %Y"}}
           {% endif %}
           </td>
-          {% if event.location-url %}
-            <td class="align-middle"><a href="{{event.location-url}}">{{event.location}}</a></td>
-          {% else %}
-            <td class="align-middle">{{event.location}}</td>
-          {% endif %}
           {% if event.link-url %}
             <td class="align-middle"><a href="{{event.link-url}}" class="btn btn-primary">{{event.link-text}}</a></td>
           {% else %}
@@ -45,5 +39,3 @@ permalink: /calendar/
     </tbody>
   </table>
 </div>
-
-Unami Lodge also makes available a [long range calendar](/files/UnamiLodgeCalendar_2019-2022.pdf). Please note that dates and locations listed in the long range calendar are subject to change.

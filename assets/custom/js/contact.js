@@ -1,36 +1,11 @@
----
----
-
-recipients = [
-  {%- for committee in site.data.committees -%}
-  {
-  "name": "{{committee.committee-name}}",
-  "email": "{{committee.email}}",
-  "description": "{{committee.responsibilities | capitalize}}"
-  },
-  {% endfor %}
-  ];
-
 $(function() {
-  var recipient = getUrlParams('recipient');
+  var subject = getUrlParams('subject');
   var message = getUrlParams('message');
-  if (recipient.length > 1){
-    $("#contactform-recipient").replaceWith("<input type=\"text\" class=\"form-control\" name=\"recipient\" id=\"requested_email\" placeholder=\"\" value=\"" + recipient + "\" disabled required>")
-    $("#contactform-card").remove();
+  if (subject.length > 1){
+    $("#contactform-subject").replaceWith("<input type=\"text\" class=\"form-control\" name=\"subject\" id=\"requested_subject\" placeholder=\"\" value=\"" + subject + "\" disabled required>")
     if (message.length > 1)
       $("#contactform-message").text(message);
   }
-});
-
-$("#contactform-recipient").change(function () {
-  var selector_value = this.value;
-  $.each(recipients, function(i, v) {
-    if (v.email == selector_value) {
-      $("#recipient-name").text(v.name);
-      $("#recipient-description").text(v.description);
-      return;
-    }
-  });
 });
 
 function ContactUsAlert(alert_class, alert_headline, alert_text) {
@@ -53,7 +28,7 @@ $("#contactform").validate({
       required: true,
       email: true
     },
-    recipient: {
+    subject: {
       required: true,
     },
     message: {
@@ -63,7 +38,7 @@ $("#contactform").validate({
   },
   messages: {
     name: "Please tell us your name.",
-    recipient: "Please select a recipient.",
+    subject: "Please select a subject.",
     email: {
       required: "Please give us your email address.",
       email: "Please put your email address in the format of name@example.com"
@@ -87,7 +62,7 @@ function ContactUs() {
   ContactUsAlert(alert_class, alert_headline, alert_text)
   $("#contactform-name").prop('disabled', true);
   $("#contactform-email").prop('disabled', true);
-  $("#contactform-recipient").prop('disabled', true);
+  $("#contactform-subject").prop('disabled', true);
   $("#contactform-message").prop('disabled', true);
   $("#contactform-send").prop('disabled', true);
   $.ajax({
@@ -95,6 +70,10 @@ function ContactUs() {
     method: 'POST',
     dataType: 'json',
     data: $("#contactform :input"),
+    cache: false,
+    headers: {
+      "cache-control": "no-cache"
+    },
     success: function(data) {
       if(data['success'] == true)
       {

@@ -1,0 +1,640 @@
+- name: Schweiker Lodge
+  camp: Delmont
+  class: First Class
+  cabin: true
+  site: false
+  cost: 300
+  capacity: 30
+  adirondacks: 0
+  cots: true
+  electricity: true
+  stove: Stove & Oven
+  refrigerator: true
+  water: In Cabin
+  restroom: Full Washroom
+  fireplace: true
+  heat: true
+  pavilion: false
+  firepit: true
+  parking: true
+  cubs: true
+- name: Dan Beard
+  camp: Delmont
+  class: Tenderfoot
+  cabin: true
+  site: false
+  cost: 100
+  capacity: 39
+  adirondacks: 0
+  cots: true
+  electricity: true
+  stove: Stovetop
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: true
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: true
+  cubs: false
+- name: Woods Lane
+  camp: Delmont
+  class: Tenderfoot
+  cabin: true
+  site: false
+  cost: 100
+  capacity: 39
+  adirondacks: 0
+  cots: true
+  electricity: true
+  stove: Stovetop
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: true
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: true
+  cubs: false
+- name: Castle Rock
+  camp: Delmont
+  class: Tenderfoot
+  cabin: true
+  site: false
+  cost: 100
+  capacity: 39
+  adirondacks: 0
+  cots: true
+  electricity: true
+  stove: Stovetop
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: true
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: true
+  cubs: false
+- name: Gren Day
+  camp: Delmont
+  class: Tenderfoot
+  cabin: true
+  site: false
+  cost: 60
+  capacity: 14
+  adirondacks: 0
+  cots: true
+  electricity: true
+  stove: Stovetop
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Spaid Lodge
+  camp: Delmont
+  class: Rustic
+  cabin: true
+  site: false
+  cost: 60
+  capacity: 18
+  adirondacks: 0
+  cots: true
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: None
+  restroom: Latrine
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Pioneer Lodge
+  camp: Delmont
+  class: Rustic
+  cabin: true
+  site: false
+  cost: 75
+  capacity: 18
+  adirondacks: 0
+  cots: true
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: None
+  restroom: Latrine
+  fireplace: true
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: true
+  cubs: false
+- name: Lucien Maxwell Lodge
+  camp: Delmont
+  class: Rustic
+  cabin: true
+  site: false
+  cost: 75
+  capacity: 16
+  adirondacks: 0
+  cots: true
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: None
+  restroom: Latrine
+  fireplace: true
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: OA Lean Tos
+  camp: Delmont
+  class: Rustic
+  cabin: true
+  site: false
+  cost: 50
+  capacity: 24
+  adirondacks: 6
+  cots: false
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: None
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Site 1
+  camp: Delmont
+  class: Tent Camping
+  cabin: false
+  site: true
+  cost: 50
+  capacity: 30
+  adirondacks: 0
+  cots: false
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: None
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Site 2
+  camp: Delmont
+  class: Tent Camping
+  cabin: false
+  site: true
+  cost: 50
+  capacity: 30
+  adirondacks: 0
+  cots: false
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: None
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Site 3
+  camp: Delmont
+  class: Tent Camping
+  cabin: false
+  site: true
+  cost: 50
+  capacity: 30
+  adirondacks: 0
+  cots: false
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: None
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Site 4
+  camp: Delmont
+  class: Tent Camping
+  cabin: false
+  site: true
+  cost: 50
+  capacity: 30
+  adirondacks: 0
+  cots: false
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: None
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Site 5 (Lake)
+  camp: Delmont
+  class: Tent Camping
+  cabin: false
+  site: true
+  cost: 50
+  capacity: 30
+  adirondacks: 0
+  cots: false
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: None
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Korman Lodge
+  camp: Hart
+  class: First Class
+  cabin: true
+  site: true
+  cost: 175
+  capacity: 16
+  adirondacks: 0
+  cots: true
+  electricity: true
+  stove: Stove & Oven
+  refrigerator: true
+  water: In Cabin
+  restroom: Full Washroom
+  fireplace: false
+  heat: true
+  pavilion: false
+  firepit: true
+  parking: true
+  cubs: true
+- name: Park Lodge
+  camp: Hart
+  class: First Class
+  cabin: true
+  site: false
+  cost: 175
+  capacity: 16
+  adirondacks: 0
+  cots: true
+  electricity: true
+  stove: Stove & Oven
+  refrigerator: true
+  water: In Cabin
+  restroom: Full Washroom
+  fireplace: false
+  heat: true
+  pavilion: false
+  firepit: false
+  parking: true
+  cubs: true
+- name: Perry Long Lodge
+  camp: Hart
+  class: Tenderfoot
+  cabin: true
+  site: false
+  cost: 125
+  capacity: 12
+  adirondacks: 0
+  cots: true
+  electricity: true
+  stove: Stove & Oven
+  refrigerator: true
+  water: In Cabin
+  restroom: Latrine
+  fireplace: false
+  heat: true
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Dick Smith
+  camp: Hart
+  class: Tenderfoot
+  cabin: true
+  site: true
+  cost: 100
+  capacity: 39
+  adirondacks: 3
+  cots: false
+  electricity: true
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: true
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Yellow Bear
+  camp: Hart
+  class: Tenderfoot
+  cabin: true
+  site: true
+  cost: 100
+  capacity: 39
+  adirondacks: 3
+  cots: false
+  electricity: true
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: true
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Red Fox
+  camp: Hart
+  class: Tenderfoot
+  cabin: true
+  site: true
+  cost: 100
+  capacity: 39
+  adirondacks: 3
+  cots: false
+  electricity: true
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: true
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Gold Stag
+  camp: Hart
+  class: Rustic
+  cabin: true
+  site: true
+  cost: 100
+  capacity: 39
+  adirondacks: 2
+  cots: false
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: true
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Green Turtle
+  camp: Hart
+  class: Rustic
+  cabin: true
+  site: true
+  cost: 100
+  capacity: 39
+  adirondacks: 3
+  cots: false
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: true
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Staff Adirondacks
+  camp: Hart
+  class: Rustic
+  cabin: false
+  site: true
+  cost: 60
+  capacity: 32
+  adirondacks: 8
+  cots: false
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Owl
+  camp: Hart
+  class: Tent Camping
+  cabin: false
+  site: true
+  cost: 50
+  capacity: 38
+  adirondacks: 1
+  cots: false
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Falcon
+  camp: Hart
+  class: Tent Camping
+  cabin: false
+  site: true
+  cost: 50
+  capacity: 30
+  adirondacks: 1
+  cots: false
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Pheasant
+  camp: Hart
+  class: Tent Camping
+  cabin: false
+  site: true
+  cost: 50
+  capacity: 30
+  adirondacks: 1
+  cots: false
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Turkey
+  camp: Hart
+  class: Tent Camping
+  cabin: false
+  site: true
+  cost: 50
+  capacity: 22
+  adirondacks: 1
+  cots: false
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Hawk
+  camp: Hart
+  class: Tent Camping
+  cabin: false
+  site: true
+  cost: 50
+  capacity: 32
+  adirondacks: 1
+  cots: false
+  electricity: false
+  stove: None
+  refrigerator: false
+  water: Nearby
+  restroom: Latrine
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: false
+- name: Medieval Castle
+  camp: Garrison
+  class: First Class
+  cabin: true
+  site: true
+  cost: 300
+  capacity: 40
+  adirondacks: 0
+  cots: true
+  electricity: true
+  stove: Stove & Oven
+  refrigerator: true
+  water: In Cabin
+  restroom: Full Washroom
+  fireplace: false
+  heat: false
+  pavilion: true
+  firepit: true
+  parking: false
+  cubs: true
+- name: Fort Akela
+  camp: Garrison
+  class: First Class
+  cabin: true
+  site: true
+  cost: 300
+  capacity: 40
+  adirondacks: 0
+  cots: true
+  electricity: true
+  stove: Stove & Oven
+  refrigerator: true
+  water: In Cabin
+  restroom: Full Washroom
+  fireplace: false
+  heat: false
+  pavilion: true
+  firepit: true
+  parking: false
+  cubs: true
+- name: USS Cradle of Liberty
+  camp: Garrison
+  class: First Class
+  cabin: true
+  site: true
+  cost: 300
+  capacity: 40
+  adirondacks: 0
+  cots: true
+  electricity: true
+  stove: Stove & Oven
+  refrigerator: true
+  water: In Cabin
+  restroom: Full Washroom
+  fireplace: false
+  heat: false
+  pavilion: false
+  firepit: true
+  parking: false
+  cubs: true
+- name: Native American Village
+  camp: Garrison
+  class: Tent Camping
+  cabin: false
+  site: true
+  cost: 150
+  capacity: 40
+  adirondacks: 0
+  cots: false
+  electricity: true
+  stove: Stove & Oven
+  refrigerator: true
+  water: In Cabin
+  restroom: Full Washroom
+  fireplace: false
+  heat: false
+  pavilion: true
+  firepit: true
+  parking: false
+  cubs: true

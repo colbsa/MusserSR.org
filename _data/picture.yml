@@ -1,0 +1,36 @@
+markup_presets:
+  default:
+    formats: [webp, original]
+    formats: [webp, original]
+    widths: [200, 400, 800, 1600]
+    link_source: true
+  thumb:
+    formats: [webp, original]
+    widths: [100, 200, 300, 350]
+    fallback_width: 400
+    quality: 90
+    noscript: true
+  post:
+    formats: [webp, original]
+    widths: [200, 300, 400, 750]
+    fallback_width: 800
+    quality: 90
+    noscript: true
+  slider:
+    formats: [jpg, original]
+    widths: [600, 800, 1000, 1200, 1500]
+    fallback_width: 1500
+    format_quality:
+      jpg: 90
+      png: 80
+    noscript: true
+  banner:
+    formats: [webp, original]
+    widths: [600, 800, 1000, 1200, 1500, 1800]
+    fallback_width: 1500
+    noscript: true
+  logo:
+    formats: [webp, original]
+    widths: [100, 200, 300, 400]
+    fallback_width: 500
+    noscript: true

@@ -17,7 +17,7 @@
     {% for post in site.posts limit:2 %}
         <div class="col-md-4 col-sm-6 mb-3">
           <div class="card h-100">
-            <a href="{{post.url}}"><img class="card-img-top" src="/img/posts/thumbs/{{post.thumbnail}}" alt=""></a>
+            {% picture thumb /img/posts/thumbs/{{post.thumbnail}} --img class="card-img-top" --link {{post.url}} %}
             <div class="card-body">
               <h4 class="card-title">
                 <a href="{{post.url}}">{{post.title}}</a>
@@ -25,7 +25,7 @@
               <p class="card-text">{{post.excerpt}}</p>
             </div>
             <div class="card-footer">
-              <i class="fa fa-clock-o"></i> {{ post.date | date: '%B %d, %Y' }}
+              <i class="far fa-clock"></i> {{ post.date | date: '%B %d, %Y' }}
             </div>
           </div>
         </div>
@@ -35,9 +35,9 @@
       <div class="card mb-3">
         <h5 class="card-header">Upcoming Events</h5>
         <div class="card-body">
-          {% assign highlighted_events = site.data.events | where:"highlight", "true" %}
-          {% for event in highlighted_events %}
-            <a href="{{ event.link-url }}"><i class="fa fa-calendar pr-2 text-body"></i>{{ event.title }}</a></br>
+          {% assign highlighted_events = site.data.events | where_exp:"event", "event.link-url.size > 0" %}
+          {% for event in highlighted_events limit:3 %}
+            <a href="{{ event.link-url }}"><i class="far fa-calendar pr-2 text-body"></i>{{ event.title }}</a></br>
           {% endfor %}
         </div>
       </div>
@@ -50,17 +50,16 @@
           {% endfor %}
         </div>
       </div>
-      {% comment %}
       <!-- More News -->
       <div class="card mb-3">
-        <h5 class="card-header"><a href="/news">More News</a></h5>
+        <h5 class="card-header">More News</h5>
         <div class="card-body">
           {% for post in site.posts limit:4 offset:2 %}
-            <a href="{{ BASE_PATH }}{{ post.url }}"><i class="fa fa-newspaper-o pr-2 text-body"></i>{{ post.title }}</a></br>
+            <a href="{{ BASE_PATH }}{{ post.url }}"><i class="far fa-newspaper pr-2 text-body"></i>{{ post.title }}</a></br>
           {% endfor %}
+            <a href="/news">Read More</a>
         </div>
       </div>
-      {% endcomment %}
     </div>
   </div>
 </div>

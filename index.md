@@ -3,17 +3,15 @@ title: Home
 layout: index
 
 slides:
-  img/slider/slide-nmb-sashes.png: 
-  img/slider/slide-lld.png: 
-  img/slider/slider-dinner.png: 
+  /img/slider/slide-2020theme-wanted.png: /summer/register
 
 button-bar:
-  Cub Adventures: /electedcandidates
-  Fall Fest: /dues
-  Winter Camping: /brotherhood     
+  Register For Summer Camp: /summer/register
+  Weekend Rentals: /rentals/facilities
+  Volunteer in Camp: /volunteer
 
 quick-links:
-  Lodge Calendar: /calendar
-  Lodge Trading Post: /tradingpost
+  Register for Summer Camp: /summer/register
+  Weekend Rentals: /rentals/facilities
   Contact Us: /contact
 ---
