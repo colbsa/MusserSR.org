@@ -3,8 +3,6 @@ title: Camp Maps
 layout: page
 permalink: /maps
 excerpt: There are a variety of trails and camps throughout our reservation and these maps are available to help people find their way.
-images:
-  - /img/map-compass.jpeg
 ---
 Musser Scout Reservation - located in northwestern Montgomery County - is home to three sub-camps and over 10 miles of hiking trails situated in a 1,400-acre valley of Scouting adventure. Each sub-camp has its own unique charm and personality, perfect for all levels of Scouts to enjoy.
 
@@ -18,3 +16,9 @@ Below are links to maps of all three camps to help you navigate throughout your 
 - [Camp Garrison Map](/files/maps/CampGarrison-Map.pdf)
 - [Camp Hart Map](/files/maps/CampHart-Map.pdf)
 - [Camp Delmont Map](/files/maps/CampDelmont-Map.pdf)
+
+{% contentfor sidebar %}
+
+{% picture thumb /img/map-compass.jpeg --img class="img-fluid rounded mb-2" %}
+
+{% endcontentfor %}
