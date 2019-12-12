@@ -2,7 +2,7 @@
 title: Join Camp Staff
 layout: page
 permalink: /staff
-
+excerpt: While being a camp counselor can be a demanding job, the rewards are endless as you forge memories that will last a lifetime.
 ---
 
 Why work at a fast food or retail establishment that focuses on sales when you can have opportunities like these:

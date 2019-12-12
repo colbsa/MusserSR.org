@@ -2,6 +2,7 @@
 title: Day Camp
 layout: page
 permalink: /summer/day-camp
+excerpt: Day Camp is a perfect program for younger Scouts and Scouts who want more Scouting programs without the overnight component.
 ---
 
 <div class="row">

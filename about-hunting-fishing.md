@@ -2,6 +2,7 @@
 title: Hunting & Fishing
 layout: page
 permalink: /hunting-fishing
+excerpt: Our reservation makes a fantastic environment for hunting and fishing all throughout the year.
 images:
   - /img/fishing.jfif
 ---

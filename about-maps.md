@@ -2,6 +2,7 @@
 title: Camp Maps
 layout: page
 permalink: /maps
+excerpt: There are a variety of trails and camps throughout our reservation and these maps are available to help people find their way.
 images:
   - /img/map-compass.jpeg
 ---

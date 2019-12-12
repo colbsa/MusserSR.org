@@ -2,6 +2,7 @@
 title: Weeklong Overnight Camp
 layout: page
 permalink: /summer/full-week-overnight
+excerpt: Starting Sunday afternoon and running through the campfire on Friday evening, this option gives your Cubs five nights and five days of program at camp.
 ---
 
 <div class="row">

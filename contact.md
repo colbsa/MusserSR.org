@@ -1,6 +1,7 @@
 ---
 title: Contact Us
 layout: page
+excerpt: If you have a question or you want to reach out, let us know what is on your mind.
 dependencies:
 - src: https://www.google.com/recaptcha/api.js
 - src: https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js

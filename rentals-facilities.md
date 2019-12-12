@@ -2,6 +2,7 @@
 title: Reserve a Facility
 layout: page
 permalink: /rentals/facilities
+excerpt: Musser Scout Reservation is home to many cabins and campsites available for rental throughout the year.
 alert:
   text: <strong>Sorry!</strong> Our registration system is closed while we make some updates to it. Renovations are expected to be completed by December 20.
 dependencies:

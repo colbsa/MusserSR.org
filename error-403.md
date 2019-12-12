@@ -2,6 +2,7 @@
 title: 403 - Access Denied
 layout: error
 permalink: /403/
+excerpt: Forbidden content - Error 403
 
 head: Woooah there!
 ---

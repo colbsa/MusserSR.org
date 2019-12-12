@@ -2,6 +2,7 @@
 title: Webelos Woods
 layout: page
 permalink: /weekend/webelos-woods
+excerpt: Webelos Woods is designed to help make sure each Cub is prepared to join a troop in the coming months.
 ---
 
 <div class="row">

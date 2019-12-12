@@ -2,8 +2,9 @@
 title: Summer Programs & Opportunities
 layout: page
 permalink: /summer/register
+excerpt: Whether you are looking for an overnight adventure or just some day time activities, our highly trained staff will be excited to see you in camp!
 ---
-We offer three unique programs throughout the summer at Musser Scout Reservation.  Whether you're looking for an overnight adventure or just some day time activities, our highly trained staff will be excited to see you in camp!
+We offer three unique programs throughout the summer at Musser Scout Reservation. Whether you're looking for an overnight adventure or just some day time activities, our highly trained staff will be excited to see you in camp!
 
 <div class="row mb-3">
   <div class="col-md-4">

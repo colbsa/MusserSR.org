@@ -2,6 +2,7 @@
 title: Host Your Event at Musser
 layout: page
 permalink: rentals/private-events
+excerpt: A variety of facilities available are ideal for private parties, weddings, corporate events, and other outside events.
 images:
   - /img/rentals/garrison/wedding2.jpg
   - /img/rentals/garrison/wedding3.jpg
