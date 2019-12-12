@@ -93,10 +93,15 @@ iframe {
   color: var(--site-primary) !important;
 }
 /*alerts*/
+.alert-primary {
+  color: var(--site-white);
+  background-color: var(--site-primary);
+  border-color: var(--site-white);
+}
 .alert-warning {
   color: var(--site-black);
   background-color: var(--cubscout-yellow);
-  border-color: var(--cubscout-yellow);
+  border-color: var(--site-white);
 }
 /*buttons*/
 .btn-primary {

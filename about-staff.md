@@ -37,8 +37,8 @@ Are you 14 years old, or 15 and can't commit for the whole summer? [Check out ou
 
 {% contentfor bottom %}
 
-<div class="col alert alert-primary">
-  <h2>Quotes from Staff</h2>
+<div class="col alert alert-primary text-center">
+  <h2 class="mb-0">Quotes from Staff</h2>
 </div>
 <div class="row">
   <div class="col-sm-6">
