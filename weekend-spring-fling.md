@@ -12,7 +12,7 @@ excerpt: This taste of the Musser camping experience will include activities at 
     </p>
   </div>
   <div class="col-md-4">
-    {% picture thumb /img/weekend/spring-fling.jpg --img class="img-fluid rounded mb-2" %}
+    {% picture thumb /img/weekend/spring-fling.jpg --img class="img-fluid rounded mb-2" --alt Four young boys and their two leaders smiling in front of a dining hall %}
   </div>
 </div>
 <div class="row"> 

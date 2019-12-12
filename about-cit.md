@@ -20,7 +20,7 @@ Are you 16 years old and looking for an exciting way to spend your whole summer?
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/summer/staff-flags.jpg --img class="img-fluid rounded mb-2" %}
+{% picture thumb /img/summer/staff-flags.jpg --img class="img-fluid rounded mb-2" --alt Cub scout den flags in front of staff members in formation on the parade field addressing camp %}
 
 <a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/">Apply Now</a>
 

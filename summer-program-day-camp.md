@@ -15,7 +15,7 @@ excerpt: Day Camp is a perfect program for younger Scouts and Scouts who want mo
     </p>
   </div>
   <div class="col-md-4">
-    {% picture thumb /img/summer/day-camp.png --img class="img-fluid rounded mb-2" %}
+    {% picture thumb /img/summer/day-camp.png --img class="img-fluid rounded mb-2" --alt A group of boys and a man smiling %}
   </div>
 </div>
 <div class="row">

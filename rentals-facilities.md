@@ -18,7 +18,7 @@ Musser Scout Reservation is home to {{site.data.lodging.size}} cabins and campsi
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/rentals/campsites/generic_creek.jpg --img class="img-fluid rounded" %}
+{% picture thumb /img/rentals/campsites/generic_creek.jpg --img class="img-fluid rounded" --alt A dome tent pitched with the entryway facing a small creek with fall foliage on the ground %}
 
 <a class="btn btn-primary btn-block" href="http://colbsa.doubleknot.com/facilitycalendar/2852" target="_blank">Book Now!</a>
 

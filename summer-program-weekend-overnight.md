@@ -15,7 +15,7 @@ excerpt: With three nights and three days to enjoy the Musser camping experience
     </p>
   </div>
   <div class="col-md-4">
-    {% picture thumb /img/summer/weekend-camp.png --img class="img-fluid rounded mb-2" %}
+    {% picture thumb /img/summer/weekend-camp.png --img class="img-fluid rounded mb-2" --alt A small group of young campers in life preservers jumping into a pool %}
   </div>
 </div>
 <div class="row">

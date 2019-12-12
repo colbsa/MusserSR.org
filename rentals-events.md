@@ -12,7 +12,7 @@ For more information, contact our Director of Outdoor Adventures [John Bickel](/
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/rentals/garrison/wedding2.jpg --img class="img-fluid rounded mb-2" %}
-{% picture thumb /img/rentals/garrison/wedding3.jpg --img class="img-fluid rounded mb-2" %}
+{% picture thumb /img/rentals/garrison/wedding2.jpg --img class="img-fluid rounded mb-2" --alt A bride and groom holding hands walking through a castle gate %}
+{% picture thumb /img/rentals/garrison/wedding3.jpg --img class="img-fluid rounded mb-2" --alt A bride and groom kissing in front of a castle and a crowd of people at their seats %}
 
 {% endcontentfor %}

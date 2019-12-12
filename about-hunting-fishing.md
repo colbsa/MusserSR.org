@@ -13,6 +13,6 @@ The Unami Creek, which runs through Camp Hart and Camp Delmont, offers fishing o
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/fishing.jfif --img class="img-fluid rounded mb-2" %}
+{% picture thumb /img/fishing.jfif --img class="img-fluid rounded mb-2" --alt Man reeling in a fishing rod from a dock %}
 
 {% endcontentfor %}

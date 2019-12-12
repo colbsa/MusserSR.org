@@ -15,7 +15,7 @@ excerpt: Starting Sunday afternoon and running through the campfire on Friday ev
     </p>
   </div>
   <div class="col-md-4">
-    {% picture thumb /img/summer/resident-camp.png --img class="img-fluid rounded mb-2" %}
+    {% picture thumb /img/summer/resident-camp.png --img class="img-fluid rounded mb-2" --alt A boy climbing on a bouldering wall looking for the next rock to hold on to %}
   </div>
 </div>
 <div class="row">  

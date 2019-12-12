@@ -19,6 +19,6 @@ Below are links to maps of all three camps to help you navigate throughout your 
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/map-compass.jpeg --img class="img-fluid rounded mb-2" %}
+{% picture thumb /img/map-compass.jpeg --img class="img-fluid rounded mb-2" --alt Two people using a map and compass in the woods %}
 
 {% endcontentfor %}

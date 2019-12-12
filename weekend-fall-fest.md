@@ -14,7 +14,7 @@ excerpt: Throughout the autumn, we host Fall Fest - a day-long program that keep
     </p>
   </div>
   <div class="col-md-4">
-    {% picture thumb /img/weekend/fall-fest.jpg --img class="img-fluid rounded mb-2" %}
+    {% picture thumb /img/weekend/fall-fest.jpg --img class="img-fluid rounded mb-2" --alt Young scouts carving pumpkins with their parents around a table in the woods %}
   </div>
 </div>
 <div class="row"> 

@@ -11,7 +11,7 @@ Campers and adult leaders with dietary restrictions can note their individual re
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/summer/food1.jpg --img class="img-fluid rounded mb-2" %}
-{% picture thumb /img/summer/food2.jpg --img class="img-fluid rounded mb-2" %}
+{% picture thumb /img/summer/food1.jpg --img class="img-fluid rounded mb-2" --alt Young scouts and their leader eating hamburgers around a table in a dining hall %}
+{% picture thumb /img/summer/food2.jpg --img class="img-fluid rounded mb-2" --alt Young scouts and their parents eating hamburgers around a table in a dining hall %}
 
 {% endcontentfor %}

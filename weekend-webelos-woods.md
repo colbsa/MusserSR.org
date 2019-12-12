@@ -18,7 +18,7 @@ excerpt: Webelos Woods is designed to help make sure each Cub is prepared to joi
     </p>
   </div>
   <div class="col-md-4">
-    {% picture thumb /img/weekend/webelos-woods.jpg --img class="img-fluid rounded mb-2" %}
+    {% picture thumb /img/weekend/webelos-woods.jpg --img class="img-fluid rounded mb-2" --alt Five young scouts and a staff member lighting a fire %}
   </div>
 </div>
 <div class="row"> 
