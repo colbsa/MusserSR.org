@@ -10,11 +10,18 @@ scripts:
 
 ---
 
-{% capture include_content %}
+## Cabins & Campsites
 Musser Scout Reservation is home to {{site.data.lodging.size}} cabins and campsites available for rental at various points throughout the year. Review the table below to see the accommodations and facilities that are available with each. With such a numerous amount of facilities available, there is something available for any unit - Cub Pack, Scouts BSA Troop, Venturing Crew, or Sea Scout Ship - looking to complete any type of outdoor camping experience. Those facilities that are “Cub Friendly” - with heating and year-round water - are noted as such. All cabins and sites have either a fireplace inside or a fire pit outside. If interested in renting an entire venue/camp, please note the capacities below include all cabins and campsites.
-{% endcapture %}
 
-{% include section_card.html image="/img/rentals/campsites/generic_creek.jpg" title="Cabins and Campsites" content=include_content %}
+{% contentfor sidebar %}
+
+{% picture thumb /img/rentals/campsites/generic_creek.jpg --img class="img-fluid rounded" %}
+
+<a class="btn btn-primary btn-block" href="http://colbsa.doubleknot.com/facilitycalendar/2852" target="_blank">Book Now!</a>
+
+{% endcontentfor %}
+
+{% contentfor bottom %}
 
 ## Facilities
 <table class="table table-striped table-responsive" id="facilitiesTable">
@@ -203,3 +210,5 @@ Musser Scout Reservation is home to {{site.data.lodging.size}} cabins and campsi
     Facility and venue prices are listed for Scouting groups and are based on a per weekend rental except where otherwise noted. Our facilities and camp venues are available for non-Scouting groups to rent. For more information on renting any part of Musser Scout Reservation for a special event, visit <a href="/rentals/private-events">Events in Camp</a>.
   </div>
 </div>
+
+{% endcontentfor %}
