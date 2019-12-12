@@ -54,12 +54,12 @@ permalink: /summer/day-camp
       <tbody>
           <tr>
             <td>Week 1</td>
-            <td>June 29 - July 3</td>
+            <td>June 22 - June 26</td>
             <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/day-camp-session-1-june-22-26/2592997">Register Now</a></td>
           </tr>
           <tr>
             <td>Week 2</td>
-            <td>June 22 - June 26</td>
+            <td>June 29 - July 3</td>
             <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/day-camp-session-2-june-29-july-3/2592998">Register Now</a></td>
           </tr>
           <tr>
