@@ -1,36 +1,48 @@
 - name: Archery
   thumbnail: archery.jpg
+  alt: A boy wih a bow and arrow preparing to loose the arrow at a target
   description: Use a bow and arrow as you test your shooting prowess trying to hit a bull’s eye. The range is equipped with bows of various sizes to match the size and skill of each of our campers. While taking your shot at the range, complete your level 1 and level 2 Shooting Sports requirements and earn your rank-level patch and shooting sports discipline pin.
 - name: Slingshot
   thumbnail: slingshot.jpg
+  alt: Four young scouts shooting slingshots
   description: Ready...aim...fire! The slingshot range is a great place for your Cubs to demonstrate their target shooting skills. This is a perfect activity for Cubs of all ages and sizes to try out. While taking your shot at the range, complete your level 1 and level 2 Shooting Sports requirements and earn your rank-level patch and shooting sports discipline pin.
 - name: BB Range
   thumbnail: bb.jpg
+  alt: A group of scouts shooting BB guns on the firing line of a rifle range
   description: Learn how to safely shoot and handle a firearm under the direction of our certified director and staff. Hit some targets with a pump-action BB gun. While taking your shot at the range, complete your level 1 and level 2 Shooting Sports requirements and earn your rank-level patch and shooting sports discipline pin.
 - name: Boating
   thumbnail: boating.jpg
+  alt: A young scout smiles with a paddle in a small personal boat
   description: The peaceful Unami Lake gives Cubs the opportunity to try out canoes, rowboys, paddle boats, and Corcls! Scouts classified as “Swimmers” may take out any watercraft on their own. Those Cubs who are “Beginners” or “Non-Swimmers” are allowed to ride as passengers in a boat with an adult “Swimmer.” The Unami also gives Scouts the opportunity to find multiple fishing spots.
 - name: Handicraft
   thumbnail: handicraft.jpg
+  alt: A boy hammers a nail into the wooden toolbox he is building
   description: Beads, gimp, leather, paint, paper, feathers, and wood are the beginnings of your very own Musser craft project at our Handicraft Center. Cubs can use materials available or purchase project kits from the Trading Post to create outstanding souvenirs to take home, all under the guidance of our knowledgeable Handicraft staff.
 - name: Nature
   thumbnail: nature.jpg
+  alt: A small group of scouts wanders ankle deep through a creek
   description: The flora and fauna of camp are all around as you wander along our Nature trail, participate in one of our exciting evening programs, or simply sit back and enjoy the mysterious world around you. All of the living creatures of Musser find their way to the Nature Lodge - you never know what sort of specimens will be on display.
 - name: Pool
   thumbnail: pool.jpg
+  alt: A young boy swims with a kickboard
   description: SPLASH! Relax and cool down while the Buddy System is in full effect at our multi-section pool, designed to accommodate swimmers of all swimming ability. “Swimmers” are allowed in all three areas of the pool, while “Beginners” can swim in the shallow and intermediate sections, and “Non-Swimmers” can hang out in the shallow section. All Cubs can cool down, learn to swim, and attend morning Polar Bear.
 - name: Scoutcraft
   thumbnail: scoutcraft.jpg
+  alt: A boy walks down a rope bridge with staff members on either side
   description: The whole of the outdoors is at your disposal as Cubs learn all of the basic Scout skills. Learn to tie knots, create a pioneering project, and cook outdoors as you also learn how to safely use a pocket knife and build a fire. Cubs can practice all of these skills and get a head start on all you need to know to be a part of Scouts BSA.
 - name: STEM
   thumbnail: stem.jpg
+  alt: Three boys hold up parts of a small disassembled television
   description: It doesn’t get more hands-on than the science and technology programs offered in the STEM Center. Gain a better understanding of how the world around us works, while exploring another world in our planetarium. Cubs can program Ozobots, experiment with many basic materials, and even fly a drone!
 - name: Bouldering
   thumbnail: bouldering.jpg
+  alt: A boy raising his arm in triumph at the top of a small pile of boulders.
   description: Reach new heights as Scouts learn how to climb safely on our bouldering wall. After mastering the wall, test your safe-climbing skills on natural rock piles while maintaining three points of contact.
 - name: BMX Bikes
   thumbnail: bmx.jpg
+  alt: A boy peddles a BMX bike around a track with checkered flags in the background
   description: Fly around the curves of our BMX course designed to test your biking skills. The track is designed for Cubs to not only learn how to ride, but how to ride safely, with safe biking practices, gloves, helmets, and more. Challenge and excitement await all ages!
 - name: Native American Village
   thumbnail: nav.jpg
+  alt: A dozen scouts gathered around inside of a wigwam made from natural materials
   description: Explore America of the past in our authentic Native American Village. Learn native crafts and lore, play exciting games from yesteryear, and learn how to fish - just like the Native Americans. Every moment spent in the village will be one of hands-on adventure into the past!

@@ -1,15 +1,20 @@
 - name: Basic Adult Leader Outdoor Orientation (BALOO)
   thumbnail: baloo.jpg
+  alt: A cartoon bear in a cubscout hat and neckerchief waves high
   description: BALOO training is a hybrid model, consisting of online prerequisites and the completion of a practical and hands-on overnight experience. The BSA’s camping policies for Cub Scouts will be taught, along with the sharing of all the necessary tools to help units carry out a successful camping experience. A minimum of one trained adult is required for each Pack overnighter.
 - name: Introduction to Outdoor Leadership Skills (IOLS)
   thumbnail: iols.jpg
+  alt: "'Introduction to Outdoor Leadership Skills,' tree and mountain graphics over a picture of a natural rockface"
   description: IOLS is the required outdoor training for all Scoutmasters and Assistant Scoutmasters, and for any Venturing Crew Advisors whose crew is engaged in outdoor programs. The skills taught are based upon the outdoor skills found in the Scouts BSA handbook and are meant to give leaders a foundation for implementing these skills in unit program. Whether it be at regular unit meetings or on high adventure trips & treks, or somewhere in between, this training will give Scouts BSA and Venturing leaders the confidence and the competence to conduct an outdoor program.
 - name: Woodbadge
   thumbnail: woodbadge.jpg
+  alt: A metallic scouting fleur-de-lis with a tartan background and woodbadge values written around the edges
   description: Wood Badge is the next level of adult leader training. Designed for leaders at all levels of the program - Cub Scouts, Scouts BSA, Venturing, and district & council volunteers - this is the ultimate training experience. Wood Badge is focused on practical leadership skills that will not only benefit you as an adult leader, but also in your professional career as well. Be prepared for a learning experience filled with enthusiasm as you participate in a fun and valuable training.
 - name: National Youth Leadership Training (NYLT)
   thumbnail: nylt.jpg
+  alt: "The scouting fleur-de-lis over a cross outlining 'National Youth Leadership Training'"
   description: NYLT is designed for Scouts BSA and Venturing youth leaders who have completed basic training on the unit level. This next level of leadership training is centered on the concepts of what a leader must BE, what a leader must KNOW, and what a leader must DO. A “how to” approach is taken in teaching these key elements. A Quest for the Meaning of Leadership allows these skills to be brought alive as participants learn modern leadership theories through traditional Scouting activities.
 - name: Shooting Sports Training
   thumbnail: shooting.jpg
+  alt: Archery targets with yellow, red, and blue bullseyes
   description: "A variety of trainings are offered throughout the year by our council Shooting Sports committee. Some of the trainings offered at Musser include: NRA Range Safety Officer (RSO); NRA Basic Training in Pistol, Shotgun, Rifle, Muzzleloading; NRA Instructor Training in Pistol, Shotgun, Rifle, Muzzleloading; USA Archery Level 1 and Level 2 Instructor; and BSA BB Range and Archery Range certifications."

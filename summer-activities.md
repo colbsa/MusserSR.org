@@ -9,6 +9,6 @@ excerpt: Many traditional summer highlights are available alongside new programs
 
 {% assign include_image = "/img/summer/" | append: program.thumbnail %}
 
-{% include section_card.html image=include_image title=program.name content=program.description %}
+{% include section_card.html image=include_image alt=program.alt title=program.name content=program.description %}
 
 {% endfor %}
