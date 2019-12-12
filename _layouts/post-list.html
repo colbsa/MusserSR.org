@@ -11,7 +11,7 @@
       {% for post in paginator.posts %}
           <div class="col-md-4 col-sm-6 mb-3">
             <div class="card h-100">
-              {% picture thumb /img/posts/thumbs/{{post.thumbnail}} --img class="card-img-top" --link {{post.url}} %}
+              {% picture thumb /img/posts/thumbs/{{post.thumbnail}} --img class="card-img-top" --link {{post.url}} --alt {{post.thumbalt}} %}
               <div class="card-body">
                 <h4 class="card-title">
                   <a href="{{post.url}}">{{post.title}}</a>
