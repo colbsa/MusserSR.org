@@ -2,6 +2,8 @@
 title: Reserve a Facility
 layout: page
 permalink: /rentals/facilities
+alert:
+  text: <strong>Sorry!</strong> Our registration system is closed while we make some updates to it. Renovations are expected to be completed by December 20.
 dependencies:
 - src: //cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js
 - src: //cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js
