@@ -6,7 +6,7 @@
       {% else %}
       <div class="carousel-item">
       {% endif %}
-        {% picture slider {{slide[0]}} --img class="d-block w-100" --link {{slide[1]}} %}
+        {% picture slider {{slide.image}} --img class="d-block w-100" --link {{slide.link}} --alt {{slide.alt}} %}
       </div>
     {% endfor %}
   </div>
