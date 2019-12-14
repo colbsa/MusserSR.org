@@ -2,6 +2,7 @@
 title: Volunteer in Camp
 layout: page
 permalink: /volunteer
+excerpt: Musser Scout Reservation is always looking for volunteers to help make camp an even greater place!
 ---
 
 Looking to spend more time in camp? Want to give back to Scouting and camp? Musser Scout Reservation is always looking for volunteers to help make camp an even greater place!

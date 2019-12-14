@@ -2,6 +2,8 @@
 
 <!-- Main Content -->
 <div class="container content mt-3">
+  {% if site.alert %}{% include section_alert.html content=site.alert.text class=site.alert.class %}{% endif %}
+  {% if page.alert %}{% include section_alert.html content=page.alert.text class=page.alert.class %}{% endif %}
   <div class="row">
     <div class="col mx-auto">
       <h1>{{page.title}}</h1>
@@ -9,7 +11,7 @@
       {% for post in paginator.posts %}
           <div class="col-md-4 col-sm-6 mb-3">
             <div class="card h-100">
-              {% picture thumb /img/posts/thumbs/{{post.thumbnail}} --img class="card-img-top" --link {{post.url}} %}
+              {% picture thumb /img/posts/thumbs/{{post.thumbnail}} --img class="card-img-top" --link {{post.url}} --alt {{post.thumbalt}} %}
               <div class="card-body">
                 <h4 class="card-title">
                   <a href="{{post.url}}">{{post.title}}</a>

@@ -2,6 +2,7 @@
 title: Fall Fest
 layout: page
 permalink: /weekend/fall-fest
+excerpt: Throughout the autumn, we host Fall Fest - a day-long program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family!
 ---
 <div class="row">
   <div class="col-md-8">
@@ -13,7 +14,7 @@ permalink: /weekend/fall-fest
     </p>
   </div>
   <div class="col-md-4">
-    {% picture thumb /img/weekend/fall-fest.jpg --img class="img-fluid rounded mb-2" %}
+    {% picture thumb /img/weekend/fall-fest.jpg --img class="img-fluid rounded mb-2" --alt Young scouts carving pumpkins with their parents around a table in the woods %}
   </div>
 </div>
 <div class="row"> 

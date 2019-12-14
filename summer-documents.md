@@ -2,6 +2,7 @@
 title: Important Documents
 layout: page
 permalink: /summer/documents
+excerpt: Flyers, information packets, and forms for summer camp and weekend excursions.
 ---
 
 <div class="row">

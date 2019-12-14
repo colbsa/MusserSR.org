@@ -2,6 +2,7 @@
 title: Cub Family Weekends
 layout: page
 permalink: /weekend/family-weekends
+excerpt: Different than our summer camp program opportunities, this weekend is designed with your family in mind.
 ---
 
 <div class="row">
@@ -14,7 +15,7 @@ permalink: /weekend/family-weekends
     </p>
   </div>
   <div class="col-md-4">
-    {% picture thumb /img/weekend/family-weekend.jpg --img class="img-fluid rounded mb-2" %}
+    {% picture thumb /img/weekend/family-weekend.jpg --img class="img-fluid rounded mb-2" --alt A woman and two young scouts in 'Cub Adventures' t-shirts smiling %}
   </div>
 </div>
 <div class="row"> 

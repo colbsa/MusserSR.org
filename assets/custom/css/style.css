@@ -8,6 +8,7 @@
   --musser-blue: #005596;
   --musser-grey: #0B3954;
   --musser-red: #E63946;
+  --musser-orange: #f26522;
   --cubscout-blue: #003F87;
   --cubscout-yellow: #FCD116;
 
@@ -90,6 +91,17 @@ iframe {
 }
 .text-primary{
   color: var(--site-primary) !important;
+}
+/*alerts*/
+.alert-primary {
+  color: var(--site-white);
+  background-color: var(--site-primary);
+  border-color: var(--site-white);
+}
+.alert-warning {
+  color: var(--site-black);
+  background-color: var(--cubscout-yellow);
+  border-color: var(--site-white);
 }
 /*buttons*/
 .btn-primary {

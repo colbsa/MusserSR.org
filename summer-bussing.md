@@ -2,6 +2,7 @@
 title: Day Camp Bus Service
 layout: page
 permalink: /summer/bus
+excerpt: We are happy to once again provide bus transportation to help get your Cub Scouts to Day Camp to make the camp schedule simple for your family!
 ---
 
 We are happy to once again provide bus transportation to help get your Cub Scouts to Day Camp to make the camp schedule simple for your family! We offer 3 weeks of bussing, one focused around each Scouting District, but feel free to use the bus that suits your schedule and location. Bussing for 5 days of Day Camp is $50/week.

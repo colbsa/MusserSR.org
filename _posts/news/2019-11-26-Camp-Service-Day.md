@@ -5,6 +5,7 @@ author: John Bickel
 date: 2019-11-26
 banner: 
 thumbnail: generic-dark-blue.png
+thumbalt: White fleur-de-lis on a dark blue background
 excerpt: Help us get camp ready for the spring camping season on March 28.
 ---
 

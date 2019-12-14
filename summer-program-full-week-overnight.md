@@ -2,6 +2,7 @@
 title: Weeklong Overnight Camp
 layout: page
 permalink: /summer/full-week-overnight
+excerpt: Starting Sunday afternoon and running through the campfire on Friday evening, this option gives your Cubs five nights and five days of program at camp.
 ---
 
 <div class="row">
@@ -14,7 +15,7 @@ permalink: /summer/full-week-overnight
     </p>
   </div>
   <div class="col-md-4">
-    {% picture thumb /img/summer/resident-camp.png --img class="img-fluid rounded mb-2" %}
+    {% picture thumb /img/summer/resident-camp.png --img class="img-fluid rounded mb-2" --alt A boy climbing on a bouldering wall looking for the next rock to hold on to %}
   </div>
 </div>
 <div class="row">  

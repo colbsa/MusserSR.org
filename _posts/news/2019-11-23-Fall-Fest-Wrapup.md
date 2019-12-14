@@ -5,6 +5,7 @@ author: John Bickel
 date: 2019-11-23
 banner: 
 thumbnail: 2020-Fall-Fest.png
+thumbalt: "Jackolantern with a fleur-de-lis nose, and a cowboy hat with 'Fall Fest 2019 Musser SR' on the brim"
 excerpt: More than 1,400 Cub Scouts enjoyed Fall Fest at Musser. Did you join us?
 ---
 

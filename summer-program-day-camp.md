@@ -2,6 +2,7 @@
 title: Day Camp
 layout: page
 permalink: /summer/day-camp
+excerpt: Day Camp is a perfect program for younger Scouts and Scouts who want more Scouting programs without the overnight component.
 ---
 
 <div class="row">
@@ -14,7 +15,7 @@ permalink: /summer/day-camp
     </p>
   </div>
   <div class="col-md-4">
-    {% picture thumb /img/summer/day-camp.png --img class="img-fluid rounded mb-2" %}
+    {% picture thumb /img/summer/day-camp.png --img class="img-fluid rounded mb-2" --alt A group of boys and a man smiling %}
   </div>
 </div>
 <div class="row">
@@ -54,12 +55,12 @@ permalink: /summer/day-camp
       <tbody>
           <tr>
             <td>Week 1</td>
-            <td>June 29 - July 3</td>
+            <td>June 22 - June 26</td>
             <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/day-camp-session-1-june-22-26/2592997">Register Now</a></td>
           </tr>
           <tr>
             <td>Week 2</td>
-            <td>June 22 - June 26</td>
+            <td>June 29 - July 3</td>
             <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/day-camp-session-2-june-29-july-3/2592998">Register Now</a></td>
           </tr>
           <tr>
