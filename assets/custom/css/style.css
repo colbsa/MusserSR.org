@@ -98,10 +98,16 @@ iframe {
   background-color: var(--site-primary);
   border-color: var(--site-white);
 }
+.alert-primary a {
+  color: var(--cubscout-yellow);
+}
 .alert-warning {
   color: var(--site-black);
   background-color: var(--cubscout-yellow);
   border-color: var(--site-white);
+}
+.alert-warning a {
+  color: var(--site-primary);
 }
 /*buttons*/
 .btn-primary {

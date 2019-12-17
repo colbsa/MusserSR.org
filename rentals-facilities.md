@@ -4,7 +4,10 @@ layout: page
 permalink: /rentals/facilities
 excerpt: Musser Scout Reservation is home to many cabins and campsites available for rental throughout the year.
 alert:
-  text: <strong>Sorry!</strong> Our registration system is closed while we make some updates to it. Renovations are expected to be completed by December 20.
+  text: |
+    <h2>Camping Reservation Website Maintenance Scheduled</h2>
+    <p>As we work to improve our facility rental experience and bring new rental opportunities online, we need to close the facility rental portal in DoubleKnot from December 6-31. This means you will not be able to book a cabin or campsite during that time, so we encourage you to make your bookings starting on January 1.</p>
+    <p>We appreciate your patience so we can provide the most accurate online rental experience possible. If you have any questions, please contact our Director of Outdoor Adventures, John Bickel directly at <a href="mailto:john.bickel@scouting.org">john.bickel@scouting.org</a>. Have a great day, and a blessed holiday season!</p>
 dependencies:
 - src: //cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js
 - src: //cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js
