@@ -18,6 +18,7 @@ baseurl:
 
 picture:
   nomarkdown: false
+  suppress_warnings: true
 
 recaptcha: 6LdmHcIUAAAAAMMBaaQiAMhIn25IwZQC7Xeb2byD
 
