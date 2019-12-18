@@ -3,6 +3,8 @@ title: Join Camp Staff
 layout: page
 permalink: /staff
 excerpt: While being a camp counselor can be a demanding job, the rewards are endless as you forge memories that will last a lifetime.
+content_class: col-md-6 col-lg-8
+sidebar_class: col-md-6 col-lg-4
 ---
 
 Why work at a fast food or retail establishment that focuses on sales when you can have opportunities like these:
@@ -17,10 +19,10 @@ Working on a campstaff is a fun way to spend your summer, and it gives you the o
 
 Qualifications of a Staff Member:
 
-- Be at least 15 years old.
-- A positive attitude and a strong work ethic.
-- A willingness to live by the Scout Oath &amp; Law.
-- A desire to have fun and make a lasting impact on the life of a scout.
+- Be at least 15 years old
+- A positive attitude and a strong work ethic
+- A willingness to live by the Scout Oath &amp; Law
+- A desire to have fun and make a lasting impact on the life of a scout
 
 If you're ready to join us for a summer of fun at Musser, apply today!
 
@@ -29,7 +31,10 @@ Are you 14 years old, or 15 and can't commit for the whole summer? [Check out ou
 {% contentfor sidebar %}
 
 {% picture thumb /img/summer/staff.jpg --img class="img-fluid rounded mb-2" --alt Five staff in uniform and life vests jumping up in the air in front of a building %}
-{% picture thumb /img/summer/staff-paradefield.jpg --img class="img-fluid rounded mb-2" --alt A dozen staff members in uniform in colors formation on the parade field in front of the flags %}
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_dVN5qgBjjY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/">Submit an Application</a>
 
