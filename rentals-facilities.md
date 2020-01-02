@@ -3,11 +3,6 @@ title: Reserve a Facility
 layout: page
 permalink: /rentals/facilities
 excerpt: Musser Scout Reservation is home to many cabins and campsites available for rental throughout the year.
-alert:
-  text: |
-    <h2>Camping Reservation Website Maintenance Scheduled</h2>
-    <p>As we work to improve our facility rental experience and bring new rental opportunities online, we need to close the facility rental portal in DoubleKnot from December 6-31. This means you will not be able to book a cabin or campsite during that time, so we encourage you to make your bookings starting on January 1.</p>
-    <p>We appreciate your patience so we can provide the most accurate online rental experience possible. If you have any questions, please contact our Director of Outdoor Adventures, John Bickel directly at <a href="mailto:john.bickel@scouting.org">john.bickel@scouting.org</a>. Have a great day, and a blessed holiday season!</p>
 dependencies:
 - src: //cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js
 - src: //cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js
@@ -23,7 +18,7 @@ Musser Scout Reservation is home to {{site.data.lodging.size}} cabins and campsi
 
 {% picture thumb /img/rentals/campsites/generic_creek.jpg --img class="img-fluid rounded" --alt A dome tent pitched with the entryway facing a small creek with fall foliage on the ground %}
 
-<a class="btn btn-primary btn-block" href="http://colbsa.doubleknot.com/facilitycalendar/2852" target="_blank">Book Now!</a>
+<a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/facilitysearch/2852" target="_blank">Book Now!</a>
 
 {% endcontentfor %}
 
