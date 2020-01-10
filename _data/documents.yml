@@ -6,13 +6,13 @@
     update:
   - name: 2020 Day Camp Leaders' Guide
     url:
-    update: 2020-01-01
+    update: 2020-02-01
   - name: 2020 Overnight Camp Leader’s Guide
     url:
-    update: 2020-01-01
+    update: 2020-02-01
   - name: 2020 Parents Guide
     url:
-    update: 2020-01-01
+    update: 2020-02-01
   - name: Build Your Own Adventure (BYOA) Signup Instructions
     url:
     update: 2020-05-01
@@ -21,7 +21,7 @@
   files:
   - name: Financial Aid “Campership” Application
     url:
-    update: 2020-01-01
+    update: 2020-02-01
   - name: Pre-Camp Swim Test
     url: /files/summer_forms/Precamp_Swim_Test.pdf
     update:
