@@ -20,7 +20,7 @@
   name: Summer Camp Forms
   files:
   - name: Financial Aid “Campership” Application
-    url:
+    url: https://colbsa.org/camperships/
     update:
   - name: Pre-Camp Swim Test
     url: /files/summer_forms/Precamp_Swim_Test.pdf
