@@ -25,10 +25,10 @@ excerpt: This taste of the Musser camping experience will include activities at 
       </thead>
       <tbody>
           <tr>
-            <td>Youth Price - TBD</td>
+            <td>Youth Price - &dollar;25</td>
           </tr>
           <tr>
-            <td>Adult Price - TBD</td>
+            <td>Adult Price - &dollar;8</td>
           </tr>
       </tbody>
     </table>
@@ -49,7 +49,7 @@ excerpt: This taste of the Musser camping experience will include activities at 
           <tr>
             <td>Session 1</td>
             <td>May 16</td>
-            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
+            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/spring-fling/2633325">Register Now!</a></td>
           </tr>
       </tbody>
     </table>

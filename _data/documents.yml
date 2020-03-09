@@ -38,6 +38,12 @@
     url:
     update: 2020-05-01
 - section:
+  name: Weekend Camp Details
+  files:
+  - name: 2020 Family Camping Weekends Flier
+    url: /files/weekend_details/FamilyCampingWeekends2020.pdf
+    update:
+- section:
   name: Health & Safety Forms
   files:
   - name: Annual Health and Medical Record
