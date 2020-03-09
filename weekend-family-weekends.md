@@ -1,5 +1,5 @@
 ---
-title: Cub Family Weekends
+title: Family Camping Weekends
 layout: page
 permalink: /weekend/family-weekends
 excerpt: Different than our summer camp program opportunities, this weekend is designed with your family in mind.
@@ -28,10 +28,16 @@ excerpt: Different than our summer camp program opportunities, this weekend is d
       </thead>
       <tbody>
           <tr>
-            <td>Youth Price - TBD</td>
+            <td>Youth Price - &dollar;75</td>
           </tr>
           <tr>
-            <td>Adult Price - TBD</td>
+            <td>Adult Price - &dollar;30</td>
+          </tr>
+          <tr>
+            <td>Family of 4 Price - &dollar;200</td>
+          </tr>
+          <tr>
+            <td>Family of 5 Price - &dollar;250</td>
           </tr>
       </tbody>
     </table>
