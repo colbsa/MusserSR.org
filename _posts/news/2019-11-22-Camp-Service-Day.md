@@ -2,7 +2,7 @@
 layout: post
 title: Camp Service Day
 author: John Bickel
-date: 2019-11-26
+date: 2019-11-22
 banner: 
 thumbnail: generic-dark-blue.png
 thumbalt: White fleur-de-lis on a dark blue background
