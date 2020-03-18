@@ -7,7 +7,7 @@ banner: 2020-Summer-Theme.png
 banneralt: "Wanted poster with a cowboy hat with the cub scout logo on it and 'Wild West' as well as 'Cub Adventures 2020' written on it"
 thumbnail: 2020-Summer-Camp-Registration.png
 thumbalt: "Old western poster with a cowboy hat with the cub scout logo on it and 'Wanted' above the hat"
-excerpt: Have a summer of adventure at Cub Summer Camp
+excerpt: Have a summer of adventure at Cub Summer Camp.
 ---
 
 
