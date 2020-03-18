@@ -2,7 +2,7 @@
 layout: post
 title: Coronavirus Response
 author: John Bickel
-date: 2019-11-23
+date: 2020-03-18
 banner:
 banneralt:
 thumbnail: Message-For-Community.jpg
