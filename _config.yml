@@ -8,7 +8,7 @@ alert:
   class: alert-primary
 
 plugins:
-  - octopress-paginate
+  - jekyll-paginate-v2
   - jekyll_picture_tag
   - jekyll/minibundle
   - jekyll-contentblocks
@@ -25,6 +25,10 @@ recaptcha: 6LdmHcIUAAAAAMMBaaQiAMhIn25IwZQC7Xeb2byD
 permalink: /news/:title
 
 pagination:
-  limit: false
+  enabled: true
   per_page: 6
-  title_suffix: " - Page :num"
+  permalink: '/:num/'
+  title: 'News - Page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
