@@ -4,7 +4,7 @@ logo: "/img/logo.png"
 description: "The Musser camping experience includes a variety of program ventures including Cub summer camp options, exciting year-round programs, and diverse training courses for Scouts and Scouters of all ages."
 
 alert:
-  text: For the safety of our members, Cradle of Liberty Council-level events and camps will be closed until Thursday, April 30th. Summer Camp is still proceeding as planned! For the latest updates regarding council events and camps, please visit <a href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
+  text: For the safety of our members, Cradle of Liberty Council-level events and camps will be closed until Thursday, April 30th. Summer Camp is still proceeding as planned!<br>For the latest updates regarding council events and camps, please visit <a href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
   class: alert-danger
 
 plugins:
