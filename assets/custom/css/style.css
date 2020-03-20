@@ -109,6 +109,14 @@ iframe {
 .alert-warning a {
   color: var(--site-primary);
 }
+.alert-danger {
+  color: var(--site-white);
+  background-color: var(--site-accent-light);
+  border-color: var(--site-white);
+}
+.alert-danger a {
+  color: var(--cubscout-yellow);
+}
 /*buttons*/
 .btn-primary {
   color: var(--site-white);
