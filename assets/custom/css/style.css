@@ -96,7 +96,7 @@ iframe {
 .alert-primary {
   color: var(--site-white);
   background-color: var(--site-primary);
-  border-color: var(--site-white);
+  border-style: none;
 }
 .alert-primary a {
   color: var(--cubscout-yellow);
@@ -104,7 +104,7 @@ iframe {
 .alert-warning {
   color: var(--site-black);
   background-color: var(--cubscout-yellow);
-  border-color: var(--site-white);
+  border-style: none;
 }
 .alert-warning a {
   color: var(--site-primary);
@@ -112,7 +112,7 @@ iframe {
 .alert-danger {
   color: var(--site-white);
   background-color: var(--site-accent-light);
-  border-color: var(--site-white);
+  border-style: none;
 }
 .alert-danger a {
   color: var(--cubscout-yellow);
