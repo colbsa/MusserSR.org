@@ -93,6 +93,9 @@ iframe {
   color: var(--site-primary) !important;
 }
 /*alerts*/
+.alert-page {
+  border-radius: 0;
+}
 .alert-primary {
   color: var(--site-white);
   background-color: var(--site-primary);
