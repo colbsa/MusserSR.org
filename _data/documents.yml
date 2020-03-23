@@ -1,6 +1,9 @@
 - section:
   name: Summer Camp Details
   files:
+  - name: Response to COVID-19
+    url: /files/health_and_safety/2020.03.23_Covid-19-Update-Musser.pdf
+    update:
   - name: 2020 Summer Camp Flier
     url: /files/summer_details/2020_Musser_Summer_Flier.pdf
     update:
