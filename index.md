@@ -3,9 +3,9 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/slide-2020theme-wanted.png
+- image: /img/slider/slide-MusserSR-COVID19.png
   alt: "Old western poster with a cowboy hat with the cub scout logo on it and 'Wild West' above and below the hat"
-  link: /summer/register
+  link: /coronavirus
 
 button-bar:
   Register For Summer Camp: /summer/register

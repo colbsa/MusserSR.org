@@ -107,6 +107,6 @@ Redirect /weekend/documents /documents
 Redirect /bussing /summer/bus
 Redirect /busing /summer/bus
 
-Redirect /coronavirus /files/health_and_safety/2020.03.23_Covid-19-Update-Musser.pdf
-Redirect /covid19 /files/health_and_safety/2020.03.23_Covid-19-Update-Musser.pdf
-Redirect /covid-19 /files/health_and_safety/2020.03.23_Covid-19-Update-Musser.pdf
+Redirect /coronavirus /news/COVID19-Summer-Camp-Update
+Redirect /covid19 /news/COVID19-Summer-Camp-Update
+Redirect /covid-19 /news/COVID19-Summer-Camp-Update
