@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summer Camp Update
-author: John Bickel
+author: Dan Templar
 date: 2020-05-01
 banner: MusserSR-COVID19.png
 banneralt: "Campfire on a lake with 'Musser SR and COVID 19'"
