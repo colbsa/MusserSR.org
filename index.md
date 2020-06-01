@@ -4,7 +4,7 @@ layout: index
 
 slides:
 - image: /img/slider/slide-musser-covid19.png
-  alt: "Old western poster with a cowboy hat with the cub scout logo on it and 'Wild West' above and below the hat"
+  alt: "Picture of a campfire in the dark with the writing 'Musser SR and COVID-19'"
   link: /coronavirus
 
 button-bar:
