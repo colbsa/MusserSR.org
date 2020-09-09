@@ -27,10 +27,13 @@ All participants receive lunch with your registration. Along with the open progr
       </thead>
       <tbody>
           <tr>
-            <td>Youth Price - TBD</td>
+            <td>New Cubs Price - $0</td>
           </tr>
           <tr>
-            <td>Adult Price - TBD</td>
+            <td>Youth Price - $18</td>
+          </tr>
+          <tr>
+            <td>Adult Price - $5</td>
           </tr>
       </tbody>
     </table>
@@ -54,42 +57,22 @@ All participants receive lunch with your registration. Along with the open progr
           <tr>
             <td>Session 1</td>
             <td>October 10</td>
-            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
+            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationid=67575&orgkey=1112">Register Now!</a></td>
           </tr>
           <tr>
             <td>Session 2</td>
-            <td>October 11</td>
-            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
+            <td>October 17</td>
+            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationid=67575&orgkey=1112">Register Now!</a></td>
           </tr>
           <tr>
             <td>Session 3</td>
-            <td>October 17</td>
-            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
+            <td>October 24</td>
+            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationid=67575&orgkey=1112">Register Now!</a></td>
           </tr>
           <tr>
             <td>Session 4</td>
-            <td>October 18</td>
-            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
-          </tr>
-          <tr>
-            <td>Session 5</td>
-            <td>October 24</td>
-            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
-          </tr>
-          <tr>
-            <td>Session 6</td>
-            <td>October 25</td>
-            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
-          </tr>
-          <tr>
-            <td>Session 7</td>
             <td>October 31</td>
-            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
-          </tr>
-          <tr>
-            <td>Session 8</td>
-            <td>November 1</td>
-            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
+            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationid=67575&orgkey=1112">Register Now!</a></td>
           </tr>
       </tbody>
     </table>
