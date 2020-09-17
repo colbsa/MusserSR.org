@@ -3,9 +3,6 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/slide-service-day.png
-  alt: "Scout sitting on a trail with a maul; with 'Service Day - September 12'"
-  link: /news/2020-Service-Day
 - image: /img/slider/slide-fallfest.png
   alt: "Tree with moss surrounded by fall foliage; with 'Fall Fest - Saturdays, October 10-31'"
   link: /weekend/fall-fest

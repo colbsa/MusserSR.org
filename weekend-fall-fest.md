@@ -5,13 +5,19 @@ permalink: /weekend/fall-fest
 excerpt: Throughout the autumn, we host Fall Fest - a day-long program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family!
 ---
 
-The Musser camping experience is not just a summer thing. Throughout the autumn, we host Fall Fest - a day-long program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family! All participants will experience a wide array of activities to give a just a taste of what the summer camp program opportunities have to offer. The program is offered in a newly redesigned open program format. All programs areas are open throughout the day - 9am to 3pm - where you, your family, or your Pack decide what to do and when to do it. Activities are designed for Cubs of all levels and abilities, and may include: Archery shooting, BB gun shooting, Slingshots, Apple Chucking, BMX Bikes, Bouldering, Crafts and Pumpkin Carving, Drone Flying, Scout Skills, and more family fun!
+The Musser camping experience is not just a summer thing. Throughout the autumn, we host Fall Fest - a half day program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family!  The program is offered in a newly redesigned open program format. Sign up for a morning (9-11) or afternoon (1-4) block to experience our Fall program offerings with your family. Activities are designed for Cubs of all levels and abilities, and may include: Archery shooting, BB gun shooting, Crafts and Pumpkin Carving, Fishing, Ozobots, carnival games, Nature, and more family fun!
 
-All participants receive lunch with your registration. Along with the open program format, you choose when you want lunch as well. Served between 11am & 1pm, you decide where you eat our cafeteria style lunch. All Scouts will also receive a Fall Fest patch. You don’t want to miss out on the magic Musser has to offer all year long.
+All Youth will receive a Fall Fest patch. You don’t want to miss out on the magic Musser has to offer all year long.
+
+## COVID Specific Information
+
+During these unprecedented times we are asking everyone that is attending Fall Fest and staying at Musser SR for the day to fill out the [COVID questionnaire](https://docs.google.com/document/d/1lOQwzgRHTjeNazHFIY9_yl63192nllqwsivWf092Pto/edit){:target="_blank"} and bring it with you to turn in at check in.  Please wear a face covering at all time while on property, and try to maintain 6 feet distance from all non-household members while attending this event.  There will be hand sanitizer stations all over for your use while attending, and all equipment will be sanitized between family use to help keep everyone safe while enjoying the outdoor at Musser SR.
 
 {% contentfor sidebar %}
 
 {% picture thumb /img/weekend/fall-fest.jpg --img class="img-fluid rounded mb-2" --alt Young scouts carving pumpkins with their parents around a table in the woods %}
+
+<a href="/files/weekend_details/FallFest2020.pdf" class="btn btn-block btn-primary my-3" download>Download Flyer</a>
 
 {% endcontentfor %}
 

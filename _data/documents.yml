@@ -43,6 +43,9 @@
 - section:
   name: Weekend Camp Details
   files:
+  - name: 2020 Fall Festival
+    url: /files/weekend_details/FallFest2020.pdf
+    update:
   - name: 2020 Family Camping Weekends Flier
     url: /files/weekend_details/FamilyCampingWeekends2020.pdf
     update:
