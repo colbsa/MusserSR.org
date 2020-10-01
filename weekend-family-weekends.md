@@ -27,16 +27,16 @@ Check back in January for more details about registration and program as they be
       </thead>
       <tbody>
           <tr>
-            <td>Youth Price - &dollar;75</td>
+            <td>Youth Price - TBD</td>
           </tr>
           <tr>
-            <td>Adult Price - &dollar;30</td>
+            <td>Adult Price - TBD</td>
           </tr>
           <tr>
-            <td>Family of 4 Price - &dollar;200</td>
+            <td>Family of 4 Price - TBD</td>
           </tr>
           <tr>
-            <td>Family of 5 Price - &dollar;250</td>
+            <td>Family of 5 Price - TBD</td>
           </tr>
       </tbody>
     </table>
@@ -55,13 +55,8 @@ Check back in January for more details about registration and program as they be
       </thead>
       <tbody>
           <tr>
-            <td>Session 1</td>
-            <td>June 5 - June 7</td>
-            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
-          </tr>
-          <tr>
-            <td>Session 2</td>
-            <td>June 12 - June 14</td>
+            <td>TBD</td>
+            <td>TBD</td>
             <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
           </tr>
       </tbody>
