@@ -9,8 +9,19 @@ Musser Scout Reservation is home to the Nelson Training Center, a multi-function
 
 {% for training in site.data.training %}
 
-{% assign include_image = "/img/weekend/" | append: training.thumbnail %}
-
-{% include section_card.html image=include_image alt=training.alt title=training.name content=training.description %}
+<div class="card my-3">
+  <div class="row">
+    <div class="col-md-3">
+      {% picture thumb /img/weekend/{{training.thumbnail}} --img class="w-100" --alt {{training.alt}} %}
+    </div>
+    <div class="col-md-9 p-3">
+      <div class="card-block px-3">
+        <h2 class="card-title">{{training.name}}</h2>
+        <p class="card-text">{{training.description}}</p>
+        <a href="{{training.link}}" class="btn btn-primary">Learn More &amp; Sign Up</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 {% endfor %}
