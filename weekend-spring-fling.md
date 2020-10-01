@@ -47,9 +47,9 @@ As the excitement for summer builds, it’s time to get outside and spend a day 
       </thead>
       <tbody>
           <tr>
-            <td>Session 1</td>
-            <td>May 16</td>
-            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/spring-fling/2633325">Register Now!</a></td>
+            <td>TBD</td>
+            <td>TBD</td>
+            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
           </tr>
       </tbody>
     </table>
