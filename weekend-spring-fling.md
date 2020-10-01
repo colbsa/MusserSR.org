@@ -5,16 +5,16 @@ permalink: /weekend/spring-fling
 excerpt: This taste of the Musser camping experience will include activities at Nature, STEM, Handicraft, Scoutcraft, Archery, BBs, and more!
 ---
 
-<div class="row">
-  <div class="col-md-8">
-    <p>
-      As the excitement for summer builds, it’s time to get outside and spend a day at Musser Scout Reservation! We’re proud to reintroduce our Spring Fling, an awesome preview for the adventure that awaits during our summer camp program. This taste of the Musser camping experience will include activities at Nature, STEM, Handicraft, Scoutcraft, Archery, BBs, and more! Come join us on Saturday, May 16th and be on the lookout for more details as we get closer!
-    </p>
-  </div>
-  <div class="col-md-4">
-    {% picture thumb /img/weekend/spring-fling.jpg --img class="img-fluid rounded mb-2" --alt Four young boys and their two leaders smiling in front of a dining hall %}
-  </div>
-</div>
+As the excitement for summer builds, it’s time to get outside and spend a day at Musser Scout Reservation! We’re proud to reintroduce our Spring Fling, an awesome preview for the adventure that awaits during our summer camp program. This taste of the Musser camping experience will include activities at Nature, STEM, Handicraft, Scoutcraft, Archery, BBs, and more! Come join us on Saturday, May 16th and be on the lookout for more details as we get closer!
+
+{% contentfor sidebar %}
+
+{% picture thumb /img/weekend/spring-fling.jpg --img class="img-fluid rounded mb-2" --alt Four young boys and their two leaders smiling in front of a dining hall %}
+
+{% endcontentfor %}
+
+{% contentfor bottom %}
+
 <div class="row"> 
   <div class="col">
     <table class="table table-striped my-3 ">
@@ -58,3 +58,5 @@ excerpt: This taste of the Musser camping experience will include activities at 
     </div>
   </div>
 </div>
+
+{% endcontentfor %}
