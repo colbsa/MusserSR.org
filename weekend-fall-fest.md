@@ -5,7 +5,7 @@ permalink: /weekend/fall-fest
 excerpt: Throughout the autumn, we host Fall Fest - a day-long program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family!
 ---
 
-The Musser camping experience is not just a summer thing. Throughout the autumn, we host Fall Fest - a half day program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family! Sign up for a morning (9-11) or afternoon (1-4) block to experience our Fall program offerings with your family. Activities are designed for Cubs of all levels and abilities, and may include: Archery shooting, BB gun shooting, Crafts and Pumpkin Carving, Fishing, Ozobots, carnival games, Nature, and more family fun!
+The Musser camping experience is not just a summer thing. Throughout the autumn, we host Fall Fest - a half day program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family! Sign up for a morning (9-12) or afternoon (1-4) block to experience our Fall program offerings with your family. Activities are designed for Cubs of all levels and abilities, and may include: Archery shooting, BB gun shooting, Crafts and Pumpkin Carving, Fishing, Ozobots, carnival games, Nature, and more family fun!
 
 All Youth will receive a Fall Fest patch. You don’t want to miss out on the magic Musser has to offer all year long.
 
