@@ -7,8 +7,8 @@
 - title: Unami Lodge Service Day
   date: 2020-10-03
   date-end:
-  link-text: Learn More
-  link-url: https://unamilodge.org/news/2020-Fall-Service-Day
+  link-text: Event Passed
+  link-url:
 
 - title: Cub Scout Fall Fest
   date: 2020-10-10
@@ -33,6 +33,12 @@
   date-end:
   link-text: Register Now
   link-url: https://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationid=67575&orgkey=1112
+
+- title: Hart Rendevous Day
+  date: 2020-11-07
+  date-end:
+  link-text: Register Now
+  link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2743091&orgkey=541
 
 - title: Webelos Woods
   date: 2021-04-23
