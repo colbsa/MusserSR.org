@@ -13,6 +13,8 @@ All Youth will receive a Fall Fest patch. You don’t want to miss out on the ma
 
 During these unprecedented times we are asking everyone that is attending Fall Fest and staying at Musser SR for the day to fill out the [COVID questionnaire](https://docs.google.com/document/d/1lOQwzgRHTjeNazHFIY9_yl63192nllqwsivWf092Pto/edit){:target="_blank"} and bring it with you to turn in at check in.  Please wear a face covering at all time while on property, and try to maintain 6 feet distance from all non-household members while attending this event.  There will be hand sanitizer stations all over for your use while attending, and all equipment will be sanitized between family use to help keep everyone safe while enjoying the outdoor at Musser SR.
 
+<p class="text-danger">Walk-ins will not be accepted. Prior registration is required, and when the session is full, there will be no more registrations accepted for that session.</p>
+
 {% contentfor sidebar %}
 
 {% picture thumb /img/weekend/fall-fest.jpg --img class="img-fluid rounded mb-2" --alt Young scouts carving pumpkins with their parents around a table in the woods %}
