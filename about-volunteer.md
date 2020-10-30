@@ -17,12 +17,6 @@ Has your unit always come to Musser? Are you interested in sharing the Musser ca
  
 To join the camp promotions team, [contact Ted McDonald](/contact?subject=Camp%20Promotions), Council Camping Chairman.
 
-
-<h2>Ranger Corps<div class="h5">Helping Maintain the Reservation one Project at a Time</div></h2>
-Have a special skill that can make our camps a better place? Want to help make our camps shine? Be a part of the Cradle of Liberty Council Ranger Corps! This dedicated group of volunteers will assist the camp ranger in keeping everything working at Musser. From roofers to plumbers, electricians to carpenters, and everyone in-between, the Ranger Corps works side-by-side with our camp ranger to bring our camps to life!
-
-To join the Ranger Corps and begin serving with camp improvement projects today, [let us know a little about yourself](https://forms.gle/LomB6KG3WP27KbbT7){:target="_blank"} and we will find a project for you.
-
 <h2>Adopt-A-Cabin / Adopt-A-Campsite <div class="h5">Earn Your Unit's Next Stay</div></h2>
 Does your unit have a few leaders or parents who love camp and want to help us improve it? We are excited to reintroduce our Adopt-A-Cabin/Adopt-A-Campsite program in an effort to upgrade the many structures and campsites throughout Musser Scout Reservation. Your unit will “adopt” a cabin or campsite to help make it welcoming and functional through general repairs and beautification upgrades. 
 
