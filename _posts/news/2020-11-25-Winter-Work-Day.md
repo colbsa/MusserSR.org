@@ -5,7 +5,7 @@ author: Jason Burns
 date: 2020-11-25
 banner: 2020-WWD-Banner.png
 banneralt: "Fall Foliage with Winter Work Day text"
-thumbnail: 2020-WWD-Post.png
+thumbnail: 2020-WWD-Thumb.png
 thumbalt: "Fall Foliage with Winter Work Day text"
 excerpt: Spend a day outside volunteering at Musser Scout Reservation!
 ---
