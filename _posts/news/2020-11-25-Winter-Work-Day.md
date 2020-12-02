@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Winter Work Day
-author:
+author: Jason Burns
 date: 2020-11-25
-banner: 2020-FallFest.png
-banneralt: "Tree with moss surrounded by fall foliage; with 'Fall Fest - Saturdays, October 10-31'"
-thumbnail: fall-foliage.png
-thumbalt: "Tree with moss surrounded by fall foliage"
+banner: 2020-WWD-Banner.png
+banneralt: "Fall Foliage with Winter Work Day text"
+thumbnail: 2020-WWD-Post.png
+thumbalt: "Fall Foliage with Winter Work Day text"
 excerpt: Spend a day outside volunteering at Musser Scout Reservation!
 ---
 
