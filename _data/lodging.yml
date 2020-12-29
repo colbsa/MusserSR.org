@@ -78,46 +78,6 @@
   firepit: true
   parking: true
   cubs: false
-- name: Gren Day
-  camp: Delmont
-  class: Tenderfoot
-  cabin: true
-  site: false
-  cost: 60
-  capacity: 14
-  adirondacks: 0
-  cots: true
-  electricity: true
-  stove: Stovetop
-  refrigerator: false
-  water: Nearby
-  restroom: Latrine
-  fireplace: false
-  heat: false
-  pavilion: false
-  firepit: true
-  parking: false
-  cubs: false
-- name: Spaid Lodge
-  camp: Delmont
-  class: Rustic
-  cabin: true
-  site: false
-  cost: 60
-  capacity: 18
-  adirondacks: 0
-  cots: true
-  electricity: false
-  stove: None
-  refrigerator: false
-  water: None
-  restroom: Latrine
-  fireplace: false
-  heat: false
-  pavilion: false
-  firepit: true
-  parking: false
-  cubs: false
 - name: Pioneer Lodge
   camp: Delmont
   class: Rustic
@@ -171,7 +131,7 @@
   stove: None
   refrigerator: false
   water: Nearby
-  restroom: None
+  restroom: Latrine
   fireplace: false
   heat: false
   pavilion: false
@@ -330,10 +290,10 @@
   electricity: true
   stove: Stove & Oven
   refrigerator: true
-  water: In Cabin
+  water: Nearby
   restroom: Latrine
   fireplace: false
-  heat: true
+  heat: false
   pavilion: false
   firepit: true
   parking: false
