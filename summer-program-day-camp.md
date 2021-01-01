@@ -5,12 +5,15 @@ permalink: /summer/day-camp
 excerpt: Day Camp is a perfect program for younger Scouts and Scouts who want more Scouting programs without the overnight component.
 ---
 
-Day Camp at Musser is a week-long, Monday through Friday program. Program begins at 9am each day and ends at 4pm each day. Lunch is provided for all day campers each day and [bussing is available from different locations](/summer/bus) throughout the council each week. Day Camp is a perfect program for those younger Scouts who are not quite ready for [Weekend Overnight Camp](/summer/weekend-overnight) or [Full-Week Overnight Camp](/summer/full-week-overnight), or for those Cubs who want more Scouting programs without the overnight component. We recommend Day Camp for Tigers through Bears (1st - 3rd graders).
+Day Camp at Musser is a week-long, Monday through Friday program. Program begins at 9am each day and ends at 4pm each day. Cubs will participate in various activities throughout Camp Garrison, including archery, BB, handicraft, STEM, and much more! Your Den will be guided through an exciting week by our trained volunteer. Registration is on an individual basis.
 
-**NEW FOR 2020** - For those parents who need to drop their Scouts off early, or pick up your Scouts a little later, we will be offering before and after care. There will be an additional fee of $50 for 7:30am drop-off or 6:00pm pick-up. For both early drop-off and late pick-up there is a fee of $75. When registering you Cub for camp, select the early drop-off or late pick-up option to take full advantage of this new opportunity!
+**NEW FOR 2021** - For those parents who need to drop their Scouts off early, or pick up your Scouts a little later, we will be offering before and after care. There will be an additional fee of $50 for 7:30am drop-off or 6:00pm pick-up. For both early drop-off and late pick-up there is a fee of $75. When registering you Cub for camp, select the early drop-off or late pick-up option to take full advantage of this new opportunity!
 
 <div class="text-center">
-  <a class="btn btn-primary" href="/summer/bus">View Bus Schedules</a>
+  <strong>
+    Dates and Registration Coming Soon.<br/>
+    See you in 2021!
+  </strong>
 </div>
 
 {% contentfor sidebar %}
@@ -23,7 +26,7 @@ Day Camp at Musser is a week-long, Monday through Friday program. Program begins
 
 <div class="row">
   <div class="col">
-    <table class="table table-striped my-3 ">
+    <table class="table table-striped my-3 text-center">
       <thead class="text-center">
         <tr>
           <th scope="col"><h2 class="my-0">Day Camp</h2></th>
@@ -31,23 +34,23 @@ Day Camp at Musser is a week-long, Monday through Friday program. Program begins
       </thead>
       <tbody>
           <tr>
-            <td>Early Bird: $185 per Youth / $50 per Adult</td>
+            <td>Early Bird: $155 per Youth</td>
           </tr>
           <tr>
-            <td>Regular: $200 per Youth / $50 per Adult</td>
+            <td>Regular: $180 per Youth</td>
           </tr>
           <tr>
-            <td>Additional Weeks of Day Camp: $160 per Week</td>
+            <td><strong>Save money by registering for all 3 weeks for $450!</strong></td>
           </tr>
       </tbody>
     </table>
     <div class="text-center">
       <strong>Every kid receives a free patch and t-shirt!</strong><br>
-      <em>All Early Bird rates end May 1, 2020.</em>
+      <em>All Early Bird rates end May 1, 2021.</em>
     </div>
   </div>
   <div class="col">
-    <table class="table table-striped my-3 text-center">
+    <!-- <table class="table table-striped my-3 text-center">
       <thead>
         <tr>
           <th scope="col">Session</th>
@@ -80,7 +83,7 @@ Day Camp at Musser is a week-long, Monday through Friday program. Program begins
     </table>
     <div class="text-center">
       <a class="btn btn-primary btn-lg" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
-    </div>
+    </div> -->
   </div>
 </div>
 

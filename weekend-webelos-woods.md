@@ -9,9 +9,12 @@ Making sure that Webelos and Arrow of Light Scouts are prepared to join Scouts B
 
 Webelos will experience a weekend of adventure, pitching their own tent and practicing Scout skills, as they make new friends while learning what Scouts BSA is all about. This piece of the Musser camping experience will have every body ready to take the next step in their Scouting adventure.
 
-We are very excited to offer this program in the Spring of 2021.  We are working very hard to come up with an experience that the Scouts will not forget.  Look for more information later this Winter, in the meantime see what we are working on...
-
-Plan-A will be an entire weekend experience with camping, Plan-B will be an awesome one FULL day experience.  As we get a little closer to the new date we will let you know the details of Adventures offered and the fun that will be had by all.
+<div class="text-center">
+  <strong>
+    Dates and Registration Coming Soon.<br/>
+    See you in 2021!
+  </strong>
+</div>
 
 {% contentfor sidebar %}
 
@@ -21,7 +24,7 @@ Plan-A will be an entire weekend experience with camping, Plan-B will be an awes
 
 {% contentfor bottom %}
 
-<div class="row"> 
+<!-- <div class="row"> 
   <div class="col">
     <table class="table table-striped my-3 ">
       <thead class="text-center">
@@ -63,6 +66,6 @@ Plan-A will be an entire weekend experience with camping, Plan-B will be an awes
       <a role="button" class="btn btn-primary btn-lg" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
     </div>
   </div>
-</div>
+</div> -->
 
 {% endcontentfor %}

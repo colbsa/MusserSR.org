@@ -12,7 +12,7 @@ scripts:
 ---
 
 ## Cabins & Campsites
-Musser Scout Reservation is home to {{site.data.lodging.size}} cabins and campsites available for rental at various points throughout the year. Review the table below to see the accommodations and facilities that are available with each. With such a numerous amount of facilities available, there is something available for any unit - Cub Pack, Scouts BSA Troop, Venturing Crew, or Sea Scout Ship - looking to complete any type of outdoor camping experience. Those facilities that are “Cub Friendly” - with heating and year-round water - are noted as such. All cabins and sites have either a fireplace inside or a fire pit outside. If interested in renting an entire venue/camp, please note the capacities below include all cabins and campsites.
+Musser Scout Reservation is home to {{site.data.lodging.size}} cabins and campsites available for rental throughout the year. Review the table below to see the accommodations that are available with each facility. With many different options to choose from, there is something available for any unit - Cub Pack, Scouts BSA Troop, Venturing Crew, or Sea Scout Ship - looking to have an outdoor camping experience. Those facilities that are “Cub Friendly” - with heating and year-round water - are noted as such. All cabins and sites have either a fireplace inside or a fire pit outside. 
 
 {% contentfor sidebar %}
 
@@ -92,6 +92,9 @@ Musser Scout Reservation is home to {{site.data.lodging.size}} cabins and campsi
     </tr>
   </tfoot>
 </table>
+
+*Full Washroom denotes that a facility has both flush toilets and a shower.*<br>
+*Specific information regarding the location of nearby water can be found on our [reservation maps](/maps).*
 
 {% assign delmont_facilities = site.data.lodging | where: "camp", "Delmont" %}
 {% assign garrison_facilities = site.data.lodging | where: "camp", "Garrison" %}

@@ -9,25 +9,21 @@ The Musser camping experience is not just a summer thing. Throughout the autumn,
 
 All Youth will receive a Fall Fest patch. You don’t want to miss out on the magic Musser has to offer all year long.
 
-## COVID Specific Information
-
-During these unprecedented times we are asking everyone that is attending Fall Fest and staying at Musser SR for the day to fill out the [COVID questionnaire](https://docs.google.com/document/d/1lOQwzgRHTjeNazHFIY9_yl63192nllqwsivWf092Pto/edit){:target="_blank"} and bring it with you to turn in at check in.  Please wear a face covering at all time while on property, and try to maintain 6 feet distance from all non-household members while attending this event.  There will be hand sanitizer stations all over for your use while attending, and all equipment will be sanitized between family use to help keep everyone safe while enjoying the outdoor at Musser SR.
-
 <p class="text-danger">Walk-ins will not be accepted. Prior registration is required, and when the session is full, there will be no more registrations accepted for that session.</p>
 
 {% contentfor sidebar %}
 
 {% picture thumb /img/weekend/fall-fest.jpg --img class="img-fluid rounded mb-2" --alt Young scouts carving pumpkins with their parents around a table in the woods %}
 
-<a href="/files/weekend_details/FallFest2020.pdf" class="btn btn-block btn-primary my-3" download>Download Flyer</a>
-
+<!-- <a href="/files/weekend_details/FallFest2020.pdf" class="btn btn-block btn-primary my-3" download>Download Flyer</a>
+ -->
 {% endcontentfor %}
 
 {% contentfor bottom %}
 
 <div class="row"> 
   <div class="col">
-    <table class="table table-striped my-3 ">
+    <table class="table table-striped my-3 text-center">
       <thead class="text-center">
         <tr>
           <th scope="col"><h2 class="my-0">Fall Fest</h2></th>
@@ -35,10 +31,10 @@ During these unprecedented times we are asking everyone that is attending Fall F
       </thead>
       <tbody>
           <tr>
-            <td>New Cubs Price - $0</td>
+            <td>New Cubs Price - Free!</td>
           </tr>
           <tr>
-            <td>Youth Price - $18</td>
+            <td>Youth Price - $20</td>
           </tr>
           <tr>
             <td>Adult Price - $5</td>
@@ -64,29 +60,29 @@ During these unprecedented times we are asking everyone that is attending Fall F
       <tbody>
           <tr>
             <td>Session 1</td>
-            <td>October 10</td>
-            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationid=67575&orgkey=1112">Register Now!</a></td>
+            <td>October 9</td>
+            <td><a class="btn btn-primary btn-block" href="#">COMING SOON</a></td>
           </tr>
           <tr>
             <td>Session 2</td>
-            <td>October 17</td>
-            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationid=67575&orgkey=1112">Register Now!</a></td>
+            <td>October 16</td>
+            <td><a class="btn btn-primary btn-block" href="#">COMING SOON</a></td>
           </tr>
           <tr>
             <td>Session 3</td>
-            <td>October 24</td>
-            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationid=67575&orgkey=1112">Register Now!</a></td>
+            <td>October 23</td>
+            <td><a class="btn btn-primary btn-block" href="#">COMING SOON</a></td>
           </tr>
           <tr>
             <td>Session 4</td>
-            <td>October 31</td>
-            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationid=67575&orgkey=1112">Register Now!</a></td>
+            <td>October 30</td>
+            <td><a class="btn btn-primary btn-block" href="#">COMING SOON</a></td>
           </tr>
       </tbody>
     </table>
-    <div class="text-center">
+    <!-- <div class="text-center">
       <a role="button" class="btn btn-primary btn-lg" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
-    </div>
+    </div> -->
   </div>
 </div>
 

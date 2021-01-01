@@ -1,54 +1,30 @@
 - section:
   name: Summer Camp Details
   files:
-  - name: Response to COVID-19
-    url: /files/health_and_safety/2020.03.23_Covid-19-Update-Musser.pdf
+  - name: 2021 Summer Day Camp Flier
+    url:
+    update:
+  - name: 2021 Day Camp Parents Guide
+    url:
     update:
   - name: 2020 Summer Camp Flier
     url: /files/summer_details/2020_Musser_Summer_Flier.pdf
     update:
-  - name: 2020 Summer Camp Brochure
-    url: /files/summer_details/2020_Musser_Summer_Brochure.pdf
-    update:
-  - name: 2020 Day Camp Leaders' Guide
-    url:
-    update:
-  - name: 2020 Overnight Camp Leader’s Guide
-    url:
-    update:
-  - name: 2020 Parents Guide
-    url:
-    update:
-  - name: Build Your Own Adventure (BYOA) Signup Instructions
-    url:
-    update: 2020-05-01
 - section:
   name: Summer Camp Forms
   files:
   - name: Financial Aid “Campership” Application
     url: https://colbsa.org/camperships/
     update:
-  - name: Pre-Camp Swim Test
-    url: /files/summer_forms/Precamp_Swim_Test.pdf
-    update:
-  - name: Sample Pack Roster
-    url:
-    update:
   - name: Musser Parental Release
     url: /files/summer_forms/Release_of_Campers.docx
     update:
   - name: Refund Request Form
     url:
-    update: 2020-05-01
+    update: 2021-05-01
 - section:
   name: Weekend Camp Details
   files:
-  - name: 2020 Fall Festival
-    url: /files/weekend_details/FallFest2020.pdf
-    update:
-  - name: 2020 Family Camping Weekends Flier
-    url: /files/weekend_details/FamilyCampingWeekends2020.pdf
-    update:
 - section:
   name: Health & Safety Forms
   files:
