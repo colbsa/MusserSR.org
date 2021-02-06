@@ -5,7 +5,7 @@ permalink: /calendar/
 excerpt: Stay up to date on all of our upcoming events at Musser Scout Reservation.
 ---
 <div class="table-responsive col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
-  <table class="table table-responsive table-striped mt-3">
+  <table class="table table-striped mt-3">
     <thead>
       <tr>
         <th scope="col">Event</th>
