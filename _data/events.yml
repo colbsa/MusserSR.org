@@ -1,53 +1,167 @@
-- title: Camp Service Day
-  date: 2020-09-12
+- title: Reservation Workday
+  date: 2021.02.13
   date-end:
-  link-text: Event Passed
+  link-text: No Registration Required
   link-url:
 
-- title: Unami Lodge Service Day
-  date: 2020-10-03
-  date-end:
-  link-text: Event Passed
-  link-url:
-
-- title: Cub Scout Fall Fest
-  date: 2020-10-10
-  date-end:
-  link-text: Event Passed
-  link-url:
-
-- title: Cub Scout Fall Fest
-  date: 2020-10-17
-  date-end:
-  link-text: Event Passed
-  link-url:
-
-- title: Cub Scout Fall Fest
-  date: 2020-10-24
-  date-end:
-  link-text: Event Passed
-  link-url:
-
-- title: Cub Scout Fall Fest
-  date: 2020-10-31
-  date-end:
-  link-text: Event Passed
-  link-url:
-
-- title: Hart Rendevous Day
-  date: 2020-11-07
-  date-end:
-  link-text: Event Passed
-  link-url:
-
-- title: Winter Work Day
-  date: 2020-12-19
+- title: Cradle of Liberty Jam - Battle of the Bands
+  date: 2021-03-13
   date-end:
   link-text: Learn More
-  link-url: https://colbsa.doubleknot.com/event/musser-scout-reservation-work-day/2760617
+  link-url: https://colbsa.org/25th/
 
-- title: Webelos Woods
-  date: 2021-04-23
-  date-end: 2021-04-25
+- title: Reservation Workday
+  date: 2021.03.13
+  date-end:
+  link-text: No Registration Required
+  link-url:
+
+- title: Beaver Workday
+  date: 2021-03-27
+  date-end:
+  link-text: Register Now
+  link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2767020
+
+- title: Reservation Workday
+  date: 2021.04.10
+  date-end:
+  link-text: No Registration Required
+  link-url:
+
+- title: Unami Lodge Spring Service Weekend
+  date: 2021-04-16
+  date-end: 2021-04-18
+  link-text: Coming Soon
+  link-url:
+
+- title: Reservation Workday
+  date: 2021.05.08
+  date-end:
+  link-text: No Registration Required
+  link-url:
+
+- title: Cradle of Liberty Jam – Main Event
+  date: 2021-05-21
+  date-end: 2021-05-23
   link-text: Learn More
-  link-url: /weekend/webelos-woods
+  link-url: https://colbsa.org/25th/
+
+- title: Reservation Workday
+  date: 2021.06.12
+  date-end:
+  link-text: No Registration Required
+  link-url:
+
+- title: Family Adventure Weekend
+  date: 2021.06.18
+  date-end: 2021.06.20
+  link-text: Coming Soon
+  link-url:
+
+- title: Cub Scout Day Camp
+  date: 2021.07.05
+  date-end: 2021.07.09
+  link-text: Register Now
+  link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2775759
+
+- title: Family Adventure Weekend
+  date: 2021.07.09
+  date-end: 2021.07.11
+  link-text: Coming Soon
+  link-url:
+
+- title: Reservation Workday
+  date: 2021.07.10
+  date-end:
+  link-text: No Registration Required
+  link-url:
+
+- title: Cub Scout Day Camp
+  date: 2021.07.19
+  date-end: 2021.07.23
+  link-text: Register Now
+  link-url:  http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2775768
+
+- title: Family Adventure Weekend
+  date: 2021.07.23
+  date-end: 2021.07.25
+  link-text: Coming Soon
+  link-url:
+
+- title: Cub Scout Day Camp
+  date: 2021.08.02
+  date-end: 2021.08.06
+  link-text: Register Now
+  link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2775774
+
+- title: Family Adventure Weekend
+  date: 2021.08.06
+  date-end: 2021.08.08
+  link-text: Coming Soon
+  link-url:
+
+- title: Reservation Workday
+  date: 2021.08.14
+  date-end:
+  link-text: No Registration Required
+  link-url:
+
+- title: Reservation Workday
+  date: 2021.09.11
+  date-end:
+  link-text: No Registration Required
+  link-url:
+
+- title: Beaver Workday
+  date: 2021.09.11
+  date-end:
+  link-text: Register Now
+  link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2767021
+
+- title: Unami Lodge Fall Fellowship
+  date: 2021.10.01
+  date-end: 2021.10.03
+  link-text: Coming Soon
+  link-url:
+
+- title: Reservation Workday
+  date: 2021.10.09
+  date-end:
+  link-text: No Registration Required
+  link-url:
+
+- title: Cub Scout Fall Fest
+  date: 2021.10.09
+  date-end:
+  link-text: Coming Soon
+  link-url:
+
+- title: Cub Scout Fall Fest
+  date: 2021.10.16
+  date-end:
+  link-text: Coming Soon
+  link-url:
+
+- title: Cub Scout Fall Fest
+  date: 2021.10.23
+  date-end:
+  link-text: Coming Soon
+  link-url:
+
+- title: Cub Scout Fall Fest
+  date: 2021.10.23
+  date-end:
+  link-text: Coming Soon
+  link-url:
+
+- title: Reservation Workday
+  date: 2021.11.13
+  date-end:
+  link-text: No Registration Required
+  link-url:
+
+- title: Reservation Workday
+  date: 2021.12.18
+  date-end:
+  link-text: No Registration Required
+  link-url:
