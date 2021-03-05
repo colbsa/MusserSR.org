@@ -3,13 +3,10 @@
   files:
   - name: 2021 Summer Day Camp Flier
     url:
-    update:
+    update: /files/summer_details/2021_CommunityDayCamps_Flier.pdf
   - name: 2021 Day Camp Parents Guide
     url:
-    update:
-  - name: 2020 Summer Camp Flier
-    url: /files/summer_details/2020_Musser_Summer_Flier.pdf
-    update:
+    update: Mid-April
 - section:
   name: Summer Camp Forms
   files:

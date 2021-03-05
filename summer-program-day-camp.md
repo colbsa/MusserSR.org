@@ -54,7 +54,7 @@ Day Camp at Musser is a week-long, Monday through Friday program. Program begins
       <tbody>
           <tr>
             <td>Week 1</td>
-            <td>JJuly 5 - July 9</td>
+            <td>July 5 - July 9</td>
             <td><a class="btn btn-primary btn-block" href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2775759">Register Now</a></td>
           </tr>
           <tr>
