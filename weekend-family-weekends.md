@@ -5,13 +5,33 @@ permalink: /weekend/family-weekends
 excerpt: Different than our summer camp program opportunities, this weekend is designed with your family in mind.
 ---
 
-Back and better than ever, our Cub Family Weekends are a way for the whole family to enjoy the Musser camping experience. Different than our summer camp program opportunities, this weekend is designed with your family in mind. You bring your family and a positive attitude, and we’ll provide the food, tent, and program to round-out a simple and fun time in camp. Meals will be served in the Dining Hall and you’ll sleep in a canvas wall tent on a platform - just like summer camp - while the rest of the weekend is made easy by our camp staff, including some S’mores around the campfire.
+Looking for an opportunity to get outdoors for some camping and fun with your family this summer? Join us at Camp Garrison for one of our Family Adventure Weekends! You bring the family, and we’ll bring the program food, and FUN to make for a great time in camp. Our goal is to help your family enjoy the outdoors without the normal fast-paced schedule of typical Scout camp. The Family Adventure Weekends will have program offered throughout your time in camp, but you will have the opportunity to decide what your family attends. Hanging-out in the campsite is more than acceptable, and going for a hike or fishing are other great ways to spend your weekend with us!
 
-Check back in January for more details about registration and program as they become available!
+Highlights include:
+
+<div class="row"> 
+  <div class="col">
+    <ul>
+      <li>Shooting Sports</li>
+      <li>Fishing</li>
+      <li>Crafts</li>
+      <li>Merit Badge Offering</li>
+      <li>Campfire & S’Mores</li>
+    </ul>
+  </div>
+  <div class="col">
+    <ul>
+      <li>Everyone gets a patch</li>
+      <li>Choose whether you tent or stay indoors at the Fort, Castle, or Ship</li>
+      <li>Good food – Friday snack through Sunday Breakfast</li>
+      <li>Check-in opens Friday night at 6pm</li>
+    </ul>
+  </div>
+</div>
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/weekend/family-weekend.jpg --img class="img-fluid rounded mb-2" --alt A woman and two young scouts in 'Cub Adventures' t-shirts smiling %}
+{% picture thumb /img/weekend/family-weekend-flier.jpg --img class="img-fluid rounded mb-2" --alt %}
 
 {% endcontentfor %}
 
@@ -19,30 +39,45 @@ Check back in January for more details about registration and program as they be
 
 <div class="row"> 
   <div class="col">
+  {% picture thumb /img/weekend/family-weekend-fishing.jpg --img class="img-fluid rounded mb-2" --alt A father showing off the family's catch of fish with two children %}
+  </div>
+  <div class="col">
+  {% picture thumb /img/weekend/family-weekend-garrison.jpg --img class="img-fluid rounded mb-2" --alt The entrance to 'Safeguard Castle' at Camp Garrison %}
+  </div>
+  <div class="col">
+  {% picture thumb /img/weekend/family-weekend.jpg --img class="img-fluid rounded mb-2" --alt A woman and two young scouts in 'Cub Adventures' t-shirts smiling %}
+  </div>
+</div>
+
+<div class="row"> 
+  <div class="col">
     <table class="table table-striped my-3 ">
       <thead class="text-center">
         <tr>
-          <th scope="col"><h2 class="my-0">Cub Family Weekends</h2></th>
+          <th scope="col">Age</th>
+          <th scope="col"><abbr title="Bring your own tent">BYOT</abbr></th>
+          <th scope="col">Indoors</th>
         </tr>
       </thead>
       <tbody>
           <tr>
-            <td>Youth Price - TBD</td>
+            <td>Youth (ages 5-17)</td>
+            <td>$60</td>
+            <td>$90</td>
           </tr>
           <tr>
-            <td>Adult Price - TBD</td>
+            <td>Adult (18+)</td>
+            <td>$50</td>
+            <td>$80</td>
           </tr>
           <tr>
-            <td>Family of 4 Price - TBD</td>
+            <td colspan="3">Youth under 5 are free</td>
           </tr>
           <tr>
-            <td>Family of 5 Price - TBD</td>
+            <td colspan="3">You can rent a 3-person tent for $20/weekend</td>
           </tr>
       </tbody>
     </table>
-    <div class="text-center">
-      <strong>Every kid receives a free patch!</strong><br>
-    </div>
   </div> 
   <div class="col">
     <table class="table table-striped my-3 text-center">
@@ -55,16 +90,33 @@ Check back in January for more details about registration and program as they be
       </thead>
       <tbody>
           <tr>
-            <td>TBD</td>
-            <td>TBD</td>
+            <td>1</td>
+            <td>June 18-20</td>
+            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>July 9-11</td>
+            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>July 23-25</td>
+            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>August 6-8</td>
             <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
           </tr>
       </tbody>
     </table>
     <div class="text-center">
-      <a role="button" class="btn btn-primary btn-lg" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
+      <a class="btn btn-primary btn-lg" target="_blank" href="/files/weekend_details/FamilyAdventureWeekends.pdf">Family Adventure Weekends Flier</a>
     </div>
   </div>
 </div>
+
+Have questions or want to learn more? Contact us at camping@colbsa.org
 
 {% endcontentfor %}
