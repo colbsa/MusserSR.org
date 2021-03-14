@@ -9,13 +9,6 @@ Day Camp at Musser is a week-long, Monday through Friday program. Program begins
 
 **NEW FOR 2021** - For those parents who need to drop their Scouts off early, or pick up your Scouts a little later, we will be offering before and after care. There will be an additional fee of $50 for 7:30am drop-off or 6:00pm pick-up. For both early drop-off and late pick-up there is a fee of $75. When registering you Cub for camp, select the early drop-off or late pick-up option to take full advantage of this new opportunity!
 
-<div class="text-center">
-  <strong>
-    Dates and Registration Coming Soon.<br/>
-    See you in 2021!
-  </strong>
-</div>
-
 {% contentfor sidebar %}
 
 {% picture thumb /img/summer/day-camp.png --img class="img-fluid rounded mb-2" --alt A group of boys and a man smiling %}
@@ -50,7 +43,7 @@ Day Camp at Musser is a week-long, Monday through Friday program. Program begins
     </div>
   </div>
   <div class="col">
-    <!-- <table class="table table-striped my-3 text-center">
+    <table class="table table-striped my-3 text-center">
       <thead>
         <tr>
           <th scope="col">Session</th>
@@ -61,29 +54,24 @@ Day Camp at Musser is a week-long, Monday through Friday program. Program begins
       <tbody>
           <tr>
             <td>Week 1</td>
-            <td>June 22 - June 26</td>
-            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/day-camp-session-1-june-22-26/2592997">Register Now</a></td>
+            <td>July 5 - July 9</td>
+            <td><a class="btn btn-primary btn-block" href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2775759">Register Now</a></td>
           </tr>
           <tr>
             <td>Week 2</td>
-            <td>June 29 - July 3</td>
-            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/day-camp-session-2-june-29-july-3/2592998">Register Now</a></td>
+            <td>July 19 - July 23</td>
+            <td><a class="btn btn-primary btn-block" href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2775768">Register Now</a></td>
           </tr>
           <tr>
             <td>Week 3</td>
-            <td>July 6 - July 10</td>
-            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/day-camp-session-3-july-6-10/2592999">Register Now</a></td>
-          </tr>
-          <tr>
-            <td>Week 4</td>
-            <td>July 13 - July 17</td>
-            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/day-camp-session-4-july-13-17/2593000">Register Now</a></td>
+            <td>August 2 - August 6</td>
+            <td><a class="btn btn-primary btn-block" href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2775774">Register Now</a></td>
           </tr>
       </tbody>
     </table>
     <div class="text-center">
       <a class="btn btn-primary btn-lg" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
-    </div> -->
+    </div>
   </div>
 </div>
 

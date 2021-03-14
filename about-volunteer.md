@@ -12,6 +12,9 @@ A positive camping experience begins with welcoming and enthusiastic hosts. The 
 
 Campmastering is a great way for a group of adult leaders to enjoy all the fun that camp has to offer in a whole new way. [Email us](/contact?subject=Campmaster) to let us know you are interested in serving as a campmaster and find weekends to serve!
 
+<h2>Cub Scout Day Camp</h2>
+Are you looking for a fun way to spend a week of your time this summer? Join us for a week of Day Camp and help our Cub Scouts have a Wild West adventure this summer! Whether you love to teach Nature, STEM, Handicraft, Shooting Sports, or a different area, or you just want to help lead the Scouts from station to station, we need lots of folks to help provide the fun for the Cubs. Contact [John Bickel](mailto:John.Bickel@scouting.org) if you are interested in helping!
+
 <h2>Camp Promotions Team <div class="h5">Share the Cub Scouting Adventure</div></h2>
 Has your unit always come to Musser? Are you interested in sharing the Musser camping experience with others? Join the camp promotions team to help teach others about what Musser has to offer. Whether it’s promoting camp at district roundtables, or sharing weekend stories at a Pack meeting, we’re always looking for help promoting the Cub Scouting adventure.  
  
