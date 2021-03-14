@@ -42,10 +42,10 @@ Highlights include:
   {% picture thumb /img/weekend/family-weekend-fishing.jpg --img class="img-fluid rounded mb-2" --alt A father showing off the family's catch of fish with two children %}
   </div>
   <div class="col">
-  {% picture thumb /img/weekend/family-weekend-garrison.jpg --img class="img-fluid rounded mb-2" --alt The entrance to 'Safeguard Castle' at Camp Garrison %}
+  {% picture thumb /img/weekend/family-weekend-square.jpg --img class="img-fluid rounded mb-2" --alt The entrance to 'Safeguard Castle' at Camp Garrison %}
   </div>
   <div class="col">
-  {% picture thumb /img/weekend/family-weekend.jpg --img class="img-fluid rounded mb-2" --alt A woman and two young scouts in 'Cub Adventures' t-shirts smiling %}
+  {% picture thumb /img/weekend/family-weekend-archery.jpg --img class="img-fluid rounded mb-2" --alt A woman and two young scouts in 'Cub Adventures' t-shirts smiling %}
   </div>
 </div>
 
