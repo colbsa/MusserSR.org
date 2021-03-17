@@ -110,3 +110,7 @@ Redirect /busing /summer/bus
 Redirect /coronavirus /news/COVID19-Summer-Camp-Update
 Redirect /covid19 /news/COVID19-Summer-Camp-Update
 Redirect /covid-19 /news/COVID19-Summer-Camp-Update
+
+Redirect /faw /weekend/family-weekends
+Redirect /daycamp /summer/day-camp
+Redirect /fallfest /weekend/fall-fest
