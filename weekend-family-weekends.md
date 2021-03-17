@@ -92,22 +92,22 @@ Highlights include:
           <tr>
             <td>1</td>
             <td>June 18-20</td>
-            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
+            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/family-adventure-weekend-june-18-20/2797976">Register Now</a></td>
           </tr>
           <tr>
             <td>2</td>
             <td>July 9-11</td>
-            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
+            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/family-adventure-weekend-july-9-11/2800191">Register Now</a></td>
           </tr>
           <tr>
             <td>3</td>
             <td>July 23-25</td>
-            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
+            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/family-adventure-weekend-july-23-25/2800192">Register Now</a></td>
           </tr>
           <tr>
             <td>4</td>
             <td>August 6-8</td>
-            <td><a class="btn btn-primary btn-block" href="#">Coming Soon!</a></td>
+            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/family-adventure-weekend-august-6-8/2800193">Register Now</a></td>
           </tr>
       </tbody>
     </table>
