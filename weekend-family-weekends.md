@@ -120,6 +120,6 @@ Highlights include:
   </div>
 </div>
 
-<p class="text-center">Have questions or want to learn more? Contact us at [camping@colbsa.org](mailto:camping@colbsa.org)</p>
+<p class="text-center">Have questions or want to learn more? Contact us at <a href="mailto:camping@colbsa.org">camping@colbsa.org</a></p>
 
 {% endcontentfor %}
