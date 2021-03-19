@@ -51,7 +51,7 @@ Highlights include:
 
 <div class="row"> 
   <div class="col">
-    <table class="table table-striped my-3 ">
+    <table class="table table-striped my-3 text-center">
       <thead class="text-center">
         <tr>
           <th scope="col">Age</th>
@@ -120,6 +120,6 @@ Highlights include:
   </div>
 </div>
 
-Have questions or want to learn more? Contact us at [camping@colbsa.org](mailto:camping@colbsa.org)
+<p class="text-center">Have questions or want to learn more? Contact us at [camping@colbsa.org](mailto:camping@colbsa.org)</p>
 
 {% endcontentfor %}
