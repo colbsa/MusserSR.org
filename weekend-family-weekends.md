@@ -51,11 +51,11 @@ Highlights include:
 
 <div class="row"> 
   <div class="col">
-    <table class="table table-striped my-3 ">
+    <table class="table table-striped my-3 text-center">
       <thead class="text-center">
         <tr>
           <th scope="col">Age</th>
-          <th scope="col"><abbr title="Bring your own tent">BYOT</abbr></th>
+          <th scope="col">BYOT*</th>
           <th scope="col">Indoors</th>
         </tr>
       </thead>
@@ -75,6 +75,9 @@ Highlights include:
           </tr>
           <tr>
             <td colspan="3">You can rent a 3-person tent for $20/weekend</td>
+          </tr>
+          <tr>
+            <td colspan="3">* - <em>Bring Your Own Tent</em></td>
           </tr>
       </tbody>
     </table>
@@ -117,6 +120,6 @@ Highlights include:
   </div>
 </div>
 
-Have questions or want to learn more? Contact us at camping@colbsa.org
+<p class="text-center">Have questions or want to learn more? Contact us at <a href="mailto:camping@colbsa.org">camping@colbsa.org</a></p>
 
 {% endcontentfor %}
