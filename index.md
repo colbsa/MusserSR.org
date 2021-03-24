@@ -3,10 +3,10 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/slide-family-adventures.png
+- image: /img/slider/slide-family-adventures.jpg
   alt:
   link: /weekend/family-weekends
-- image: /img/slider/slide-wanted-day-camps.png
+- image: /img/slider/slide-wanted-day-camps.jpg
   alt:
   link: /summer/day-camp
 
