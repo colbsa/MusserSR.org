@@ -3,9 +3,12 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/slide-musser-covid19.png
-  alt: "Picture of a campfire in the dark with the writing 'Musser SR and COVID-19'"
-  link: /coronavirus
+- image: /img/slider/slide-family-adventures.jpg
+  alt:
+  link: /weekend/family-weekends
+- image: /img/slider/slide-wanted-day-camps.png
+  alt:
+  link: /summer/day-camp
 
 button-bar:
   Register For Summer Camp: /summer/register
