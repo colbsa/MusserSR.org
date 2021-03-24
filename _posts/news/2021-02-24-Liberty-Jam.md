@@ -2,7 +2,7 @@
 layout: post
 title: Liberty Jam
 author:
-date: 2020-02-24
+date: 2021-02-24
 banner:
 banneralt:
 thumbnail: 2021-Liberty-Jam.png
