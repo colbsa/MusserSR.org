@@ -2,7 +2,7 @@
 layout: post
 title: Cub Day Camp - Sign-up Today!
 author: John Bickel
-date: 2019-03-20
+date: 2021-03-20
 banner:
 banneralt:
 thumbnail: Wanted-Day-Camps.jpg
