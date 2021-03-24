@@ -6,7 +6,7 @@ slides:
 - image: /img/slider/slide-family-adventures.jpg
   alt:
   link: /weekend/family-weekends
-- image: /img/slider/slide-wanted-day-camps.jpg
+- image: /img/slider/slide-wanted-day-camps.png
   alt:
   link: /summer/day-camp
 
