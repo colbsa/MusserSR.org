@@ -2,8 +2,8 @@
   name: Summer Camp Details
   files:
   - name: 2021 Summer Day Camp Flier
-    url:
-    update: /files/summer_details/2021_CommunityDayCamps_Flier.pdf
+    url: /files/summer_details/2021_CommunityDayCamps_Flier.pdf
+    update:
   - name: 2021 Day Camp Parents Guide
     url:
     update: Mid-April
@@ -17,11 +17,14 @@
     url: /files/summer_forms/Release_of_Campers.docx
     update:
   - name: Refund Request Form
-    url:
-    update: 2021-05-01
+    url: https://colbsa.doubleknot.com/document/2021-day-camp-refund-policy/204050
+    update:
 - section:
   name: Weekend Camp Details
   files:
+  - name: Family Adventure Weekends Flier
+    url: /files/weekend_details/FamilyAdventureWeekends.pdf
+    update: 2021-05-01
 - section:
   name: Health & Safety Forms
   files:
