@@ -7,7 +7,7 @@ excerpt: Day Camp is a perfect program for younger Scouts and Scouts who want mo
 
 Day Camp at Musser is a week-long, Monday through Friday program. Program begins at 9am each day and ends at 4pm each day. Cubs will participate in various activities throughout Camp Garrison, including archery, BB, handicraft, STEM, and much more! Your Den will be guided through an exciting week by our trained volunteer. Registration is on an individual basis.
 
-**NEW FOR 2021** - For those parents who need to drop their Scouts off early, or pick up your Scouts a little later, we will be offering before and after care. There will be an additional fee of $50 for 7:30am drop-off or 6:00pm pick-up. For both early drop-off and late pick-up there is a fee of $75. When registering you Cub for camp, select the early drop-off or late pick-up option to take full advantage of this new opportunity!
+<!-- **NEW FOR 2021** - For those parents who need to drop their Scouts off early, or pick up your Scouts a little later, we will be offering before and after care. There will be an additional fee of $50 for 7:30am drop-off or 6:00pm pick-up. For both early drop-off and late pick-up there is a fee of $75. When registering you Cub for camp, select the early drop-off or late pick-up option to take full advantage of this new opportunity! -->
 
 <div class="text-center">
   <a class="btn btn-primary" href="/files/summer_details/2021_CommunityDayCamps_Flier.pdf" target="_blank">Download Flier</a>
@@ -43,7 +43,7 @@ Day Camp at Musser is a week-long, Monday through Friday program. Program begins
     </table>
     <div class="text-center">
       <strong>Every kid receives a free patch and t-shirt!</strong><br>
-      <em>All Early Bird rates end May 1, 2021.</em>
+      <em>All Early Bird rates end June 1, 2021.</em>
     </div>
   </div>
   <div class="col">
