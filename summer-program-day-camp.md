@@ -13,6 +13,18 @@ Day Camp at Musser is a week-long, Monday through Friday program. Program begins
   <a class="btn btn-primary" href="/files/summer_details/2021_CommunityDayCamps_Flier.pdf" target="_blank">Download Flier</a>
 </div>
 
+**NEWS** – We are excited to be able to offer *Before & After Care* each day, as well as bussing from certain towns each week!
+
+Before & After Care  
+8am-5:30pm - $10/day
+
+Bussing - $50/week  
+Week 1 - Pottstown, Gilbertsville, Pennsburg  
+Week 2 - Norristown, King of Prussia, Oaks, Collegeville, Royersford, Schwenksville  
+Week 3 - North Wales, Hatfield, Harleysville
+
+Information to sign-up for both options will be emailed out to you after you register for camp!
+
 {% contentfor sidebar %}
 
 {% picture thumb /img/summer/day-camp.png --img class="img-fluid rounded mb-2" --alt A group of boys and a man smiling %}
