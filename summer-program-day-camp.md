@@ -7,12 +7,12 @@ excerpt: Day Camp is a perfect program for younger Scouts and Scouts who want mo
 
 Day Camp at Musser is a week-long, Monday through Friday program. Program begins at 9am each day and ends at 4pm each day. Cubs will participate in various activities throughout Camp Garrison, including archery, BB, handicraft, STEM, and much more! Your Den will be guided through an exciting week by our trained volunteer. Registration is on an individual basis.
 
-**NEWS** – We are excited to be able to offer Before & After care each day, as well as bussing from certain towns each week!
+<!-- **NEW FOR 2021** - For those parents who need to drop their Scouts off early, or pick up your Scouts a little later, we will be offering before and after care. There will be an additional fee of $50 for 7:30am drop-off or 6:00pm pick-up. For both early drop-off and late pick-up there is a fee of $75. When registering you Cub for camp, select the early drop-off or late pick-up option to take full advantage of this new opportunity! -->
+
+**NEWS** – We are excited to be able to offer *Before & After Care* each day, as well as bussing from certain towns each week!
 
 Before & After Care  
 8am-5:30pm - $10/day
-
- 
 
 Bussing - $50/week  
 Week 1 - Pottstown, Gilbertsville, Pennsburg  
@@ -20,8 +20,6 @@ Week 2 - Norristown, King of Prussia, Oaks, Collegeville, Royersford, Schwenksvi
 Week 3 - North Wales, Hatfield, Harleysville
 
 Information to sign-up for both options will be emailed out to you after you register for camp!
-
-<!-- **NEW FOR 2021** - For those parents who need to drop their Scouts off early, or pick up your Scouts a little later, we will be offering before and after care. There will be an additional fee of $50 for 7:30am drop-off or 6:00pm pick-up. For both early drop-off and late pick-up there is a fee of $75. When registering you Cub for camp, select the early drop-off or late pick-up option to take full advantage of this new opportunity! -->
 
 <div class="text-center">
   <a class="btn btn-primary" href="/files/summer_details/2021_CommunityDayCamps_Flier.pdf" target="_blank">Download Flier</a>
