@@ -23,6 +23,10 @@ Week 1 - Pottstown, Gilbertsville, Pennsburg
 Week 2 - Norristown, King of Prussia, Oaks, Collegeville, Royersford, Schwenksville  
 Week 3 - North Wales, Hatfield, Harleysville
 
+<div class="text-center">
+  <a class="btn btn-primary" href="/files/summer_details/2021_Camp_Garrison_Day_Camp_Bus_Schedule.pdf" target="_blank">Download Bus Schedule</a>
+</div>
+
 Information to sign-up for both options will be emailed out to you after you register for camp!
 
 {% contentfor sidebar %}
