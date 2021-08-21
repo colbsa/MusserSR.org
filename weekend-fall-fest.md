@@ -61,7 +61,7 @@ Registration opens on August 20th! Space is limited, so Pre-registration is requ
       </thead>
       <tbody>
           <tr>
-            <td>Session 1<td>
+            <td>Session 1</td>
             <td>October 16</td>
             <td><a class="btn btn-primary btn-block" href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2845482&orgkey=541">Register Now</a></td>
           </tr>
