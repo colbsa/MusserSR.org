@@ -15,7 +15,7 @@ Registration opens on August 20th! Space is limited, so Pre-registration is requ
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/weekend/fall-fest-flier.jpg --img class="img-fluid rounded mb-2" --alt "" %}
+{% picture thumb /img/weekend/fall-fest-flier.jpg --img class="img-fluid rounded mb-2" --alt %}
 
 <a href="/files/weekend_details/FallFest2021.pdf" class="btn btn-block btn-primary my-3" download>Download Flyer</a>
 
