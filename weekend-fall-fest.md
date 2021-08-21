@@ -5,18 +5,20 @@ permalink: /weekend/fall-fest
 excerpt: Throughout the autumn, we host Fall Fest - a day-long program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family!
 ---
 
-The Musser camping experience is not just a summer thing. Throughout the autumn, we host Fall Fest - a half day program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family! Sign up for a morning (9-12) or afternoon (1-4) block to experience our Fall program offerings with your family. Activities are designed for Cubs of all levels and abilities, and may include: Archery shooting, BB gun shooting, Crafts and Pumpkin Carving, Fishing, Ozobots, carnival games, Nature, and more family fun!
+The Musser outdoor fun continues in October as we host our Cub Scout Fall Fest - a full day of programs designed to keep the adventure of Cub Scouting alive for the whole family! Join us on Saturday October 16, 23, and 30 for all of the excitement
 
-All Youth will receive a Fall Fest patch. You don’t want to miss out on the magic Musser has to offer all year long.
+**Activities are designed for Cubs and siblings of all levels and abilities, and will include: Archery, BB’s, Handicrafts, Pumpkin Carving, Bouldering, STEM, Nature, and more fun! All Youth participants will receive a Fall Fest patch.**
+
+Registration opens on August 20th! Space is limited, so Pre-registration is required. Once a session is full we will not be able to accommodate additional registrations for that session. Register today so you don’t miss-out on the magic Musser during the Fall!
 
 <p class="text-danger">Walk-ins will not be accepted. Prior registration is required, and when the session is full, there will be no more registrations accepted for that session.</p>
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/weekend/fall-fest.jpg --img class="img-fluid rounded mb-2" --alt Young scouts carving pumpkins with their parents around a table in the woods %}
+{% picture thumb /img/weekend/fall-fest-flier.jpg --img class="img-fluid rounded mb-2" --alt %}
 
-<!-- <a href="/files/weekend_details/FallFest2020.pdf" class="btn btn-block btn-primary my-3" download>Download Flyer</a>
- -->
+<a href="/files/weekend_details/FallFest2021.pdf" class="btn btn-block btn-primary my-3" download>Download Flyer</a>
+
 {% endcontentfor %}
 
 {% contentfor bottom %}
@@ -34,7 +36,7 @@ All Youth will receive a Fall Fest patch. You don’t want to miss out on the ma
             <td>New Cubs Price - Free!</td>
           </tr>
           <tr>
-            <td>Youth Price - $20</td>
+            <td>Youth Price - $25</td>
           </tr>
           <tr>
             <td>Adult Price - $5</td>
@@ -60,23 +62,18 @@ All Youth will receive a Fall Fest patch. You don’t want to miss out on the ma
       <tbody>
           <tr>
             <td>Session 1</td>
-            <td>October 9</td>
-            <td><a class="btn btn-primary btn-block" href="#">COMING SOON</a></td>
+            <td>October 16</td>
+            <td><a class="btn btn-primary btn-block" href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2845482&orgkey=541">Register Now</a></td>
           </tr>
           <tr>
             <td>Session 2</td>
-            <td>October 16</td>
-            <td><a class="btn btn-primary btn-block" href="#">COMING SOON</a></td>
+            <td>October 23</td>
+            <td><a class="btn btn-primary btn-block" href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2846191&orgkey=541">Register Now</a></td>
           </tr>
           <tr>
             <td>Session 3</td>
-            <td>October 23</td>
-            <td><a class="btn btn-primary btn-block" href="#">COMING SOON</a></td>
-          </tr>
-          <tr>
-            <td>Session 4</td>
             <td>October 30</td>
-            <td><a class="btn btn-primary btn-block" href="#">COMING SOON</a></td>
+            <td><a class="btn btn-primary btn-block" href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2846194&orgkey=541">Register Now</a></td>
           </tr>
       </tbody>
     </table>
