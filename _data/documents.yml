@@ -25,6 +25,9 @@
   - name: Family Adventure Weekends Flier
     url: /files/weekend_details/FamilyAdventureWeekends.pdf
     update: 2021-05-01
+  - name: Fall Fest Flyer
+    url: /files/weekend_details/FallFest2021.pdf
+    update: 2021-05-01
 - section:
   name: Health & Safety Forms
   files:
