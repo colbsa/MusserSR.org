@@ -3,7 +3,7 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/slide-fall-fest.png
+- image: /img/slider/slide-fallfest.png
   alt:
   link: /weekend/fall-fest
 
