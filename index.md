@@ -3,12 +3,9 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/slide-family-adventures.jpg
+- image: /img/slider/slide-fallfest.png
   alt:
-  link: /weekend/family-weekends
-- image: /img/slider/slide-wanted-day-camps.png
-  alt:
-  link: /summer/day-camp
+  link: /weekend/fall-fest
 
 button-bar:
   Register For Summer Camp: /summer/register
