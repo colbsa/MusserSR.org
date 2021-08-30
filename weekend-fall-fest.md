@@ -39,7 +39,7 @@ Registration opens on August 20th! Space is limited, so Pre-registration is requ
             <td>Youth Price - $25</td>
           </tr>
           <tr>
-            <td>Adult Price - $5</td>
+            <td>Adult Price - $10</td>
           </tr>
       </tbody>
     </table>
