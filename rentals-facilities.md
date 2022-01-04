@@ -18,17 +18,13 @@ Musser Scout Reservation is home to {{site.data.lodging.size}} cabins and campsi
 
 {% picture thumb /img/rentals/campsites/generic_creek.jpg --img class="img-fluid rounded" --alt A dome tent pitched with the entryway facing a small creek with fall foliage on the ground %}
 
-<!-- <a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/facilitysearch/2852" target="_blank">Book Now!</a> -->
+<a class="btn btn-primary btn-block" href="https://campreservation.com/525/Camps/417" target="_blank">Book Now!</a>
 
 {% endcontentfor %}
 
 {% contentfor bottom %}
 
-<div class="alert alert-secondary mt-3">
-  The current facility reservation system is closed until January 1, 2022 as we work to move existing reservations onto our new platform. We appreciate your patience as we work to bring you a better facility reservation process in the new year. We cannot take reservations over the phone or via email.  Please contact <a href="mailto:camping@colbsa.org">camping@colbsa.org</a> with any additional questions.
-</div>
-
-<!-- ## Facilities
+## Facilities
 <table class="table table-striped table-responsive" id="facilitiesTable">
   <thead>
     <tr class="text-nowrap">
@@ -217,6 +213,6 @@ Musser Scout Reservation is home to {{site.data.lodging.size}} cabins and campsi
     <h2>Special Events</h2>
     Facility and venue prices are listed for Scouting groups and are based on a per weekend rental except where otherwise noted. Our facilities and camp venues are available for non-Scouting groups to rent. For more information on renting any part of Musser Scout Reservation for a special event, visit <a href="/rentals/private-events">Events in Camp</a>.
   </div>
-</div> -->
+</div>
 
 {% endcontentfor %}
