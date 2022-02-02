@@ -3,9 +3,9 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/slide-fallfest.png
+- image: /img/slider/book-your-campsite-today.png
   alt:
-  link: /weekend/fall-fest
+  link: /rentals/facilities
 
 button-bar:
   Register For Summer Camp: /summer/register
