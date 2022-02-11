@@ -12,7 +12,7 @@ Webelos will experience a weekend of adventure, pitching their own tent and prac
 <div class="text-center">
   <strong>
     Dates and Registration Coming Soon.<br/>
-    See you in 2021!
+    See you in 2022!
   </strong>
 </div>
 

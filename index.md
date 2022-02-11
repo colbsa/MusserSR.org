@@ -8,12 +8,12 @@ slides:
   link: /rentals/facilities
 
 button-bar:
-  Register For Summer Camp: /summer/register
+  Summer Day Camp: https://colbsa.org/daycamp/
   Weekend Rentals: /rentals/facilities
   Volunteer in Camp: /volunteer
 
 quick-links:
-  Register for Summer Camp: /summer/register
+  Register for Summer Camp: https://colbsa.org/daycamp/
   Weekend Rentals: /rentals/facilities
   Contact Us: /contact
 ---
