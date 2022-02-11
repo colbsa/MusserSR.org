@@ -1,53 +1,53 @@
-- title: Reservation Workday
-  date: 2021.09.11
+- title: Volunteer Work Day
+  date: 2022.03.12
   date-end:
-  link-text: No Registration Required
-  link-url:
+  link-text: Learn More
+  link-url: https://scoutingevent.com/?OrgKey=BSA525&calendarID=356149
 
-- title: Beaver Workday
-  date: 2021.09.11
+- title: Beaver Work Day
+  date: 2022.03.26
   date-end:
-  link-text: Register Now
-  link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2767021
+  link-text: Learn More
+  link-url: https://scoutingevent.com/525-55827
 
-- title: Unami Lodge Fall Fellowship
-  date: 2021.10.01
-  date-end: 2021.10.03
-  link-text: Coming Soon
-  link-url:
-
-- title: Reservation Workday
-  date: 2021.10.09
+- title: Volunteer Work Day
+  date: 2022.04.09
   date-end:
-  link-text: No Registration Required
-  link-url:
+  link-text: Learn More
+  link-url: https://scoutingevent.com/?OrgKey=BSA525&calendarID=356150
 
-- title: Cub Scout Fall Fest
-  date: 2021.10.16
+- title: Volunteer Work Day
+  date: 2022.05.14
   date-end:
-  link-text: Register Now
-  link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2845482&orgkey=541
+  link-text: Learn More
+  link-url: https://scoutingevent.com/?OrgKey=BSA525&calendarID=356151
 
-- title: Cub Scout Fall Fest
-  date: 2021.10.23
+- title: Volunteer Work Day
+  date: 2022.06.11
   date-end:
-  link-text: Register Now
-  link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2846191&orgkey=541
+  link-text: Learn More
+  link-url: https://scoutingevent.com/?OrgKey=BSA525&calendarID=356152
 
-- title: Cub Scout Fall Fest
-  date: 2021.10.30
-  date-end:
-  link-text: Register Now
-  link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2846194&orgkey=541
+- title: Cub Scout Day Camp
+  date: 2022.07.11
+  date-end: 2022.07.15
+  link-text: Learn More
+  link-url: https://colbsa.org/daycamp/
 
-- title: Reservation Workday
-  date: 2021.11.13
-  date-end:
-  link-text: No Registration Required
-  link-url: 
+- title: Cub Scout Day Camp
+  date: 2022.07.18
+  date-end: 2022.07.22
+  link-text: Learn More
+  link-url: https://colbsa.org/daycamp/
 
-- title: Reservation Workday
-  date: 2021.12.18
+- title: Cub Scout Day Camp
+  date: 2022.08.01
+  date-end: 2022.08.05
+  link-text: Learn More
+  link-url: https://colbsa.org/daycamp/
+
+- title: Beaver Work Day
+  date: 2022.09.10
   date-end:
-  link-text: No Registration Required
-  link-url:
+  link-text: Learn More
+  link-url: https://scoutingevent.com/525-55827
