@@ -84,6 +84,11 @@ Information to sign-up for both options will be emailed out to you after you reg
             <td>July 25 - 29</td>
             <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-54385-143888">Register Now</a></td>
           </tr>
+          <tr>
+            <td>Week 4</td>
+            <td>August 1 - 5</td>
+            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-54385-143889">Register Now</a></td>
+          </tr>
       </tbody>
     </table>
   </div>
