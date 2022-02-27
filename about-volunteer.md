@@ -8,7 +8,7 @@ excerpt: Musser Scout Reservation is always looking for volunteers to help make 
 Looking to spend more time in camp? Want to give back to Scouting and camp? Musser Scout Reservation is always looking for volunteers to help make camp an even greater place!
 
 <h2>Campmasters <div class="h5">The Key to Outstanding Customer Service</div></h2>
-A positive camping experience begins with welcoming and enthusiastic hosts. The campmasters fill this role of hosts during a weekend of camping. This group of registered Scouters perform unit check-in and check-out, as well as opening the Trading Post and helping with any problems that may arise. Campmasters are also encouraged to offer program for the Scouts in camp or assist with a camp improvement project.
+A positive camping experience begins with welcoming and enthusiastic hosts. The campmasters fill this role of hosts during a weekend of camping. This group of registered Scouters perform unit check-in and check-out, as well as opening the Trading Post and helping with any problems that may arise. Campmasters are also encouraged to offer program for the Scouts in camp or assist with a camp improvement project. Contact [Campmaster Chair Bill Neihoff](mailto:campmaster@mussersr.org) to learn more and to volunteer.
 
 Campmastering is a great way for a group of adult leaders to enjoy all the fun that camp has to offer in a whole new way. [Email us](/contact?subject=Campmaster) to let us know you are interested in serving as a campmaster and find weekends to serve!
 
