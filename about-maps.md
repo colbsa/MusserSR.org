@@ -16,6 +16,7 @@ Below are links to maps of all three camps to help you navigate throughout your 
 - [Camp Garrison Map](/files/maps/CampGarrison-Map.pdf)
 - [Camp Hart Map](/files/maps/CampHart-Map.pdf)
 - [Camp Delmont Map](/files/maps/CampDelmont-Map.pdf)
+- [Nelson Training Center Map](/files/maps/NelsonTrainingCenter-Map.pdf)
 
 {% contentfor sidebar %}
 
