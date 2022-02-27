@@ -8,9 +8,9 @@ excerpt: Musser Scout Reservation is always looking for volunteers to help make 
 Looking to spend more time in camp? Want to give back to Scouting and camp? Musser Scout Reservation is always looking for volunteers to help make camp an even greater place!
 
 <h2>Campmasters <div class="h5">The Key to Outstanding Customer Service</div></h2>
-A positive camping experience begins with welcoming and enthusiastic hosts. The campmasters fill this role of hosts during a weekend of camping. This group of registered Scouters perform unit check-in and check-out, as well as opening the Trading Post and helping with any problems that may arise. Campmasters are also encouraged to offer program for the Scouts in camp or assist with a camp improvement project. Contact [Campmaster Chair Bill Neihoff](mailto:campmaster@mussersr.org) to learn more and to volunteer.
+A positive camping experience begins with welcoming and enthusiastic hosts. The campmasters fill this role of hosts during a weekend of camping. This group of registered Scouters perform unit check-in and check-out, as well as opening the Trading Post and helping with any problems that may arise. Campmasters are also encouraged to offer program for the Scouts in camp or assist with a camp improvement project.
 
-Campmastering is a great way for a group of adult leaders to enjoy all the fun that camp has to offer in a whole new way. [Email us](/contact?subject=Campmaster) to let us know you are interested in serving as a campmaster and find weekends to serve!
+Campmastering is a great way for a group of adult leaders to enjoy all the fun that camp has to offer in a whole new way. Contact [Campmaster Chair Bill Neihoff](mailto:campmaster@mussersr.org) to learn more and to volunteer.
 
 <h2>Cub Scout Day Camp</h2>
 Are you looking for a fun way to spend a week of your time this summer? Join us for a week of Day Camp and help our Cub Scouts have a Wild West adventure this summer! Whether you love to teach Nature, STEM, Handicraft, Shooting Sports, or a different area, or you just want to help lead the Scouts from station to station, we need lots of folks to help provide the fun for the Cubs. Contact [John Bickel](mailto:John.Bickel@scouting.org) if you are interested in helping!
