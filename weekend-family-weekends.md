@@ -62,13 +62,13 @@ Highlights include:
       <tbody>
           <tr>
             <td>Youth (ages 5-17)</td>
-            <td>$60</td>
-            <td>$90</td>
+            <td>TBD</td>
+            <td>TBD</td>
           </tr>
           <tr>
             <td>Adult (18+)</td>
-            <td>$50</td>
-            <td>$80</td>
+            <td>TBD</td>
+            <td>TBD</td>
           </tr>
           <tr>
             <td colspan="3">Youth under 5 are free</td>
@@ -94,23 +94,18 @@ Highlights include:
       <tbody>
           <tr>
             <td>1</td>
-            <td>June 18-20</td>
-            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/family-adventure-weekend-june-18-20/2797976">Register Now</a></td>
+            <td>TBD</td>
+            <td><a class="btn btn-primary btn-block disabled" href="#">Coming Soon</a></td>
           </tr>
           <tr>
             <td>2</td>
-            <td>July 9-11</td>
-            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/family-adventure-weekend-july-9-11/2800191">Register Now</a></td>
+            <td>TBD</td>
+            <td><a class="btn btn-primary btn-block disabled" href="#">Coming Soon</a></td>
           </tr>
           <tr>
             <td>3</td>
-            <td>July 23-25</td>
-            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/family-adventure-weekend-july-23-25/2800192">Register Now</a></td>
-          </tr>
-          <tr>
-            <td>4</td>
-            <td>August 6-8</td>
-            <td><a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/event/family-adventure-weekend-august-6-8/2800193">Register Now</a></td>
+            <td>TBD</td>
+            <td><a class="btn btn-primary btn-block disabled" href="#">Coming Soon</a></td>
           </tr>
       </tbody>
     </table>

@@ -5,7 +5,7 @@ permalink: /weekend/fall-fest
 excerpt: Throughout the autumn, we host Fall Fest - a day-long program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family!
 ---
 
-<div class="alert alert-warning" role="alert">Due to unprecedented demand, Fall Fest reached capacity attendance earlier than anticipated and all three sessions are sold-out!</div>
+<div class="alert alert-warning" role="alert">2022 Fall Fest Dates and information will be released by June 1. Stay tuned for more details and make plans to join us this coming Fall!</div>
 
 The Musser outdoor fun continues in October as we host our Cub Scout Fall Fest - a full day of programs designed to keep the adventure of Cub Scouting alive for the whole family! Join us on Saturday October 16, 23, and 30 for all of the excitement
 

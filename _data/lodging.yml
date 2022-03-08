@@ -561,7 +561,7 @@
 - name: USS Cradle of Liberty
   camp: Garrison
   class: First Class
-  cabin: true
+  cabin: false
   site: true
   cost: 300
   capacity: 40

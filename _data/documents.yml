@@ -1,12 +1,12 @@
 - section:
   name: Summer Camp Details
   files:
-  - name: 2021 Summer Day Camp Flier
-    url: /files/summer_details/2021_CommunityDayCamps_Flier.pdf
-    update:
-  - name: 2021 Day Camp Parents Guide
+  - name: 2022 Summer Day Camp Flier
     url:
-    update: Mid-April
+    update: 2022-03-01
+  - name: 2022 Day Camp Parents Guide
+    url:
+    update: 2022-04-01
 - section:
   name: Summer Camp Forms
   files:
@@ -17,17 +17,17 @@
     url: /files/summer_forms/Release_of_Campers.docx
     update:
   - name: Refund Request Form
-    url: https://colbsa.doubleknot.com/document/2021-day-camp-refund-policy/204050
+    url: https://docs.google.com/document/d/1kvda44vJiIkXx-T26SsUARmF0rIt8PD2/edit?usp=sharing&ouid=101960319838387460261&rtpof=true&sd=true
     update:
 - section:
   name: Weekend Camp Details
   files:
   - name: Family Adventure Weekends Flier
-    url: /files/weekend_details/FamilyAdventureWeekends.pdf
-    update: 2021-05-01
+    url:
+    update: 2022-03-01
   - name: Fall Fest Flyer
-    url: /files/weekend_details/FallFest2021.pdf
-    update: 2021-05-01
+    url:
+    update: 2022-03-01
 - section:
   name: Health & Safety Forms
   files:

@@ -11,8 +11,7 @@ Webelos will experience a weekend of adventure, pitching their own tent and prac
 
 <div class="text-center">
   <strong>
-    Dates and Registration Coming Soon.<br/>
-    See you in 2022!
+    We’ll be holding the event in the Fall 2022 – Stay tuned for dates and information released by June 1!
   </strong>
 </div>
 
