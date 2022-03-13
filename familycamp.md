@@ -31,7 +31,7 @@ Highlights include:
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/weekend/cub-family-camp-flier.jpg --img class="img-fluid rounded mb-2" --alt %}
+{% picture thumb /img/weekend/cub-family-camp-flier.png --img class="img-fluid rounded mb-2" --alt %}
 
 {% endcontentfor %}
 
