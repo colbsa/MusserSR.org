@@ -10,7 +10,7 @@ Day Camp at Musser is a week-long, Monday through Friday program. Program begins
 <!-- **NEW FOR 2021** - For those parents who need to drop their Scouts off early, or pick up your Scouts a little later, we will be offering before and after care. There will be an additional fee of $50 for 7:30am drop-off or 6:00pm pick-up. For both early drop-off and late pick-up there is a fee of $75. When registering you Cub for camp, select the early drop-off or late pick-up option to take full advantage of this new opportunity! -->
 
 <div class="text-center">
-  <a class="btn btn-primary" href="https://colbsa.org/daycamp/" target="_blank">More Day Camp Details</a>
+  <a class="btn btn-primary mb-3" href="https://colbsa.org/daycamp/" target="_blank">More Day Camp Details</a>
 </div>
 
 <div class="row">
