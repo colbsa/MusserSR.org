@@ -13,6 +13,14 @@ Day Camp at Musser is a week-long, Monday through Friday program. Program begins
   <a class="btn btn-primary" href="https://colbsa.org/daycamp/" target="_blank">More Day Camp Details</a>
 </div>
 
+<div class="row">
+  <div class="col-lg-8 offset-lg-2">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ltnw3ulhZ-I" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+
 <!-- **NEWS** – We are excited to be able to offer *Before & After Care* each day, as well as bussing from certain towns each week!
 
 Before & After Care  
@@ -31,7 +39,7 @@ Information to sign-up for both options will be emailed out to you after you reg
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/summer/day-camp.png --img class="img-fluid rounded mb-2" --alt A group of boys and a man smiling %}
+{% picture thumb /img/summer/day-camp.png --img class="img-fluid rounded mt-3" --alt A group of scouts and a scouter smiling %}
 
 {% endcontentfor %}
 
