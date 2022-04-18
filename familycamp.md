@@ -89,12 +89,12 @@ Highlights include:
           <tr>
             <td>1</td>
             <td>July 22-24</td>
-            <td><a class="btn btn-primary btn-block disabled" href="#">Coming Soon</a></td>
+            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-57825">Register Now</a></td>
           </tr>
           <tr>
             <td>2</td>
             <td>July 29-31</td>
-            <td><a class="btn btn-primary btn-block disabled" href="#">Coming Soon</a></td>
+            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-57831">Register Now</a></td>
           </tr>
       </tbody>
     </table>
