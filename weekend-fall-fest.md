@@ -5,13 +5,13 @@ permalink: /weekend/fall-fest
 excerpt: Throughout the autumn, we host Fall Fest - a day-long program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family!
 ---
 
-<div class="alert alert-warning" role="alert">2022 Fall Fest Dates and information will be released by June 1. Stay tuned for more details and make plans to join us this coming Fall!</div>
+<div class="alert alert-warning" role="alert">2022 Dates and info released – read more below and register today!</div>
 
-The Musser outdoor fun continues in October as we host our Cub Scout Fall Fest - a full day of programs designed to keep the adventure of Cub Scouting alive for the whole family! Join us on Saturday October 16, 23, and 30 for all of the excitement
+The Musser outdoor fun continues in October as we host our Cub Scout Fall Fest - a full day of programs designed to keep the adventure of Cub Scouting alive for the whole family! Join us on Saturday October 15, 22, and 29 for all of the excitement. We’ll open a Sunday or two if the Saturdays fill quickly.
 
 **Activities are designed for Cubs and siblings of all levels and abilities, and will include: Archery, BB’s, Handicrafts, Pumpkin Carving, Bouldering, STEM, Nature, and more fun! All Youth participants will receive a Fall Fest patch.**
 
-Registration opens on August 20th! Space is limited, so Pre-registration is required. Once a session is full we will not be able to accommodate additional registrations for that session. Register today so you don’t miss-out on the magic Musser during the Fall!
+Registration opens August 1st! Space is limited, so Pre-registration is required. Once a session is full we will not be able to accommodate additional registrations for that session. Register today so you don’t miss-out on the magic of Musser in the Fall!
 
 <p class="text-danger">Walk-ins will not be accepted. Prior registration is required, and when the session is full, there will be no more registrations accepted for that session.</p>
 
@@ -19,7 +19,7 @@ Registration opens on August 20th! Space is limited, so Pre-registration is requ
 
 {% picture thumb /img/weekend/fall-fest-flier.jpg --img class="img-fluid rounded mb-2" --alt %}
 
-<a href="/files/weekend_details/FallFest2021.pdf" class="btn btn-block btn-primary my-3" download>Download Flyer</a>
+<a href="/files/weekend_details/FallFest2022.pdf" class="btn btn-block btn-primary my-3" download>Download Flyer</a>
 
 {% endcontentfor %}
 
@@ -64,18 +64,18 @@ Registration opens on August 20th! Space is limited, so Pre-registration is requ
       <tbody>
           <tr>
             <td>Session 1</td>
-            <td>October 16</td>
-            <td><a class="btn btn-primary btn-block disabled" href="#">Sold Out</a></td>
+            <td>October 15</td>
+            <td><a class="btn btn-primary btn-block disabled" href="#">Coming Soon</a></td>
           </tr>
           <tr>
             <td>Session 2</td>
-            <td>October 23</td>
-            <td><a class="btn btn-primary btn-block disabled" href="#">Sold Out</a></td>
+            <td>October 22</td>
+            <td><a class="btn btn-primary btn-block disabled" href="#">Coming Soon</a></td>
           </tr>
           <tr>
             <td>Session 3</td>
-            <td>October 30</td>
-            <td><a class="btn btn-primary btn-block disabled" href="#">Sold Out</a></td>
+            <td>October 29</td>
+            <td><a class="btn btn-primary btn-block disabled" href="#">Coming Soon</a></td>
           </tr>
       </tbody>
     </table>
