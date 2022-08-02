@@ -7,7 +7,7 @@ excerpt: Throughout the autumn, we host Fall Fest - a day-long program that keep
 
 <div class="alert alert-warning" role="alert">2022 Dates and info released – read more below and register today!</div>
 
-The Musser outdoor fun continues in October as we host our Cub Scout Fall Fest - a full day of programs designed to keep the adventure of Cub Scouting alive for the whole family! Join us on Saturday October 15, 22, and 29 for all of the excitement. We’ll open a Sunday or two if the Saturdays fill quickly.
+The Musser outdoor fun continues in October as we host our Cub Scout Fall Fest - a full day of programs designed to keep the adventure of Cub Scouting alive for the whole family! Join us on Saturday October 15, 22, and 29 for all of the excitement. We’ll open a Sunday or two if the Saturdays fill quickly. Program will run 9AM - 4PM.
 
 **Activities are designed for Cubs and siblings of all levels and abilities, and will include: Archery, BB’s, Handicrafts, Pumpkin Carving, Bouldering, STEM, Nature, and more fun! All Youth participants will receive a Fall Fest patch.**
 
@@ -65,23 +65,20 @@ Registration opens August 1st! Space is limited, so Pre-registration is required
           <tr>
             <td>Session 1</td>
             <td>October 15</td>
-            <td><a class="btn btn-primary btn-block disabled" href="#">Coming Soon</a></td>
+            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-61033-156243">Register Now</a></td>
           </tr>
           <tr>
             <td>Session 2</td>
             <td>October 22</td>
-            <td><a class="btn btn-primary btn-block disabled" href="#">Coming Soon</a></td>
+            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-61033-156245">Register Now</a></td>
           </tr>
           <tr>
             <td>Session 3</td>
             <td>October 29</td>
-            <td><a class="btn btn-primary btn-block disabled" href="#">Coming Soon</a></td>
+            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-61033-156246">Register Now</a></td>
           </tr>
       </tbody>
     </table>
-    <!-- <div class="text-center">
-      <a role="button" class="btn btn-primary btn-lg" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
-    </div> -->
   </div>
 </div>
 
