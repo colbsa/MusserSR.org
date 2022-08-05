@@ -9,9 +9,13 @@ excerpt: Throughout the autumn, we host Fall Fest - a day-long program that keep
 
 The Musser outdoor fun continues in October as we host our Cub Scout Fall Fest - a full day of programs designed to keep the adventure of Cub Scouting alive for the whole family! Join us on Saturday October 15, 22, and 29 for all of the excitement. We’ll open a Sunday or two if the Saturdays fill quickly. Program will run 9AM - 4PM.
 
+<div class="text-center">
+  <a href="https://scoutingevent.com/525-61033" class="btn btn-primary btn-lg">Register Here</a>
+</div>
+
 **Activities are designed for Cubs and siblings of all levels and abilities, and will include: Archery, BB’s, Handicrafts, Pumpkin Carving, Bouldering, STEM, Nature, and more fun! All Youth participants will receive a Fall Fest patch.**
 
-Registration opens August 1st! Space is limited, so Pre-registration is required. Once a session is full we will not be able to accommodate additional registrations for that session. Register today so you don’t miss-out on the magic of Musser in the Fall!
+Space is limited, so Pre-registration is required. Once a session is full we will not be able to accommodate additional registrations for that session. Register today so you don’t miss-out on the magic of Musser in the Fall!
 
 <p class="text-danger">Walk-ins will not be accepted. Prior registration is required, and when the session is full, there will be no more registrations accepted for that session.</p>
 
