@@ -21,9 +21,7 @@ Space is limited, so Pre-registration is required. Once a session is full we wil
 
 {% contentfor sidebar %}
 
-<a href="https://scoutingevent.com/525-61033" target="_blank">
 {% picture thumb /img/weekend/fall-fest-flier.jpg --img class="img-fluid rounded mb-2" --alt %}
-</a>
 
 <a href="/files/weekend_details/FallFest2022.pdf" class="btn btn-block btn-primary my-3" download>Download Flyer</a>
 
