@@ -80,22 +80,22 @@ Information to sign-up for both options will be emailed out to you after you reg
           <tr>
             <td>Week 1</td>
             <td>July 11 - 15</td>
-            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-54385-143886">Register Now</a></td>
+            <td><a class="btn btn-primary btn-block disabled" href="https://scoutingevent.com/525-54385-143886">Event Passed</a></td>
           </tr>
           <tr>
             <td>Week 2</td>
             <td>July 18 - 22</td>
-            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-54385-143887">Register Now</a></td>
+            <td><a class="btn btn-primary btn-block disabled" href="https://scoutingevent.com/525-54385-143887">Event Passed</a></td>
           </tr>
           <tr>
             <td>Week 3</td>
             <td>July 25 - 29</td>
-            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-54385-143888">Register Now</a></td>
+            <td><a class="btn btn-primary btn-block disabled" href="https://scoutingevent.com/525-54385-143888">Event Passed</a></td>
           </tr>
           <tr>
             <td>Week 4</td>
             <td>August 1 - 5</td>
-            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-54385-143889">Register Now</a></td>
+            <td><a class="btn btn-primary btn-block disabled" href="https://scoutingevent.com/525-54385-143889">Event Passed</a></td>
           </tr>
       </tbody>
     </table>

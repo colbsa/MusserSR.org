@@ -3,9 +3,9 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/slide-2022-medieval.png
+- image: /img/slider/slide-fallfest.png
   alt:
-  link: /summer/day-camp
+  link: /weekend/fall-fest
 - image: /img/slider/book-your-campsite-today.png
   alt:
   link: /rentals/facilities
