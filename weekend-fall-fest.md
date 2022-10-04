@@ -69,17 +69,22 @@ Space is limited, so Pre-registration is required. Once a session is full we wil
           <tr>
             <td>Session 1</td>
             <td>October 15</td>
-            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-61033-156243">Register Now</a></td>
+            <td><a class="btn btn-primary btn-block disabled" href="https://scoutingevent.com/525-61033-156243">Session Full</a></td>
           </tr>
           <tr>
             <td>Session 2</td>
             <td>October 22</td>
-            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-61033-156245">Register Now</a></td>
+            <td><a class="btn btn-primary btn-block disabled" href="https://scoutingevent.com/525-61033-156245">Session Full</a></td>
+          </tr>
+          <tr>
+            <td>Session 2</td>
+            <td>October 23</td>
+            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-61033">Register Now</a></td>
           </tr>
           <tr>
             <td>Session 3</td>
             <td>October 29</td>
-            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-61033-156246">Register Now</a></td>
+            <td><a class="btn btn-primary btn-block disabled" href="https://scoutingevent.com/525-61033-156246">Session Full</a></td>
           </tr>
       </tbody>
     </table>
