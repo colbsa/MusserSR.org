@@ -3,9 +3,9 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/slide-fallfest.png
+- image: /img/slider/outdoor-adventure-lab.png
   alt:
-  link: /weekend/fall-fest
+  link: http://www.outdooradventurelab.org?ref=mussersr
 - image: /img/slider/book-your-campsite-today.png
   alt:
   link: /rentals/facilities
