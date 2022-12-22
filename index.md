@@ -3,9 +3,9 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/slide-fallfest.png
+- image: /img/slider/outdoor-adventure-lab.png
   alt:
-  link: /weekend/fall-fest
+  link: http://www.outdooradventurelab.org?ref=mussersr
 - image: /img/slider/book-your-campsite-today.png
   alt:
   link: /rentals/facilities
@@ -14,12 +14,13 @@ slides:
   link: https://scoutingevent.com/525-55827
 
 button-bar:
-  Summer Day Camp: https://colbsa.org/daycamp/
+  STEM Adventure Day Camp: http://www.outdooradventurelab.org/daycamp?ref=mussersr
   Weekend Rentals: /rentals/facilities
   Volunteer in Camp: /volunteer
 
 quick-links:
-  Register for Summer Camp: https://colbsa.org/daycamp/
+  Register for Summer Camp: http://www.outdooradventurelab.org/daycamp?ref=mussersr
+  Outdoor Adventure Lab: http://www.outdooradventurelab.org?ref=mussersr
   Weekend Rentals: /rentals/facilities
   Contact Us: /contact
 ---
