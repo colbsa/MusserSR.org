@@ -11,7 +11,7 @@ slides:
   link: /rentals/facilities
 - image: /img/slider/beaver-workday.png
   alt:
-  link: https://scoutingevent.com/525-55827
+  link: https://colbsa.org/calendar
 
 button-bar:
   STEM Adventure Day Camp: http://www.outdooradventurelab.org/daycamp?ref=mussersr

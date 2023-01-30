@@ -1,24 +1,47 @@
-- title: Cub Scout Fall Fest
-  date: 2020-10-15
+- title: Beaver Work Day
+  date: 2023-04-01
   date-end:
   link-text: Learn More
-  link-url: /weekend/fall-fest
+  link-url: https://colbsa.org/calendar
 
-- title: Cub Scout Fall Fest
-  date: 2020-10-22
-  date-end:
+- title: STEM Adventure Day Camp - Week 1
+  date: 2023-06-26
+  date-end: 2023-06-30
   link-text: Learn More
-  link-url: /weekend/fall-fest
+  link-url: https://outdooradventurelab.org/home/daycamps
 
-- title: Cub Scout Fall Fest
-  date: 2020-10-23
-  date-end:
+- title: STEM Adventure Day Camp - Week 2
+  date: 2023-07-03
+  date-end: 2023-07-07
   link-text: Learn More
-  link-url: /weekend/fall-fest
+  link-url: https://outdooradventurelab.org/home/daycamps
 
-- title: Cub Scout Fall Fest
-  date: 2020-10-29
-  date-end:
+- title: STEM Adventure Day Camp - Week 3
+  date: 2023-07-10
+  date-end: 2023-07-14
   link-text: Learn More
-  link-url: /weekend/fall-fest
+  link-url: https://outdooradventurelab.org/home/daycamps
 
+- title: STEM Adventure Day Camp - Week 4
+  date: 2023-07-17
+  date-end: 2023-07-21
+  link-text: Learn More
+  link-url: https://outdooradventurelab.org/home/daycamps
+
+- title: STEM Adventure Day Camp - Week 5
+  date: 2023-07-24
+  date-end: 2023-07-28
+  link-text: Learn More
+  link-url: https://outdooradventurelab.org/home/daycamps
+
+- title: Cub Family Camp
+  date: 2023-07-28
+  date-end: 2023-07-30
+  link-text: Learn More
+  link-url: /familycamp
+
+- title: STEM Adventure Day Camp - Week 6
+  date: 2023-07-31
+  date-end: 2023-08-01
+  link-text: Learn More
+  link-url: https://outdooradventurelab.org/home/daycamps
