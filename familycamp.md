@@ -5,7 +5,7 @@ permalink: /familycamp
 excerpt: Different than our summer camp program opportunities, this weekend is designed with your family in mind.
 ---
 
-Looking for an opportunity to get outdoors for some camping and fun with your family or Pack this summer? Join us at Camp Garrison for one of our Cub Family Camp weekends! You bring the people, and we’ll bring the program, food, and FUN to make for a great time in camp. Check-in starts Friday night at 6pm, and the fun runs through Sunday morning.
+Looking for an opportunity to get outdoors for some camping and fun with your family or Pack this summer? Join us at Camp Garrison for our Cub Family Camp weekend! You bring the people, and we’ll bring the program, food, and FUN to make for a great time in camp. Check-in starts Friday night at 6pm, and the fun runs through Sunday morning.
 
 Our goal is to help you enjoy the outdoors without the normal fast-paced schedule of typical Cub camp. Cub Family Camp will have program offered throughout your time in camp, but you will have the opportunity to decide what your family or Pack attends. Hanging-out in the campsite is more than acceptable, and going for a hike or fishing are other great ways to spend your weekend with us!
 
@@ -31,7 +31,7 @@ Highlights include:
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/weekend/cub-family-camp-flier.png --img class="img-fluid rounded mb-2" --alt %}
+{% picture thumb /img/weekend/cub-family-camp-flier.jpg --img class="img-fluid rounded mb-2" --alt %}
 
 {% endcontentfor %}
 
@@ -80,21 +80,14 @@ Highlights include:
     <table class="table table-striped my-3 text-center">
       <thead>
         <tr>
-          <th scope="col">Session</th>
           <th scope="col">Dates</th>
           <th scope="col">Register</th>
         </tr>
       </thead>
       <tbody>
           <tr>
-            <td>1</td>
-            <td>July 22-24</td>
-            <td><a class="btn btn-primary btn-block disabled" href="#">Event Passed</a></td>
-          </tr>
-          <tr>
-            <td>2</td>
-            <td>July 29-31</td>
-            <td><a class="btn btn-primary btn-block disabled" href="#">Event Passed</a></td>
+            <td>July 28-30</td>
+            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-65815">Register Now</a></td>
           </tr>
       </tbody>
     </table>

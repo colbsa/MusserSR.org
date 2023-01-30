@@ -5,7 +5,7 @@ permalink: /weekend/fall-fest
 excerpt: Throughout the autumn, we host Fall Fest - a day-long program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family!
 ---
 
-<div class="alert alert-warning" role="alert">2022 Dates and info released – read more below and register today!</div>
+<div class="alert alert-warning" role="alert">2023 Fall Fest Dates and Information will be released over the Summer</div>
 
 The Musser outdoor fun continues in October as we host our Cub Scout Fall Fest - a full day of programs designed to keep the adventure of Cub Scouting alive for the whole family! Join us on Saturday October 15, 22, and 29 for all of the excitement. We’ll open a Sunday or two if the Saturdays fill quickly. Program will run 9AM - 4PM.
 
@@ -68,23 +68,18 @@ Space is limited, so Pre-registration is required. Once a session is full we wil
       <tbody>
           <tr>
             <td>Session 1</td>
-            <td>October 15</td>
-            <td><a class="btn btn-primary btn-block disabled" href="https://scoutingevent.com/525-61033-156243">Session Full</a></td>
+            <td>TBD</td>
+            <td><a class="btn btn-primary btn-block disabled" href="#">Coming Soon</a></td>
           </tr>
           <tr>
             <td>Session 2</td>
-            <td>October 22</td>
-            <td><a class="btn btn-primary btn-block disabled" href="https://scoutingevent.com/525-61033-156245">Session Full</a></td>
-          </tr>
-          <tr>
-            <td>Session 2</td>
-            <td>October 23</td>
-            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-61033">Register Now</a></td>
+            <td>TBD</td>
+            <td><a class="btn btn-primary btn-block disabled" href="#">Coming Soon</a></td>
           </tr>
           <tr>
             <td>Session 3</td>
-            <td>October 29</td>
-            <td><a class="btn btn-primary btn-block disabled" href="https://scoutingevent.com/525-61033-156246">Session Full</a></td>
+            <td>TBD</td>
+            <td><a class="btn btn-primary btn-block disabled" href="#">Coming Soon</a></td>
           </tr>
       </tbody>
     </table>
