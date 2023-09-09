@@ -116,5 +116,6 @@ Redirect /family-weekends /familycamp
 
 Redirect /daycamp /summer/day-camp
 Redirect /fallfest /weekend/fall-fest
+Redirect /fallfestt /weekend/fall-fest
 
 Redirect /news/Beaver-Work-Day https://scoutingevent.com/525-55827
