@@ -5,7 +5,7 @@ permalink: /weekend/fall-fest
 excerpt: Throughout the autumn, we host Fall Fest - a day-long program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family!
 ---
 
-<div class="alert alert-warning" role="alert">2023 Fall Fest registration will start at noon on Tuesday, August 1st. Make plans to join us for all of the fall fun in October.</div>
+<div class="alert alert-warning" role="alert">2023 Fall Fest registration is now open. Make plans to join us for all of the fall fun in October.</div>
 
 The Musser outdoor fun continues in October as we host our Cub Scout Fall Fest - a full day of programs designed to keep the adventure of Cub Scouting alive for the whole family! Join us on Saturday October 14, 21, 22, and 28 for all of the excitement. Program will run 9AM - 4PM.
 
@@ -15,7 +15,7 @@ Activities are designed for Cubs and siblings of all levels and abilities, and w
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-WOq4mruCgY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<p class="text-danger">Space is limited, so pre-registration is required. Once a session is full we will not be able to accommodate additional registrations for that session. Register today so you don’t miss-out on the magic of Musser in the fall!</p>
+<p class="text-danger">Space is limited, so pre-registration is required. Once a session is full we will not be able to accommodate additional registrations for that session. Register today so you don’t miss-out on the magic of Musser in the fall! For any questions about Fall Fest program, contact <a href="mailto:fallfest@mussersr.org">fallfest@mussersr.org</a>. For any questions about registering for Fall Fest or existing registrations, contact <a href="mailto:camping@colbsa.org">camping@colbsa.org</a></p>
 
 {% contentfor sidebar %}
 
