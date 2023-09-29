@@ -80,12 +80,18 @@ Activities are designed for Cubs and siblings of all levels and abilities, and w
           <tr>
             <td>Session 3</td>
             <td>October 22nd, 2023</td>
-            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-73425-180590">Register Now</a></td>
+            <td>
+              <!-- <a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-73425-180590">Register Now</a> -->
+              Session Full
+            </td>
           </tr>
           <tr>
             <td>Session 4</td>
             <td>October 28th, 2023</td>
-            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-73425-180589">Register Now</a></td>
+            <td>
+              <!-- <a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-73425-180589">Register Now</a> -->
+              Session Full
+            </td>
           </tr>
       </tbody>
     </table>
