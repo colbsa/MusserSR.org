@@ -1,11 +1,11 @@
 ---
-title: Cub Family Camp
+title: Cub Family Weekend
 layout: page
 permalink: /familycamp
 excerpt: Different than our summer camp program opportunities, this weekend is designed with your family in mind.
 ---
 
-Looking for an opportunity to get outdoors for some camping and fun with your family or Pack this summer? Join us at Camp Garrison for our Cub Family Camp weekend! You bring the people, and we’ll bring the program, food, and FUN to make for a great time in camp. Check-in starts Friday night at 6pm, and the fun runs through Sunday morning.
+Looking for an opportunity to get outdoors for some camping and fun with your family or Pack this summer? Join us at Camp Garrison for our Cub Family Weekend! You bring the people, and we’ll bring the program, food, and FUN to make for a great time in camp. Check-in starts Friday night at 7pm, and the fun runs through Sunday morning.
 
 Our goal is to help you enjoy the outdoors without the normal fast-paced schedule of typical Cub camp. Cub Family Camp will have program offered throughout your time in camp, but you will have the opportunity to decide what your family or Pack attends. Hanging-out in the campsite is more than acceptable, and going for a hike or fishing are other great ways to spend your weekend with us!
 
@@ -22,20 +22,13 @@ Highlights include:
   </div>
   <div class="col">
     <ul>
-      <li>Everyone gets a patch</li>
-      <li>Choose whether you camp in a tent or stay indoors at the Fort or Castle</li>
+      <li>Choose whether you tent or stay indoors at the Fort or Castle</li>
       <li>Good food – Friday snack through Sunday Breakfast</li>
     </ul>
   </div>
 </div>
 
-{% contentfor sidebar %}
-
-{% picture thumb /img/weekend/cub-family-camp-flier.jpg --img class="img-fluid rounded mb-2" --alt %}
-
-{% endcontentfor %}
-
-{% contentfor bottom %}
+For Saturday-Only participants - you can select that you are only attending for Saturday in each individual persons' registration. 
 
 <div class="row"> 
   <div class="col">
@@ -86,17 +79,15 @@ Highlights include:
       </thead>
       <tbody>
           <tr>
-            <td>July 28-30</td>
-            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-65815">Register Now</a></td>
+            <td>July 12-14</td>
+            <td><a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-81728">Register Now</a></td>
           </tr>
       </tbody>
     </table>
-    <div class="text-center">
+    <!-- <div class="text-center">
       <a class="btn btn-primary btn-lg" target="_blank" href="/files/weekend_details/CubFamilyCamp-Flier.pdf">Cub Family Camp Flier</a>
-    </div>
+    </div> -->
   </div>
 </div>
 
-<p class="text-center">Have questions or want to learn more? Contact us at <a href="mailto:camping@colbsa.org">camping@colbsa.org</a></p>
-
-{% endcontentfor %}
+<p class="text-center">Have questions or want to learn more? Contact us at <a href="mailto:campdirector@mussersr.org">campdirector@mussersr.org</a></p>
