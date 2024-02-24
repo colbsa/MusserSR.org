@@ -30,14 +30,6 @@ Highlights include:
 
 For Saturday-Only participants - you can select that you are only attending for Saturday in each individual persons' registration. 
 
-{% contentfor sidebar %}
-
-{% picture thumb /img/weekend/cub-family-camp-flier.jpg --img class="img-fluid rounded mb-2" --alt %}
-
-{% endcontentfor %}
-
-{% contentfor bottom %}
-
 <div class="row"> 
   <div class="col">
   {% picture thumb /img/weekend/family-weekend-fishing.jpg --img class="img-fluid rounded mb-2" --alt A father showing off the family's catch of fish with two children %}
@@ -92,12 +84,10 @@ For Saturday-Only participants - you can select that you are only attending for 
           </tr>
       </tbody>
     </table>
-    <div class="text-center">
+    <!-- <div class="text-center">
       <a class="btn btn-primary btn-lg" target="_blank" href="/files/weekend_details/CubFamilyCamp-Flier.pdf">Cub Family Camp Flier</a>
-    </div>
+    </div> -->
   </div>
 </div>
 
 <p class="text-center">Have questions or want to learn more? Contact us at <a href="mailto:campdirector@mussersr.org">campdirector@mussersr.org</a></p>
-
-{% endcontentfor %}
