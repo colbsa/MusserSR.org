@@ -1,7 +1,7 @@
 ---
 title: Weekend Overnight Camp
 layout: page
-permalink: /summer/weekend-overnight
+permalink: /summer/weekend-overnight/
 excerpt: With three nights and three days to enjoy the Musser camping experience, this next level of program introduces Cubs to a wide-array of camp activities.
 ---
 

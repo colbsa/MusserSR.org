@@ -1,7 +1,7 @@
 ---
 title: Fall Fest
 layout: page
-permalink: /weekend/fall-fest
+permalink: /weekend/fall-fest/
 excerpt: Throughout the autumn, we host Fall Fest - a day-long program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family!
 ---
 

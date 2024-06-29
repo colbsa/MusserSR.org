@@ -1,7 +1,7 @@
 ---
 title: Cub Family Weekend
 layout: page
-permalink: /familycamp
+permalink: /familycamp/
 excerpt: Different than our summer camp program opportunities, this weekend is designed with your family in mind.
 ---
 

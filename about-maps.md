@@ -1,7 +1,7 @@
 ---
 title: Camp Maps
 layout: page
-permalink: /maps
+permalink: /maps/
 excerpt: There are a variety of trails and camps throughout our reservation and these maps are available to help people find their way.
 ---
 Musser Scout Reservation - located in northwestern Montgomery County - is home to three sub-camps and over 10 miles of hiking trails situated in a 1,400-acre valley of Scouting adventure. Each sub-camp has its own unique charm and personality, perfect for all levels of Scouts to enjoy.

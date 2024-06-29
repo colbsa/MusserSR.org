@@ -1,7 +1,7 @@
 ---
 title: Reserve a Facility
 layout: page
-permalink: /rentals/facilities
+permalink: /rentals/facilities/
 excerpt: Musser Scout Reservation is home to many cabins and campsites available for rental throughout the year.
 dependencies:
 - src: //cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js

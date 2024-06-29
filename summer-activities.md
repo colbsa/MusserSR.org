@@ -1,7 +1,7 @@
 ---
 title: Activities Around Camp
 layout: page
-permalink: /summer/activities
+permalink: /summer/activities/
 excerpt: Many traditional summer highlights are available alongside new programs and fun to have.
 ---
 

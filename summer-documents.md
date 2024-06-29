@@ -1,7 +1,7 @@
 ---
 title: Important Documents
 layout: page
-permalink: /documents
+permalink: /documents/
 excerpt: Flyers, information packets, and forms for summer camp and weekend excursions.
 ---
 

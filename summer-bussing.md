@@ -1,7 +1,7 @@
 ---
 title: Day Camp Bus Service
 layout: page
-permalink: /summer/bus
+permalink: /summer/bus/
 excerpt: We are happy to once again provide bus transportation to help get your Cub Scouts to Day Camp to make the camp schedule simple for your family!
 ---
 
