@@ -1,7 +1,7 @@
 ---
 title: Training Opportunities
 layout: page
-permalink: /weekend/training
+permalink: /weekend/training/
 excerpt: Shooting Sports classes, NYLT, Wood Badge, and other training courses are conducted to give your unit the tools they need to offer the best Scouting program possible.
 ---
 

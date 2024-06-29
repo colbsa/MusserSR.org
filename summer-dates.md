@@ -1,7 +1,7 @@
 ---
 title: Dates & Rates
 layout: page
-permalink: /summer/dates
+permalink: /summer/dates/
 excerpt: Day camp, weekend camping, and weeklong adventures are available throughout the summer. See what works best for you!
 ---
 

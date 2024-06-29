@@ -1,7 +1,7 @@
 ---
 title: Food & Nutrition
 layout: page
-permalink: /summer/food
+permalink: /summer/food/
 excerpt: The summer camp program provides Scouts and Scouters with a well-balanced and nutritious meal plan for the duration of their stay in camp.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Family Adventure Weekends
 layout: page
-permalink: /weekend/family-weekends
+permalink: /weekend/family-weekends/
 excerpt: Different than our summer camp program opportunities, this weekend is designed with your family in mind.
 ---
 

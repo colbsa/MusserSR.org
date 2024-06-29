@@ -1,7 +1,7 @@
 ---
 title: Spring Fling
 layout: page
-permalink: /weekend/spring-fling
+permalink: /weekend/spring-fling/
 excerpt: This taste of the Musser camping experience will include activities at Nature, STEM, Handicraft, Scoutcraft, Archery, BBs, and more!
 ---
 

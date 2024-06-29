@@ -1,7 +1,7 @@
 ---
 title: Schedule a Camp Promotion
 layout: page
-permalink: /summer/camp-promotion
+permalink: /summer/camp-promotion/
 excerpt: Our staff are passionate about our camp and we would love to show you everything the Musser camping experience has to offer.
 ---
 
@@ -9,6 +9,6 @@ Thank you for considering Musser Scout Reservation as your camping destination t
 
 {% contentfor sidebar %}
 
-<a class="btn btn-primary btn-block mb-2" href="/contact?subject=Camp%20Promotion">Schedule a Promotion</a>
+Contact us at hello@mussersr.org to schedule a promotion!
 
 {% endcontentfor %}
