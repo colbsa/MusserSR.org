@@ -20,9 +20,7 @@ picture:
   nomarkdown: false
   suppress_warnings: true
 
-recaptcha: 6LdmHcIUAAAAAMMBaaQiAMhIn25IwZQC7Xeb2byD
-
-permalink: /news/:title
+permalink: /news/:title/
 
 pagination:
   enabled: true
@@ -32,3 +30,4 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
+
