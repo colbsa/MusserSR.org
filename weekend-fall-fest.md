@@ -19,9 +19,9 @@ Activities are designed for Cubs and siblings of all levels and abilities, and w
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/weekend/fall-fest-flier.jpg --img class="img-fluid rounded mb-2" --alt %}
+{% picture thumb /img/weekend/fall-fest-flier.png --img class="img-fluid rounded mb-2" --alt %}
 
-<a href="/files/weekend_details/FallFest2023.pdf" class="btn btn-block btn-primary my-3" download>Download Flyer</a>
+<a href="/files/weekend_details/FallFest2024.pdf" class="btn btn-block btn-primary my-3" download>Download Flyer</a>
 
 {% endcontentfor %}
 
