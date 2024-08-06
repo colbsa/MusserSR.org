@@ -5,11 +5,11 @@ permalink: /weekend/fall-fest/
 excerpt: Throughout the autumn, we host Fall Fest - a day-long program that keeps the adventure of Cub Scouting and Cub Camp happening for the whole family!
 ---
 
-<div class="alert alert-warning" role="alert">2023 Fall Fest registration is now open. Make plans to join us for all of the fall fun in October.</div>
+<div class="alert alert-warning" role="alert">2024 Fall Fest Registration will be live at noon on Tuesday, August 1st. Make plans to join us for all of the Fall fun in October & November.</div>
 
-The Musser outdoor fun continues in October as we host our Cub Scout Fall Fest - a full day of programs designed to keep the adventure of Cub Scouting alive for the whole family! Join us on Saturday October 14, 21, 22, and 28 for all of the excitement. Program will run 9AM - 4PM.
+The Musser outdoor fun continues in October as we host our Cub Scout Fall Fest - a full day of programs designed to keep the adventure of Cub Scouting alive for the whole family! Join us on Saturday October October 19, 20, 26, 27, as well as November 2, 3 for all of the excitement. Program will run 9AM - 4PM.
 
-Activities are designed for Cubs and siblings of all levels and abilities, and will include: Archery, BB’s, Handicrafts, Pumpkin Carving, Bouldering, STEM, Nature, and more fun!
+Activities are designed for Cubs and siblings of all levels and abilities, and will include: Archery, BB’s, Handicrafts, Pumpkin Carving, Bouldering, STEM, Nature, and more fun! Lunch is also included in the registration fee.
 
 <div class="embed-responsive embed-responsive-16by9 col-10 offset-1 my-5">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-WOq4mruCgY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -37,9 +37,6 @@ Activities are designed for Cubs and siblings of all levels and abilities, and w
       </thead>
       <tbody>
           <tr>
-            <td>New Cubs Price - Free!</td>
-          </tr>
-          <tr>
             <td>Youth Price - $25</td>
           </tr>
           <tr>
@@ -63,34 +60,44 @@ Activities are designed for Cubs and siblings of all levels and abilities, and w
       <tbody>
           <tr>
             <td>Session 1</td>
-            <td>October 14th, 2023</td>
+            <td>October 19, 2024</td>
             <td>
-              <!-- <a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-73425-180587">Register Now</a> -->
-              Session Full
+              <a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-87724-209238">Register Now</a>
             </td>
           </tr>
           <tr>
             <td>Session 2</td>
-            <td>October 21st, 2023</td>
+            <td>October 20, 2024</td>
             <td>
-              <!-- <a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-73425-180588">Register Now</a> -->
-              Session Full
+              <a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-87724-209245">Register Now</a>
             </td>
           </tr>
           <tr>
             <td>Session 3</td>
-            <td>October 22nd, 2023</td>
+            <td>October 26, 2024</td>
             <td>
-              <!-- <a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-73425-180590">Register Now</a> -->
-              Session Full
+              <a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-87724-209239">Register Now</a>
             </td>
           </tr>
           <tr>
             <td>Session 4</td>
-            <td>October 28th, 2023</td>
+            <td>October 27, 2024</td>
             <td>
-              <!-- <a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-73425-180589">Register Now</a> -->
-              Session Full
+              <a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-87724-209241">Register Now</a>
+            </td>
+          </tr>
+          <tr>
+            <td>Session 5</td>
+            <td>November 2, 2024</td>
+            <td>
+              <a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-87724-209240">Register Now</a>
+            </td>
+          </tr>
+          <tr>
+            <td>Session 6</td>
+            <td>November 3, 2024</td>
+            <td>
+              <a class="btn btn-primary btn-block" href="https://scoutingevent.com/525-87724-209247">Register Now</a>
             </td>
           </tr>
       </tbody>
