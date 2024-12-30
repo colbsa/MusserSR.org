@@ -21,9 +21,9 @@ Has your unit always come to Musser? Are you interested in sharing the Musser ca
 To join the camp promotions team, contact hello@mussersr.org for more information.
 
 <h2>Adopt-A-Cabin / Adopt-A-Campsite <div class="h5">Earn Your Unit's Next Stay</div></h2>
-Does your unit have a few leaders or parents who love camp and want to help us improve it? We are excited to reintroduce our Adopt-A-Cabin/Adopt-A-Campsite program in an effort to upgrade the many structures and campsites throughout Musser Scout Reservation. Your unit will “adopt” a cabin or campsite to help make it welcoming and functional through general repairs and beautification upgrades. 
+Does your unit have a few leaders or parents who love camp and want to help us improve it? We are excited to reintroduce our Adopt-A-Cabin/Adopt-A-Campsite program in an effort to upgrade the many structures and campsites throughout Musser Scout Reservation. Your unit will “adopt” a cabin or campsite to help make it welcoming and functional through general repairs and beautification upgrades.
 
-If you are interested in “adopting” a cabin or campsite, download [this information packet](/files/Adopt_A_Cabin_Campsite.pdf) and contact ranger@mussersr.org!
+If you are interested in “adopting” a cabin or campsite, download [this information packet](/files/Adopt_A_Cabin_Campsite.pdf) and contact brian.lynn@scouting.org!
 
 <h2>Camp Service &amp; Conservation Projects <div class="h5">Give-Back to Help Musser Shine</div></h2>
-Do Scouts in your unit need to complete service hours for rank advancement, school, or religious institution? What better way to accomplish those hours than giving back to one of our camps! Units can either come to camp for the day or spend a few hours during a weekend camping trip helping make Musser Scout Reservation a better place. To arrange a service project, contact ranger@mussersr.org.
+Do Scouts in your unit need to complete service hours for rank advancement, school, or religious institution? What better way to accomplish those hours than giving back to one of our camps! Units can either come to camp for the day or spend a few hours during a weekend camping trip helping make Musser Scout Reservation a better place. To arrange a service project, contact brian.lynn@scouting.org.
