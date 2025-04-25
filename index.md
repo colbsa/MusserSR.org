@@ -15,12 +15,6 @@ slides:
 
 button-bar:
   STEM Adventure Day Camp: http://www.outdooradventurelab.org/daycamp?ref=mussersr
-  Weekend Rentals: /rentals/facilities
+  Weekend Rentals: https://campreservation.com/525/Camps/417
   Volunteer in Camp: /volunteer
-
-quick-links:
-  Register for Summer Camp: http://www.outdooradventurelab.org/daycamp?ref=mussersr
-  Outdoor Adventure Lab: http://www.outdooradventurelab.org?ref=mussersr
-  Weekend Rentals: /rentals/facilities
-  Contact Us: /contact
 ---

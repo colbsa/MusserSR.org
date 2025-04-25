@@ -241,6 +241,9 @@ iframe {
   padding-top: 1em;
   min-height: calc(100vh - 318px);
 }
+.static-landing{
+    padding: 1em 13.5%;
+}
 .featured-actions{
   background-color: var(--site-primary);
   padding: 0.5em 13.5%;
