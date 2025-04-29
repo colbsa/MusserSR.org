@@ -8,7 +8,7 @@ slides:
   link: http://www.outdooradventurelab.org?ref=mussersr
 - image: /img/slider/book-your-campsite-today.png
   alt:
-  link: /rentals/facilities
+  link: https://campreservation.com/525/Camps/417
 - image: /img/slider/beaver-workday.png
   alt:
   link: https://colbsa.org/calendar
