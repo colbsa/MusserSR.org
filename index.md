@@ -8,19 +8,13 @@ slides:
   link: http://www.outdooradventurelab.org?ref=mussersr
 - image: /img/slider/book-your-campsite-today.png
   alt:
-  link: /rentals/facilities
+  link: https://campreservation.com/525/Camps/417
 - image: /img/slider/beaver-workday.png
   alt:
   link: https://colbsa.org/calendar
 
 button-bar:
   STEM Adventure Day Camp: http://www.outdooradventurelab.org/daycamp?ref=mussersr
-  Weekend Rentals: /rentals/facilities
+  Weekend Rentals: https://campreservation.com/525/Camps/417
   Volunteer in Camp: /volunteer
-
-quick-links:
-  Register for Summer Camp: http://www.outdooradventurelab.org/daycamp?ref=mussersr
-  Outdoor Adventure Lab: http://www.outdooradventurelab.org?ref=mussersr
-  Weekend Rentals: /rentals/facilities
-  Contact Us: /contact
 ---
