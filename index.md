@@ -3,9 +3,6 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/slider-fallfest-2025.png
-  alt:
-  link: https://www.mussersr.org/weekend/fall-fest
 - image: /img/slider/outdoor-adventure-lab.png
   alt:
   link: http://www.outdooradventurelab.org?ref=mussersr
